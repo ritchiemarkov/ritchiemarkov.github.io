@@ -4,3 +4,8 @@ html,body {
   font-optical-sizing: auto;
 
 }
+
+
+.card-heading {
+background-color: red;
+}
