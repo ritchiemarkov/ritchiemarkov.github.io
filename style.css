@@ -6,6 +6,12 @@ html,body {
 }
 
 
+h1 {
+font-weight: 900;
+font-family: "Geist", sans-serif;
+background-color: lime;   
+}
+
 .card-heading {
 background-color: red;
 }
