@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>404 — Pagina non trovata</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="/assets/css/variables.css">
+	<link rel="stylesheet" href="/assets/css/reset.css">
+	<link rel="stylesheet" href="/assets/css/typography.css">
+	<link rel="stylesheet" href="/assets/css/layout.css">
+	<link rel="stylesheet" href="/assets/css/navbar.css">
+	<link rel="stylesheet" href="/assets/css/buttons.css">
+	<link rel="stylesheet" href="/assets/css/forms.css">
+	<link rel="stylesheet" href="/assets/css/footer.css">
+
+	<style>
+		.error-404 {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+			min-height: 60vh;
+			padding: var(--space-10) 0;
+		}
+		.error-404__content { max-width: 28rem; }
+		.error-404__code {
+			display: block;
+			font-size: 6rem;
+			font-weight: 800;
+			line-height: 1;
+			letter-spacing: -0.05em;
+			color: hsl(var(--muted-foreground) / 0.3);
+			margin-bottom: var(--space-4);
+		}
+		.error-404__title { margin-bottom: var(--space-3); }
+		.error-404__description { margin-bottom: var(--space-6); }
+		.error-404__actions { margin-bottom: var(--space-8); }
+		.error-404__search { max-width: 24rem; margin-inline: auto; }
+	</style>
+</head>
+<body>
+
+<div class="site">
+	<!-- ========== HEADER ========== -->
+	<header class="site-header">
+		<div class="container">
+			<div class="site-header__inner">
+				<div class="site-branding">
+					<a href="/index.html" class="site-title">Starter Flavor</a>
+				</div>
+				<nav class="main-navigation">
+					<ul class="nav-menu">
+						<li class="menu-item"><a href="/index.html" class="nav-link">Blog</a></li>
+						<li class="menu-item"><a href="/archive.html" class="nav-link">Archivio</a></li>
+						<li class="menu-item"><a href="/page.html" class="nav-link">Chi sono</a></li>
+					</ul>
+				</nav>
+				<div class="site-header__actions">
+					<button id="theme-toggle" class="btn btn-ghost btn-icon" aria-label="Cambia tema" type="button">
+						<svg class="icon icon-sun" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+						<svg class="icon icon-moon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+					</button>
+					<button id="mobile-menu-toggle" class="btn btn-ghost btn-icon mobile-menu-toggle" aria-label="Apri menu" aria-expanded="false" type="button">
+						<svg class="icon icon-menu" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+						<svg class="icon icon-x" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+					</button>
+				</div>
+			</div>
+			<div id="mobile-menu" class="mobile-menu" aria-hidden="true">
+				<ul class="mobile-nav-menu">
+					<li><a href="/index.html" class="nav-link">Blog</a></li>
+					<li><a href="/archive.html" class="nav-link">Archivio</a></li>
+					<li><a href="/page.html" class="nav-link">Chi sono</a></li>
+				</ul>
+			</div>
+		</div>
+	</header>
+
+	<!-- ========== 404 ========== -->
+	<div class="site-content">
+		<main>
+			<section class="error-404">
+				<div class="error-404__content">
+					<span class="error-404__code">404</span>
+					<h1 class="error-404__title">Pagina non trovata</h1>
+					<p class="error-404__description text-muted-foreground">La pagina che stai cercando non esiste o è stata spostata.</p>
+					<div class="error-404__actions">
+						<a href="/index.html" class="btn btn-default">
+							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+							Torna alla home
+						</a>
+					</div>
+					<div class="error-404__search">
+						<form class="search-form">
+							<div class="search-form__inner">
+								<svg class="search-form__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+								<input type="search" class="input search-form__input" placeholder="Cerca...">
+								<button type="submit" class="btn btn-default search-form__submit">Cerca</button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
+
+	<!-- ========== FOOTER ========== -->
+	<footer class="site-footer">
+		<div class="container">
+			<div class="site-footer__inner">
+				<div class="site-footer__branding">
+					<a href="/index.html" class="site-footer__logo">Starter Flavor</a>
+					<p class="site-footer__description text-muted-foreground">Un tema moderno con design system shadcn/ui, vanilla CSS e JavaScript.</p>
+				</div>
+			</div>
+			<div class="site-footer__bottom">
+				<p class="text-sm text-muted-foreground">&copy; 2026 Starter Flavor. Tutti i diritti riservati.</p>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<script src="/assets/js/main.js"></script>
+</body>
+</html>

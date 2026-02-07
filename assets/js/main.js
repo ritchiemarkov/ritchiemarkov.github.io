@@ -1,14 +1,12 @@
 /**
- * Flavor Starter Theme - ShadCN
- * Script principale (Vanilla JavaScript)
+ * Starter Flavor Theme - ShadCN
+ * Vanilla JavaScript
  */
 
 (function () {
 	'use strict';
 
-	/* ----------------------------------------
-	   DARK MODE
-	   ---------------------------------------- */
+	/* ---- DARK MODE ---- */
 
 	const ThemeManager = {
 		STORAGE_KEY: 'starter-flavor-shadcn-theme',
@@ -42,7 +40,6 @@
 				document.documentElement.classList.remove(this.DARK_CLASS);
 			}
 
-			// Ascolta cambiamenti di sistema (solo se non c'è preferenza salvata)
 			if (!stored) {
 				window
 					.matchMedia('(prefers-color-scheme: dark)')
@@ -67,9 +64,7 @@
 		},
 	};
 
-	/* ----------------------------------------
-	   MOBILE MENU
-	   ---------------------------------------- */
+	/* ---- MOBILE MENU ---- */
 
 	const MobileMenu = {
 		init() {
@@ -81,14 +76,10 @@
 
 			this.toggle.addEventListener('click', () => this.toggleMenu());
 
-			// Chiudi con Escape
 			document.addEventListener('keydown', (e) => {
-				if (e.key === 'Escape' && this.isOpen) {
-					this.closeMenu();
-				}
+				if (e.key === 'Escape' && this.isOpen) this.closeMenu();
 			});
 
-			// Chiudi al click fuori
 			document.addEventListener('click', (e) => {
 				if (
 					this.isOpen &&
@@ -99,11 +90,8 @@
 				}
 			});
 
-			// Chiudi al resize se si passa a desktop
 			window.addEventListener('resize', () => {
-				if (window.innerWidth >= 768 && this.isOpen) {
-					this.closeMenu();
-				}
+				if (window.innerWidth >= 768 && this.isOpen) this.closeMenu();
 			});
 		},
 
@@ -115,54 +103,18 @@
 			this.isOpen = true;
 			this.menu.setAttribute('aria-hidden', 'false');
 			this.toggle.setAttribute('aria-expanded', 'true');
-			this.toggle.setAttribute(
-				'aria-label',
-				'Chiudi menu'
-			);
+			this.toggle.setAttribute('aria-label', 'Chiudi menu');
 		},
 
 		closeMenu() {
 			this.isOpen = false;
 			this.menu.setAttribute('aria-hidden', 'true');
 			this.toggle.setAttribute('aria-expanded', 'false');
-			this.toggle.setAttribute(
-				'aria-label',
-				'Apri menu'
-			);
+			this.toggle.setAttribute('aria-label', 'Apri menu');
 		},
 	};
 
-	/* ----------------------------------------
-	   SMOOTH SCROLL PER ANCHOR LINKS
-	   ---------------------------------------- */
-
-	const SmoothScroll = {
-		init() {
-			document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
-				anchor.addEventListener('click', (e) => {
-					const targetId = anchor.getAttribute('href');
-					if (targetId === '#') return;
-
-					const target = document.querySelector(targetId);
-					if (!target) return;
-
-					e.preventDefault();
-					const headerHeight =
-						document.querySelector('.site-header')?.offsetHeight ||
-						0;
-
-					window.scrollTo({
-						top: target.offsetTop - headerHeight - 16,
-						behavior: 'smooth',
-					});
-				});
-			});
-		},
-	};
-
-	/* ----------------------------------------
-	   HEADER SCROLL BEHAVIOR
-	   ---------------------------------------- */
+	/* ---- HEADER HIDE ON SCROLL ---- */
 
 	const HeaderScroll = {
 		init() {
@@ -170,7 +122,7 @@
 			if (!this.header) return;
 
 			this.lastScroll = 0;
-			this.scrollThreshold = 5;
+			this.threshold = 5;
 
 			window.addEventListener('scroll', () => this.onScroll(), {
 				passive: true,
@@ -178,52 +130,39 @@
 		},
 
 		onScroll() {
-			const currentScroll = window.scrollY;
+			const y = window.scrollY;
 
-			if (currentScroll <= 0) {
-				this.header.classList.remove(
-					'site-header--hidden',
-					'site-header--scrolled'
-				);
+			if (y <= 0) {
+				this.header.classList.remove('site-header--hidden', 'site-header--scrolled');
 				return;
 			}
 
-			if (currentScroll > 60) {
+			if (y > 60) {
 				this.header.classList.add('site-header--scrolled');
 			} else {
 				this.header.classList.remove('site-header--scrolled');
 			}
 
-			if (
-				Math.abs(currentScroll - this.lastScroll) < this.scrollThreshold
-			) {
-				return;
-			}
+			if (Math.abs(y - this.lastScroll) < this.threshold) return;
 
-			if (currentScroll > this.lastScroll && currentScroll > 200) {
-				// Scroll giù
+			if (y > this.lastScroll && y > 200) {
 				this.header.classList.add('site-header--hidden');
 			} else {
-				// Scroll su
 				this.header.classList.remove('site-header--hidden');
 			}
 
-			this.lastScroll = currentScroll;
+			this.lastScroll = y;
 		},
 	};
 
-	/* ----------------------------------------
-	   INIZIALIZZAZIONE
-	   ---------------------------------------- */
+	/* ---- INIT ---- */
 
 	function init() {
 		ThemeManager.init();
 		MobileMenu.init();
-		SmoothScroll.init();
 		HeaderScroll.init();
 	}
 
-	// Avvia quando il DOM è pronto
 	if (document.readyState === 'loading') {
 		document.addEventListener('DOMContentLoaded', init);
 	} else {

@@ -1,62 +1,41 @@
 # Starter Flavor Theme - ShadCN
 
-Tema WordPress moderno con design system shadcn/ui, costruito con vanilla CSS e JavaScript.
+Template HTML con design system shadcn/ui, vanilla CSS modulare e JavaScript.
 
-## Caratteristiche
+## Preview
 
-- Design system shadcn/ui completo (colori, tipografia, spaziatura, ombre)
-- Dark mode con toggle e rispetto delle preferenze di sistema
-- Font Geist (il font ufficiale di Vercel/shadcn)
-- Componenti: Card, Badge, Button, Input, Search Form
-- Menu responsive con hamburger mobile
-- Header sticky con hide-on-scroll
-- Griglia post responsive (1/2/3 colonne)
-- Template completi: index, single, page, archive, search, 404, comments
-- Navigazione articoli (precedente/successivo)
-- Paginazione stilizzata
-- Stili prose per il contenuto degli articoli
-- Supporto blocchi WordPress (alignwide, alignfull)
-- Sidebar e widget personalizzati
-- Accessibilita (skip links, aria labels, focus visible)
-- Zero dipendenze JavaScript (vanilla JS)
-- Zero dipendenze CSS (vanilla CSS con custom properties)
+Apri `index.html` nel browser per vedere la homepage.
 
-## Installazione
+## Template
 
-1. Scarica o clona questa repository
-2. Copia la cartella nella directory `wp-content/themes/` di WordPress
-3. Attiva il tema dal pannello di amministrazione WordPress
+| File | Descrizione |
+|------|-------------|
+| `index.html` | Homepage / Blog con griglia di card |
+| `single.html` | Articolo singolo con stili prose |
+| `page.html` | Pagina statica (es. Chi sono) |
+| `archive.html` | Archivio con filtri e ricerca |
+| `404.html` | Pagina errore 404 |
 
-## Struttura
+## CSS Modulare
+
+Ogni componente ha il suo foglio di stile:
 
 ```
-starter-flavor-shadcn/
-├── style.css                    # Header tema WordPress
-├── functions.php                # Configurazione tema
-├── header.php                   # Header con navigazione
-├── footer.php                   # Footer
-├── index.php                    # Template principale
-├── single.php                   # Articolo singolo
-├── page.php                     # Pagina statica
-├── archive.php                  # Archivi
-├── search.php                   # Risultati ricerca
-├── searchform.php               # Form di ricerca
-├── 404.php                      # Pagina non trovata
-├── comments.php                 # Commenti
-├── sidebar.php                  # Sidebar
-├── template-parts/
-│   ├── content.php              # Card articolo
-│   ├── content-none.php         # Nessun risultato
-│   ├── content-page.php         # Contenuto pagina
-│   └── content-search.php       # Risultato ricerca
-└── assets/
-    ├── css/
-    │   └── shadcn.css           # Design system completo
-    └── js/
-        └── main.js              # Dark mode, menu mobile, scroll
+assets/css/
+├── variables.css    # Design tokens shadcn (colori HSL, spacing, radius, ombre)
+├── reset.css        # CSS reset
+├── typography.css   # Heading, text utilities
+├── layout.css       # Container, grid, utilities
+├── navbar.css       # Header, nav desktop, menu mobile
+├── buttons.css      # Button (default, secondary, outline, ghost, destructive, link)
+├── cards.css        # Card post con thumbnail, meta, excerpt
+├── badges.css       # Badge (default, secondary, outline, destructive)
+├── forms.css        # Input, textarea, search form
+├── pagination.css   # Paginazione numerata
+├── prose.css        # Stili per contenuto articoli (headings, code, blockquote, table)
+└── footer.css       # Footer con griglia
 ```
 
-## Requisiti
+## JavaScript
 
-- WordPress 6.0+
-- PHP 8.0+
+`assets/js/main.js` — Dark mode, menu mobile, header hide-on-scroll. Zero dipendenze.

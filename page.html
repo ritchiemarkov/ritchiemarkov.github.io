@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Chi sono — Starter Flavor ShadCN</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Geist+Mono:wght@100..900&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="/assets/css/variables.css">
+	<link rel="stylesheet" href="/assets/css/reset.css">
+	<link rel="stylesheet" href="/assets/css/typography.css">
+	<link rel="stylesheet" href="/assets/css/layout.css">
+	<link rel="stylesheet" href="/assets/css/navbar.css">
+	<link rel="stylesheet" href="/assets/css/buttons.css">
+	<link rel="stylesheet" href="/assets/css/prose.css">
+	<link rel="stylesheet" href="/assets/css/footer.css">
+</head>
+<body>
+
+<div class="site">
+	<!-- ========== HEADER ========== -->
+	<header class="site-header">
+		<div class="container">
+			<div class="site-header__inner">
+				<div class="site-branding">
+					<a href="/index.html" class="site-title">Starter Flavor</a>
+				</div>
+				<nav class="main-navigation">
+					<ul class="nav-menu">
+						<li class="menu-item"><a href="/index.html" class="nav-link">Blog</a></li>
+						<li class="menu-item"><a href="/archive.html" class="nav-link">Archivio</a></li>
+						<li class="menu-item"><a href="/page.html" class="nav-link nav-link--active">Chi sono</a></li>
+					</ul>
+				</nav>
+				<div class="site-header__actions">
+					<button id="theme-toggle" class="btn btn-ghost btn-icon" aria-label="Cambia tema" type="button">
+						<svg class="icon icon-sun" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+						<svg class="icon icon-moon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+					</button>
+					<button id="mobile-menu-toggle" class="btn btn-ghost btn-icon mobile-menu-toggle" aria-label="Apri menu" aria-expanded="false" type="button">
+						<svg class="icon icon-menu" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+						<svg class="icon icon-x" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+					</button>
+				</div>
+			</div>
+			<div id="mobile-menu" class="mobile-menu" aria-hidden="true">
+				<ul class="mobile-nav-menu">
+					<li><a href="/index.html" class="nav-link">Blog</a></li>
+					<li><a href="/archive.html" class="nav-link">Archivio</a></li>
+					<li><a href="/page.html" class="nav-link nav-link--active">Chi sono</a></li>
+				</ul>
+			</div>
+		</div>
+	</header>
+
+	<!-- ========== PAGINA ========== -->
+	<div class="site-content">
+		<main>
+			<div class="container container--narrow" style="padding-top:var(--space-8);padding-bottom:var(--space-16)">
+				<h1 style="font-size:2.25rem;font-weight:800;letter-spacing:-0.03em;margin-bottom:var(--space-6)">Chi sono</h1>
+
+				<div class="prose">
+					<p>Ciao, sono <strong>Ritchie</strong>. Sviluppatore web con la passione per il design pulito, i sistemi modulari e il codice semplice.</p>
+
+					<p>Questo sito è costruito come un <em>template starter</em> per temi WordPress. Utilizza il design system <strong>shadcn/ui</strong> implementato interamente in vanilla CSS, senza framework, senza preprocessori, senza dipendenze.</p>
+
+					<h2>Stack</h2>
+					<ul>
+						<li><strong>CSS</strong> — Custom properties (variabili), architettura modulare</li>
+						<li><strong>JavaScript</strong> — Vanilla, zero dipendenze</li>
+						<li><strong>Font</strong> — Geist di Vercel</li>
+						<li><strong>Design</strong> — Ispirato a shadcn/ui</li>
+					</ul>
+
+					<h2>Filosofia</h2>
+					<p>Credo che il buon codice sia quello che non hai bisogno di scrivere. Ogni componente in questo tema esiste perché risolve un problema reale, non perché "potrebbe servire".</p>
+
+					<blockquote>
+						<p>Less is more, ma solo se il "less" funziona davvero.</p>
+					</blockquote>
+
+					<h2>Contatti</h2>
+					<p>Mi trovi su <a href="https://github.com/ritchiemarkov">GitHub</a> dove condivido codice e progetti open source.</p>
+				</div>
+			</div>
+		</main>
+	</div>
+
+	<!-- ========== FOOTER ========== -->
+	<footer class="site-footer">
+		<div class="container">
+			<div class="site-footer__inner">
+				<div class="site-footer__branding">
+					<a href="/index.html" class="site-footer__logo">Starter Flavor</a>
+					<p class="site-footer__description text-muted-foreground">Un tema moderno con design system shadcn/ui, vanilla CSS e JavaScript.</p>
+				</div>
+				<nav>
+					<h4 class="text-sm font-semibold" style="margin-bottom:var(--space-3)">Pagine</h4>
+					<ul class="footer-nav-menu">
+						<li><a href="/index.html">Blog</a></li>
+						<li><a href="/archive.html">Archivio</a></li>
+						<li><a href="/page.html">Chi sono</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="site-footer__bottom">
+				<p class="text-sm text-muted-foreground">&copy; 2026 Starter Flavor. Tutti i diritti riservati.</p>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<script src="/assets/js/main.js"></script>
+</body>
+</html>

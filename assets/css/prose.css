@@ -1,0 +1,130 @@
+/* ============================================
+   PROSE — Stili per il contenuto degli articoli
+   ============================================ */
+
+.prose {
+	font-size: 1.0625rem;
+	line-height: 1.8;
+	color: hsl(var(--foreground));
+}
+
+.prose > * + * {
+	margin-top: 1.5em;
+}
+
+.prose h2 {
+	font-size: 1.5rem;
+	font-weight: 700;
+	margin-top: 2.5em;
+	margin-bottom: 0.5em;
+	letter-spacing: -0.02em;
+}
+
+.prose h3 {
+	font-size: 1.25rem;
+	font-weight: 600;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+}
+
+.prose a {
+	color: hsl(var(--primary));
+	text-decoration: underline;
+	text-underline-offset: 3px;
+	font-weight: 500;
+}
+
+.prose a:hover {
+	text-decoration-thickness: 2px;
+}
+
+.prose strong {
+	font-weight: 600;
+}
+
+.prose ul,
+.prose ol {
+	padding-left: 1.5em;
+}
+
+.prose ul {
+	list-style-type: disc;
+}
+
+.prose ol {
+	list-style-type: decimal;
+}
+
+.prose li {
+	margin-top: 0.375em;
+}
+
+.prose blockquote {
+	border-left: 3px solid hsl(var(--border));
+	padding-left: var(--space-4);
+	font-style: italic;
+	color: hsl(var(--muted-foreground));
+}
+
+.prose pre {
+	background-color: hsl(var(--muted));
+	border: 1px solid hsl(var(--border));
+	border-radius: var(--radius);
+	padding: var(--space-4);
+	overflow-x: auto;
+	font-family: var(--font-mono);
+	font-size: 0.875rem;
+	line-height: 1.7;
+}
+
+.prose code {
+	font-family: var(--font-mono);
+	font-size: 0.875em;
+	background-color: hsl(var(--muted));
+	padding: 0.125rem 0.375rem;
+	border-radius: calc(var(--radius) - 2px);
+}
+
+.prose pre code {
+	background: none;
+	padding: 0;
+	border-radius: 0;
+}
+
+.prose img {
+	border-radius: var(--radius);
+}
+
+.prose hr {
+	border: none;
+	border-top: 1px solid hsl(var(--border));
+	margin: 2em 0;
+}
+
+.prose table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.prose th,
+.prose td {
+	text-align: left;
+	padding: var(--space-2) var(--space-3);
+	border-bottom: 1px solid hsl(var(--border));
+}
+
+.prose th {
+	font-weight: 600;
+	font-size: 0.875rem;
+}
+
+.prose figure {
+	margin: 2em 0;
+}
+
+.prose figcaption {
+	text-align: center;
+	font-size: 0.875rem;
+	color: hsl(var(--muted-foreground));
+	margin-top: var(--space-2);
+}

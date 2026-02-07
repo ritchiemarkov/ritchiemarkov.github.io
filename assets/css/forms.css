@@ -1,0 +1,63 @@
+/* ============================================
+   FORMS & INPUTS
+   ============================================ */
+
+.input {
+	display: flex;
+	width: 100%;
+	padding: var(--space-2) var(--space-3);
+	font-size: 0.875rem;
+	line-height: 1.5;
+	color: hsl(var(--foreground));
+	background-color: hsl(var(--background));
+	border: 1px solid hsl(var(--input));
+	border-radius: var(--radius);
+	transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.input::placeholder {
+	color: hsl(var(--muted-foreground));
+}
+
+.input:focus {
+	outline: none;
+	border-color: hsl(var(--ring));
+	box-shadow: 0 0 0 2px hsl(var(--ring) / 0.2);
+}
+
+textarea.input {
+	min-height: 5rem;
+	resize: vertical;
+}
+
+/* Label */
+.label {
+	display: block;
+	font-size: 0.875rem;
+	font-weight: 500;
+	margin-bottom: var(--space-2);
+}
+
+/* Search form */
+.search-form__inner {
+	display: flex;
+	align-items: center;
+	gap: var(--space-2);
+	position: relative;
+}
+
+.search-form__icon {
+	position: absolute;
+	left: var(--space-3);
+	color: hsl(var(--muted-foreground));
+	pointer-events: none;
+}
+
+.search-form__input {
+	padding-left: 2.5rem;
+	flex: 1;
+}
+
+.search-form__submit {
+	flex-shrink: 0;
+}

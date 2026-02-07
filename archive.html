@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Archivio — Starter Flavor ShadCN</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Geist+Mono:wght@100..900&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="/assets/css/variables.css">
+	<link rel="stylesheet" href="/assets/css/reset.css">
+	<link rel="stylesheet" href="/assets/css/typography.css">
+	<link rel="stylesheet" href="/assets/css/layout.css">
+	<link rel="stylesheet" href="/assets/css/navbar.css">
+	<link rel="stylesheet" href="/assets/css/buttons.css">
+	<link rel="stylesheet" href="/assets/css/badges.css">
+	<link rel="stylesheet" href="/assets/css/cards.css">
+	<link rel="stylesheet" href="/assets/css/forms.css">
+	<link rel="stylesheet" href="/assets/css/pagination.css">
+	<link rel="stylesheet" href="/assets/css/footer.css">
+</head>
+<body>
+
+<div class="site">
+	<!-- ========== HEADER ========== -->
+	<header class="site-header">
+		<div class="container">
+			<div class="site-header__inner">
+				<div class="site-branding">
+					<a href="/index.html" class="site-title">Starter Flavor</a>
+				</div>
+				<nav class="main-navigation">
+					<ul class="nav-menu">
+						<li class="menu-item"><a href="/index.html" class="nav-link">Blog</a></li>
+						<li class="menu-item"><a href="/archive.html" class="nav-link nav-link--active">Archivio</a></li>
+						<li class="menu-item"><a href="/page.html" class="nav-link">Chi sono</a></li>
+					</ul>
+				</nav>
+				<div class="site-header__actions">
+					<button id="theme-toggle" class="btn btn-ghost btn-icon" aria-label="Cambia tema" type="button">
+						<svg class="icon icon-sun" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+						<svg class="icon icon-moon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+					</button>
+					<button id="mobile-menu-toggle" class="btn btn-ghost btn-icon mobile-menu-toggle" aria-label="Apri menu" aria-expanded="false" type="button">
+						<svg class="icon icon-menu" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>
+						<svg class="icon icon-x" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+					</button>
+				</div>
+			</div>
+			<div id="mobile-menu" class="mobile-menu" aria-hidden="true">
+				<ul class="mobile-nav-menu">
+					<li><a href="/index.html" class="nav-link">Blog</a></li>
+					<li><a href="/archive.html" class="nav-link nav-link--active">Archivio</a></li>
+					<li><a href="/page.html" class="nav-link">Chi sono</a></li>
+				</ul>
+			</div>
+		</div>
+	</header>
+
+	<!-- ========== ARCHIVIO ========== -->
+	<div class="site-content">
+		<main>
+			<div class="container">
+				<header class="page-header">
+					<h1 class="page-title">Categoria: CSS</h1>
+					<p class="text-muted-foreground" style="margin-top:var(--space-2)">Tutti gli articoli su CSS, design system e stili moderni.</p>
+				</header>
+
+				<!-- Filtri categorie -->
+				<div style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-bottom:var(--space-4)">
+					<a href="#" class="badge badge-default">CSS</a>
+					<a href="#" class="badge badge-secondary">JavaScript</a>
+					<a href="#" class="badge badge-secondary">WordPress</a>
+					<a href="#" class="badge badge-secondary">HTML</a>
+					<a href="#" class="badge badge-secondary">Performance</a>
+					<a href="#" class="badge badge-secondary">Accessibilità</a>
+				</div>
+
+				<!-- Ricerca -->
+				<form class="search-form" style="margin-bottom:var(--space-4)">
+					<div class="search-form__inner">
+						<svg class="search-form__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+						<input type="search" class="input search-form__input" placeholder="Cerca negli articoli...">
+						<button type="submit" class="btn btn-default search-form__submit">Cerca</button>
+					</div>
+				</form>
+
+				<div class="posts-grid">
+					<!-- Card 1 -->
+					<article class="card card--post">
+						<a href="/single.html" class="card__thumbnail">
+							<img class="card__thumbnail-img" src="https://picsum.photos/seed/arch1/600/400" alt="">
+						</a>
+						<div class="card__content">
+							<div class="card__meta">
+								<span class="badge badge-secondary">CSS</span>
+								<span class="text-sm text-muted-foreground">5 Feb 2026</span>
+							</div>
+							<h2 class="card__title"><a href="/single.html">Design system con variabili CSS e shadcn</a></h2>
+							<p class="card__excerpt text-muted-foreground">Come costruire un design system completo usando solo CSS custom properties ispirate a shadcn/ui.</p>
+							<div class="card__footer">
+								<div class="card__author">
+									<img src="https://i.pravatar.cc/24?img=1" alt="Avatar">
+									<span class="text-sm">Ritchie</span>
+								</div>
+								<a href="/single.html" class="btn btn-ghost btn-sm">Leggi <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+							</div>
+						</div>
+					</article>
+
+					<!-- Card 2 -->
+					<article class="card card--post">
+						<a href="/single.html" class="card__thumbnail">
+							<img class="card__thumbnail-img" src="https://picsum.photos/seed/arch2/600/400" alt="">
+						</a>
+						<div class="card__content">
+							<div class="card__meta">
+								<span class="badge badge-secondary">CSS</span>
+								<span class="text-sm text-muted-foreground">12 Gen 2026</span>
+							</div>
+							<h2 class="card__title"><a href="/single.html">CSS modulare: un file per componente</a></h2>
+							<p class="card__excerpt text-muted-foreground">Organizzare il CSS in file separati per componente migliora la manutenibilità e la scalabilità.</p>
+							<div class="card__footer">
+								<div class="card__author">
+									<img src="https://i.pravatar.cc/24?img=1" alt="Avatar">
+									<span class="text-sm">Ritchie</span>
+								</div>
+								<a href="/single.html" class="btn btn-ghost btn-sm">Leggi <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+							</div>
+						</div>
+					</article>
+
+					<!-- Card 3 -->
+					<article class="card card--post">
+						<a href="/single.html" class="card__thumbnail">
+							<img class="card__thumbnail-img" src="https://picsum.photos/seed/arch3/600/400" alt="">
+						</a>
+						<div class="card__content">
+							<div class="card__meta">
+								<span class="badge badge-secondary">CSS</span>
+								<span class="text-sm text-muted-foreground">3 Gen 2026</span>
+							</div>
+							<h2 class="card__title"><a href="/single.html">Reset CSS moderno: cosa serve davvero</a></h2>
+							<p class="card__excerpt text-muted-foreground">Un reset minimale che copre tutti i casi senza essere invasivo. Box-sizing, margini e font inherit.</p>
+							<div class="card__footer">
+								<div class="card__author">
+									<img src="https://i.pravatar.cc/24?img=1" alt="Avatar">
+									<span class="text-sm">Ritchie</span>
+								</div>
+								<a href="/single.html" class="btn btn-ghost btn-sm">Leggi <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+							</div>
+						</div>
+					</article>
+				</div>
+
+				<nav class="pagination">
+					<ul class="pagination__list">
+						<li><span class="pagination__current">1</span></li>
+						<li><a href="#" class="pagination__link">2</a></li>
+						<li>
+							<a href="#" class="pagination__link pagination__next">
+								Successivo
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+							</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</main>
+	</div>
+
+	<!-- ========== FOOTER ========== -->
+	<footer class="site-footer">
+		<div class="container">
+			<div class="site-footer__inner">
+				<div class="site-footer__branding">
+					<a href="/index.html" class="site-footer__logo">Starter Flavor</a>
+					<p class="site-footer__description text-muted-foreground">Un tema moderno con design system shadcn/ui, vanilla CSS e JavaScript.</p>
+				</div>
+				<nav>
+					<h4 class="text-sm font-semibold" style="margin-bottom:var(--space-3)">Pagine</h4>
+					<ul class="footer-nav-menu">
+						<li><a href="/index.html">Blog</a></li>
+						<li><a href="/archive.html">Archivio</a></li>
+						<li><a href="/page.html">Chi sono</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="site-footer__bottom">
+				<p class="text-sm text-muted-foreground">&copy; 2026 Starter Flavor. Tutti i diritti riservati.</p>
+			</div>
+		</div>
+	</footer>
+</div>
+
+<script src="/assets/js/main.js"></script>
+</body>
+</html>
