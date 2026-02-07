@@ -1,0 +1,44 @@
+/* ============================================
+   PAGINATION
+   ============================================ */
+
+.pagination {
+	padding: var(--space-6) 0 var(--space-8);
+}
+
+.pagination__list {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: var(--space-1);
+}
+
+.pagination__link,
+.pagination__current {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 2.25rem;
+	height: 2.25rem;
+	padding: 0 var(--space-2);
+	font-size: 0.875rem;
+	font-weight: 500;
+	border: 1px solid hsl(var(--input));
+	border-radius: var(--radius);
+	transition: all var(--transition-fast);
+}
+
+.pagination__link:hover {
+	background-color: hsl(var(--accent));
+}
+
+.pagination__current {
+	background-color: hsl(var(--primary));
+	color: hsl(var(--primary-foreground));
+	border-color: hsl(var(--primary));
+}
+
+.pagination__prev,
+.pagination__next {
+	gap: var(--space-1);
+}
