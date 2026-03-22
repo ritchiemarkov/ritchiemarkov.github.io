@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    4.6371,
+    -75.4783
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "valle-de-cocora",
+      "name": "Valle de Cocora",
+      "coords": [
+        4.6371,
+        -75.4783
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Valle de Cocora",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    20.2177,
+    105.9295
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "tam-coc",
+      "name": "Tam Coc",
+      "coords": [
+        20.2177,
+        105.9295
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tam Coc",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

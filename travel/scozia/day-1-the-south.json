@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    56.1028,
+    -4.1558
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "falkirk",
+      "name": "FALKIRK",
+      "coords": [
+        55.9992,
+        -3.7844
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "FALKIRK – ruota che consente di sollevare le imbarcazioni per congiungere i diversi livelli del canale che collega Il fiordo di Clyde a quello di Forth, ovvero quel...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "antonine-wall",
+      "name": "ANTONINE WALL",
+      "coords": [
+        55.9229,
+        -4.3101
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "ANTONINE WALL – vallo di Antonino, fatto costruire intorno al 140 d.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "trossachs",
+      "name": "TROSSACHS",
+      "coords": [
+        56.2302,
+        -4.5338
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "ABERFOYLE – dove non sostiamo TROSSACHS – facciamo il giro, raggiungendo un freddo colle a ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Aberfoyle"
+      ]
+    },
+    {
+      "id": "callander",
+      "name": "CALLANDER",
+      "coords": [
+        56.2437,
+        -4.2148
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": ", l’Old Duke’s Pass Il cielo è leggermente coperto, ma non sembra volgere al brutto, stanti ampi squarci di sereno.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "stirling",
+      "name": "STIRLING",
+      "coords": [
+        56.1181,
+        -3.936
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Raggiungiamo così STIRLING prima di cena per vedere subito il Wallace Monument (dedicato a William Wallace, il celebre Braveheart, eroe scozese morto nel 1305)",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

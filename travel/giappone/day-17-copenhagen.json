@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    35.5739,
+    139.6277
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "copenhagen",
+      "name": "Copenhagen",
+      "coords": [
+        35.7058,
+        139.5768
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Copenhagen",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "giardino-di-nytorv",
+      "name": "giardino di Nytorv",
+      "coords": [
+        35.3322,
+        139.5555
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "C’è molta gente in questo inizio di weekend sereno in tutti i sensi; non abbiamo molto tempo, usciamo dalla metro in prossimità del giardino di Nytorv con vista sul...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "palazzo-di-amalienborg",
+      "name": "Palazzo di Amalienborg",
+      "coords": [
+        35.6838,
+        139.7507
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "C’è molta gente in questo inizio di weekend sereno in tutti i sensi; non abbiamo molto tempo, usciamo dalla metro in prossimità del giardino di Nytorv con vista sul...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

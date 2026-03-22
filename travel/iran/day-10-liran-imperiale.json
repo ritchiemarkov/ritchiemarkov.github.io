@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    29.9352,
+    52.8904
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "persepoli",
+      "name": "Persepoli",
+      "coords": [
+        29.9352,
+        52.8904
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ma il luogo supremo dove merita senz’altro soffermarsi ammirati è Persepoli , città cerimoniale e capitale di Dario I, un vero gioiello ancora adesso, immaginarsi c...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

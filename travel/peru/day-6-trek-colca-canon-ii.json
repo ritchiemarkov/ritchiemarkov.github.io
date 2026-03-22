@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -15.6098,
+    -71.9635
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "trek-colca-canon",
+      "name": "Trek Colca Cañon",
+      "coords": [
+        -15.6098,
+        -71.9635
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Colca Cañon II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

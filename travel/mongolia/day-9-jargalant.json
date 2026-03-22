@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    47.1223,
+    102.0556
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "jargalant",
+      "name": "Jargalant",
+      "coords": [
+        48.5427,
+        99.411
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jargalant",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-terkhin-tsagaan",
+      "name": "Lago Terkhin Tsagaan",
+      "coords": [
+        44.6375,
+        106.8989
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "In breve raggiungiamo il bellissimo lago Lago Terkhin Tsagaan circondato da crateri di vulcani spenti, il più \"giovane\" dei quali è il Khorgo.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vulcano-khorgo",
+      "name": "Vulcano Khorgo",
+      "coords": [
+        48.1867,
+        99.8569
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "In breve raggiungiamo il bellissimo lago Lago Terkhin Tsagaan circondato da crateri di vulcani spenti, il più \"giovane\" dei quali è il Khorgo.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

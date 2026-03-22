@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    36.918,
+    -5.0103
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "caminito-del-rey",
+      "name": "Caminito del Rey",
+      "coords": [
+        36.9167,
+        -4.7733
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Caminito del Rey",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ardales",
+      "name": "Ardales",
+      "coords": [
+        36.8782,
+        -4.8468
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Pranzo ad Ardales con calamari fritti e merluzzo, in un bel villaggio che scende a ventaglio partendo dal vertice superiore dove si trova la chiesa, con vie molto r...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "muelle-uno",
+      "name": "Muelle Uno",
+      "coords": [
+        36.716,
+        -4.4138
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Quella che era un’area portuale abbandonata e mal frequentata è divenuta passeggiata coperta da una tettoia moderna fino al faro, denominata il Muelle Uno .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "plaza-de-toros",
+      "name": "Plaza de Toros",
+      "coords": [
+        36.6891,
+        -6.131
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Come se non avessimo camminato abbastanza, compiamo il giro della zona antistante il mare con la bella illuminazione della Plaza de Toros , l’Ayuntamiento, l’Alcaza...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lalcazaba",
+      "name": "l’Alcazaba",
+      "coords": [
+        36.4313,
+        -5.1186
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Come se non avessimo camminato abbastanza, compiamo il giro della zona antistante il mare con la bella illuminazione della Plaza de Toros , l’Ayuntamiento, l’Alcaza...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "teatro-romano",
+      "name": "Teatro Romano",
+      "coords": [
+        37.8766,
+        -4.778
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Come se non avessimo camminato abbastanza, compiamo il giro della zona antistante il mare con la bella illuminazione della Plaza de Toros , l’Ayuntamiento, l’Alcaza...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

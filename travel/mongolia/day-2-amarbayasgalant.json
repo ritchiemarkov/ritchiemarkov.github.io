@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    49.1646,
+    97.5285
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "amarbayasgalant",
+      "name": "Amarbayasgalant",
+      "coords": [
+        49.4508,
+        105.0765
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Amarbayasgalant",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "naadam",
+      "name": "Naadam",
+      "coords": [
+        48.8783,
+        89.9805
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Troviamo il luogo incredibilmente affollato per una ricorrenza religiosa, alla quale si affianca per l’occasione un Naadam (corse a cavallo solitamente montati a pe...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

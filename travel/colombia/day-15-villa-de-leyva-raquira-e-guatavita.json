@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    5.0957,
+    -73.8579
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "raquira",
+      "name": "Raquira",
+      "coords": [
+        5.538,
+        -73.6322
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Villa de Leyva, Raquira e Guatavita",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "entriamo-in-bogota",
+      "name": "Entriamo in Bogotà",
+      "coords": [
+        4.6534,
+        -74.0836
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Entriamo in Bogotà con un traffico che si fa sempre più intenso; da un certo punto in avanti su due corsie di sinistra compare il Transmilenio a confermarci che orm...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+---
+# Base post
+title: "Hills' Region"
+excerpt: "Natura, spiritualità e l'esperienza in treno"
+slug: "day-8-hills-region"
+status: published
+menu_order: 8
+
+# Giorno viaggio
+day: "Day 8 - Giovedì 12 gennaio 2017"
+day_number: 8
+day_date: 2017-01-12
+
+# Collegamento viaggio
+trip_slug: "srilanka"
+
+# Featured image
+featured_image_id: 17906
+
+# Meta giorno
+distance_km: null
+elevation_m: 1000
+time_text: "n.d."
+weather_temp_c: null
+weather_desc: "n.d."
+
+# SEO base
+seo_title: "Hills' Region | Srilanka Day 8"
+seo_description: "Natura, spiritualità e l'esperienza in treno. Giornata dedicata a Hills' Region Diario di viaggio dedicato a Hills' Region, con luoghi e atmosfere della gior."
+seo_keywords: "srilanka, hills' region, diario di viaggio"
+seo_canonical: "https://www.northwestalps.com/trip/srilanka/day-8-hills-region/"
+seo_robots: index,follow
+
+# Open Graph
+seo_og_title: "Hills' Region - Srilanka"
+seo_og_description: "Natura, spiritualità e l'esperienza in treno."
+seo_og_use_featured: true
+
+# Twitter
+seo_twitter_title: "Hills' Region - Day 8"
+seo_twitter_description: "Natura, spiritualità e l'esperienza in treno."
+seo_twitter_use_featured: true
+
+# Daily Trip Map (JSON)
+daily_trip_map_json: |
+  {
+    "mapCenter": [
+      0.0,
+      0.0
+    ],
+    "mapZoom": 3,
+    "locations": []
+  }
+
+# Opzioni mappe
+create_trip_map: true
+trip_map_title: "Srilanka 2017 - Trip Maps"
+daily_trip_map_title: "Hills' Region - Day 8 Map"
+daily_trip_map_status: published
+---
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">Fauna locale</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lasciamo Nuwara Elyia che non presenta siti indimenticabili e alle 6 partiamo alla volta dell’Hortons Plains N.P. Fiancheggiamo prati ricoperti di brina mentre l’alba viene a tingere il paesaggio con i suoi caldi colori, saliamo lungo percorsi ripidi e tortuosi fino a raggiungere l’ingresso del parco, dove colpisce vedere gente che indossa giacconi pesanti e pile, mentre fino ad due giorni fa solo la maglietta rappresentava un inutile optional. Un cartello poco dopo ci fa capire quanto sia importante mantenere intatta la vegetazione anche per conservare l’equilibrio termico: dove c’è la giungla che attutisce gli estremi si ha un delta fra giorno e notte che può arrivare a 12°, nelle zone deforestate si arriva a 28° a causa dell’irraggiamento solare diretto sulla superficie terrestre mentre col buio, in assenza dell’ammortizzatore rappresentato dalla vegetazione si può anche scendere sotto gli 0°. Nel parco compiamo il giro in senso orario, raggiungendo il Little e quindi il World’s End vero e proprio. Dire che sia stata un’esperienza unica non è possibile, certo la vista dall’alto di un salto di mille metri non può che essere bella anche se la giornata solare non impedisce la creazione di un velo di foschia in lontananza. E’ vero che da qui si vede il mare, ma le giornate serene in cui ciò è possibile devono essere decisamente rare! Sul fondo della vallata la vita scorre tranquilla in alcuni villaggi isolati. La foresta è interessante così come lo sono le cascate Baker, non particolarmente ricche d’acqua vista la stagione. L’impressione è che ci troviamo però in un momento di siccità dovuto non tanto ad un prolungato periodo di scarse precipitazioni, piuttosto ci pare che la flora locale patisca parecchio se non riceve un acquazzone di tanto in tanto. La presenza di visitatori non è particolarmente chiassosa, ben equilibrata fra locali e stranieri. La vista degli animali si limita al momento dell’ingresso, in cui ci compare d’innanzi una famiglia di <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0790.12.01.17.Horton-plains-sambar.webp">sambor</a> (cervidi) ed il <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0793.12.01.17.Horton-plains-Gallus-lafayettii.webp">galletto simbolo</a> dello Sri Lanka: la prima parte del percorso si snoda quasi esclusivamente nella giungla mentre dopo il World’s End si alternano boschi <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0820.12.01.17.Horton-plains.webp">praterie</a>. Il sole “di montagna” fa sentire la sua presenza quando usciamo dal parco. Da lì scendiamo col van per una mezz’oretta in direzione opposta lungo una serie di tornanti, raggiungendo Ohyia, piccolo agglomerato di edifici che gravita intorno alla stazione ferroviaria. Qui prenderemo il treno degli altipiani per Ella ma oggi è giorno che precede la poya, ovvero la luna piena che qui rappresenta un giorno di festa ogni mese, ed il primo treno del mattino è stato soppresso. Non importa, dal momento che noi dobbiamo prendere il secondo, apparentemente solo in ritardo. Facciamo una passeggiata verso il basso ma non c’è niente di particolare. Rimaniamo colpiti di come sia consentito passeggiare indisturbati lungo le rotaie, del resto i treni sono pochi e quelli che ci sono fanno rumore e vanno piano. Saliamo a vedere il tempio del paese, non presenta particolari pregi storici o architettonici ma è pieno di fedeli e bambini vestiti di bianco, intenti a <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0824.12.01.17.Ohiya-temple.webp">festeggiare la giornata</a>, con il pensiero rivolto agli antenati che non ci sono più. Veniamo accolti con tutto il favore ed invitati a fare pranzo con loro. Gli occidentali (noi) si guardano titubanti domandandosi mentalmente se convenga accettare oppure no. Considerazioni di ordine igienico, comportamentale e quant’altro passano brevemente per la testa, ma partecipiamo con piacere al buffet campestre, dove nel massimo della pulizia ci vengono riempiti i piatti con ogni genere di specialità locali accompagnate da riso. Ci sediamo all’esterno su una panchina e, dopo esserci lavati le mani, iniziamo a mangiare pinzando il cibo con le dita, nella tradizione locale. Bisogna vincere le remore psicologiche con le quali siamo stati educati ma l’esitazione non dura a lungo sentendo il profumo che emana il cibo dal piatto. Non si deve giudicare se sia meglio la nostra civiltà delle forchette o quella delle dita che appallottolano il riso per portarlo alla bocca, si tratta di due vie diverse che portano all’alimentazione, probabilmente entrambe giuste. Una lavata alle mani unte di salsa al curry è comunque doverosa una volta finito il pasto. Nel frattempo veniamo attorniati da alcuni fedeli coi quali scambiamo alcune parole. In loro si legge la serenità di chi si fa trasportare dallo spirito, alcuni abbozzano anche una sorta di catechismo nei nostri confronti. Tutte cose condivisibili, i loro messaggi di pace e di rispetto reciproco non hanno o non dovrebbero conoscere latitudine. Sarà difficile dimenticare quella cupola bianca che spunta nel verde della giungla, e nemmeno quella gente che ci ha accolti come pellegrini comparsi da un sentiero ma venuti da un altro mondo. Del resto non vogliamo farlo: siamo venuti qui per vedere e conoscere e ce ne andiamo arricchiti di un messaggio universale che travalica il credo religioso, tanto da rimanere in quello umano. Sembra un paradosso, ma in certi momenti il divino rappresenta il mezzo, non certo il fine.<br>Prima di congedarci i fedeli ci fanno incontrare il monaco che ha officiato i riti della mattinata. E’ un giovane sveglio, scambiamo alcune parole di circostanza e chiediamo di poter lasciare un obolo. Lui non può toccare denaro e se ne incarica un laico vicino a lui. Salutiamo e facciamo per andarcene quando ci sentiamo chiamare, quasi rincorsi. Il signore che aveva preso i soldi e col quale avevamo già dialogato in precedenza, ci dice che non possono accettare il “pagamento” del pasto, che è stato offerto e quindi non intendono accettare il nostro obolo. Da non credere, in un Paese dove la richiesta di mance sembra elevata a livello di dovere istituzionale. Spieghiamo che non intendiamo saldare il conto del ristorante ma che la nostra offerta va vista come piccolo contributo ad un tempio e ad una comunità che abbiamo percepito fin da subito come amica. Dopo una breve trattativa li convinciamo a trattenere il denaro e ci dirigiamo verso la vicina stazione. Il treno tarda ad arrivare, così ci guardiamo intorno, osservando la tranquilla quotidianità di questo giorno di festa. Una scimmia danza acrobaticamente fra i binari e il tetto della stazione, gli addetti sonnecchiano in attesa dell’evento. Ad un certo punto vediamo giungere un signore in divisa bianca, sembra un cerimoniere. Avvertiamo che l’evento si sta avvicinando; una telefonata probabilmente con il macchinista avverte che il treno è poco distante. A questo punto la stazione si anima: il bigliettaio tira su la tendina e con questo gesto dichiara aperta la biglietteria. I tickets costano pochi centesimi di Euro, un’inezia, ma è carino vedere che hanno iniziato a venderli solo quando erano sicuri che il treno sarebbe arrivato. A questo punto inizia però l’esperienza negativa: <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0830.12.01.17.Ohiya-railway-station.webp">il convoglio sopraggiunge</a> con la sua mole e ci pone di fronte a <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0835.12.01.17.Ohiya-Ella-by-train.webp">carrozze stracolme</a>, riusciamo a malapena ad entrare fra gli <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0832.12.01.17.Ohiya-railway-station.webp">scugnizzi con le gambe penzolanti</a> fuori dalla porta. Mi trovo in piedi a cavalcioni di una ragazzina occidentale seduta per terra e quasi agonizzante per la febbre. Il caldo è opprimente, sembra di essere in un girone infernale. E dire che ci aspettavamo il classico trenino (anche non in stile svizzero) da cui guardare i <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0834.12.01.17.Ohiya-Ella-by-train.webp">paesaggi di coltivazioni</a> che scorrono lentamente di fianco, ambiente ideale per foto e filmati. Niente di tutto questo, ci tocca tenerci per non essere gettati fuori in curva dalle porte ovviamente aperte. Sulla guida abbiamo letto come convenga scegliere la seconda classe per viaggiare coi locali e poter aprire i finestrini altrimenti chiusi per via dell’aria condizionata; premesso che il treno non dispone di prima classe, la seconda ci consente di ascoltare un po’ tutti gli idiomi comunemente parlati in Europa. Sembra di rivivere la pubblicità di una marca di caffè di tanti anni fa. Ci sono molti locali ma ben di più sono gli stranieri, e scopriamo così che il tragitto ferroviario che porta ad Ella non è solo una nostra iniziativa; molti hanno avuto la nostra stessa idea leggendo le guide e probabilmente per molti visi pallidi rappresenta una digressione alle vacanze che stanno trascorrendo sulle spiagge non distanti da qui. E’ pensabile che in futuro vengano organizzati treni turistici prenotabili a beneficio di chi vuol godersi il panorama in tutta tranquillità, ovviamente a scapito di un’originalità che in qualche modo la nostra esperienza ha ancora saputo conservare. Ci rendiamo conto con questo che lo Sri Lanka selvaggio e turisticizzato il giusto finisce qui. Entriamo nella zona dei vacanzieri e d’ora in avanti dovremo convivere con loro e con le loro abitudini, che poi dovrebbero essere anche le nostre. Fortunatamente troveremo ancora un paio di “isole” trascurate dove si può respirare natura a pieni polmoni. Si giunge alla stazione di Ella stipati come sardine, dove scendiamo in massa ed il convoglio si svuota; i paesaggi mozzafiato lungo il percorso non mancavano, bisognava però essere ben assicurati alle maniglie prima di distrarsi a guardare fuori. Come operai che rientrano dal lavoro ci dirigiamo tutti, chi a piedi chi motorizzati, alle rispettive residenze, che a Ella non mancano. Stupisce vedere come il paese, pur non sgradevole, abbia ben poco da offrire e assolutamente nulla di imperdibile. Stante la bella giornata e la ricca vegetazione, il centro è come sempre caotico e polveroso con bus, tuk tuk, pulmini, jeep, moto, camion e quanto le industrie automobilistiche (soprattutto indiane) possano ideare. Una breve quanto piacevole escursione ci porta a <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0846.12.01.17.Ella-railway.webp">vedere il treno</a> che alle 17.30 passa dopo Ella sulla stessa linea ferroviaria, su un ponte detto dei nove archi. Per arrivarci percorriamo un sentiero immerso nel verde con parecchie piante da frutta (jackfruit, wood apple, ecc.), fra cui spicca un alto albero lungo il cui tronco viene affiancata una canna di bambù usata come scala per andare ad estrarre la linfa con cui si produce uno sciroppo alcolico (l’arak). Come se fossero in attesa di un avvenimento, alcuni turisti e parecchi locali <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0845.12.01.17.Ella-railway.webp">sostano sulle rotaie</a> aspettando il treno che arriva puntuale ed offre una bella immagine lungo la parabolica del ponte costruito dagli inglesi, quando necessitavano di nuove vie di comunicazione per avvicinare le piantagioni alla costa. Scivola lentamente sulle rotaie, dalle porte penzolano nere gambe di ragazzini. Altri salutano, ricambiati, dai finestrini. Frammenti di qualcosa che non è una festa, è uno dei tanti momenti di serenità; persino meglio, visto che la festa pima o poi è destinata a finire mentre la serenità è un sentimento che può durare per la vita intera. Anche questa non è una vista che da sola vale il viaggio, ma il viaggio del treno vale la vista, suscitando un sentimento più piacevole della calca vissuta fino ad Ella. Per la cronaca, qui siamo in un punto che si trova circa a mezz’ora di cammino dalla stazione dove eravamo scesi e che ovviamente si può percorrere lungo i binari. Ma noi rientriamo a piedi lungo il sentiero godendoci un <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0850.12.01.17.Ella-sunset.webp">ulteriore tramonto</a>: questa volta non l’abbiamo cercato e forse proprio per questo risulterà fra i più belli.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:custom/parallax {"imageID":17907,"imageURL":"https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0850.12.01.17.Ella-sunset.webp","imageSize":"half"} /-->
+
+<!-- wp:paragraph -->
+<p>L’hotel che ci ospita è costituito da <a href="https://www.northwestalps.com/wp-content/uploads/2024/01/SRI_0838.12.01.17.Ella-bungalow.webp">bungalows a due piani</a> su un declivio in mezzo ai campi coltivati a tè. Anzi, la convinzione è che le unità abitative siano state strappate alle piantagioni e prova ne è una nuova che sta sorgendo proprio a fianco. Tutto qui sta vivendo un’evoluzione turistica, un boom economico senza pari: la guerra civile terminata e le guerre di terrorismo incominciate altrove hanno rovesciato i rapporti, portando in questa terra una crescita forse insperata solo dieci anni fa, con tutto ciò che questo comporta di positivo e di negativo.<br>Sembrano siepi, ma le piante che ci attorniano prima di entrare in camera sono di tè. Intorno sono solo coltivazioni fin dove il ripido lo rende possibile; quando i pendii non lo consentono più la montagna riprende possesso della sua vegetazione, fra i dirupi a malapena tagliati dalla strada che corre sul filo del precipizio. Ci troviamo a 1000 mt slm e la temperatura può considerarsi come un giusto compromesso fra il fresco delle alture ed il calore delle zone pianeggianti che ci attendono domani. Essendo serata di luna piena non vengono servite bevande alcoliche, pertanto stasera dobbiamo rinunciare all’ormai abituale Lion’s Beer durante la cena.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:tuodominio/informazioni {"title":"Pernottamento","content":"Hotel Flower Garden - Ella","alertType":"hotel"} /-->
+
+<!-- wp:shortcode -->
+[phrizm_gallery id="Sri Lanka Day 8"]
+<!-- /wp:shortcode -->

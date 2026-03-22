@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -14.3615,
+    -72.2213
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "bolivia-la-paz",
+      "name": "Bolivia La Paz",
+      "coords": [
+        -16.8353,
+        -67.4269
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Bolivia - La Paz",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "paz",
+      "name": "Paz",
+      "coords": [
+        -11.8876,
+        -77.0157
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Bolivia - La Paz",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

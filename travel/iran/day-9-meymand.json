@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    31.028,
+    52.9558
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "meymand",
+      "name": "Meymand",
+      "coords": [
+        28.8666,
+        52.7485
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Meymand",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "giardino-pahlavanpour",
+      "name": "giardino Pahlavanpour",
+      "coords": [
+        31.5601,
+        54.4402
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La fortezza di Sar Yazd non è purtroppo visitabile in quanto ne è recentemente crollato il tetto e la sostituiamo col giardino Pahlavanpour .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "moschea",
+      "name": "Moschea",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 3,
+      "description": "Nel corso del pomeriggio girovaghiamo per il paese , visitando la locale Moschea , l’hosseinieh (sala per cerimonie rituali), oltre alla scuola e all’hammam che son...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

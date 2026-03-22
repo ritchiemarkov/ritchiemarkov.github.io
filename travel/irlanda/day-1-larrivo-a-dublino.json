@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    53.3494,
+    -6.2606
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "l-arrivo-a-dublino",
+      "name": "L'arrivo a Dublino",
+      "coords": [
+        53.3494,
+        -6.2606
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "L'arrivo a Dublino",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

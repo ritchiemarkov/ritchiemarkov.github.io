@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -25.4195,
+    131.465
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "mt-conner",
+      "name": "Mt. Conner",
+      "coords": [
+        -25.4941,
+        131.8975
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Conner ed evitiamo di riconoscerlo erroneamente anzitempo per Uluru, è comunque una bella “mesa”, altopiano roccioso stile Monument Valley nel piatto assoluto che l...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ayers-rock",
+      "name": "Ayers Rock",
+      "coords": [
+        -25.3449,
+        131.0325
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Proseguiamo mantenendo i 110 km/h per non incorrere nei severi controlli della polizia ed arriviamo al Sunset Point, al cospetto dell’ Ayers Rock /Uluru proprio 10...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

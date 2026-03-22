@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    5.421,
+    -75.7031
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "riosucio",
+      "name": "Riosucio",
+      "coords": [
+        5.421,
+        -75.7031
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "In tutto saranno 200 km di bella strada che si fa ripida nel tratto finale verso Riosucio , appoggiata su sinuose colline, dove il vecchio bus arranca mordendo le c...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    34.7365,
+    134.8456
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "hiroshima",
+      "name": "Hiroshima",
+      "coords": [
+        34.3917,
+        132.4518
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Hiroshima",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mostro-il-palazzo-sventrato",
+      "name": "mostro, il palazzo sventrato",
+      "coords": [
+        35.6838,
+        139.7507
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una colazione leggera e con breve passeggiata a piedi lungo il fiume ci troviamo di fronte al mostro, il palazzo sventrato che era il Centro per la Promozione Indus...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "baia-di-hiroshima",
+      "name": "Baia di Hiroshima",
+      "coords": [
+        34.134,
+        132.3344
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Imbarcarci da questo punto costa di più ma permette d’iniziare il viaggio in prossimità dell’hotel e dei siti di maggior rilievo in centro, risparmiando parecchio t...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

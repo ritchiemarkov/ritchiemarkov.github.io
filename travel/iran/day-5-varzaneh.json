@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    31.8787,
+    52.5187
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "varzaneh",
+      "name": "Varzaneh",
+      "coords": [
+        33.5425,
+        50.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Varzaneh",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "linterno-della-cupola",
+      "name": "L’interno della cupola",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il cortile della cattedrale di Vank è ancora addobbato per le recenti celebrazioni del 103° anniversario del tentato genocidio degli armeni perpetrato dai turchi.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lago-salato",
+      "name": "Lago salato",
+      "coords": [
+        29.4361,
+        55.3773
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Questo aiuterà anche noi a vedere il lago salato particolarmente splendente grazie alle recenti precipitazioni.",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    23.442,
+    58.1444
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "muscat",
+      "name": "Muscat",
+      "coords": [
+        23.6124,
+        58.5938
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Muscat",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "al-hamra",
+      "name": "Al Hamra",
+      "coords": [
+        23.1183,
+        57.2937
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il tempo sembra essersi fermato ma noi dobbiamo farlo ripartire; sono ormai le 8,30 quando salutiamo i simpatici gestori per prendere la via che porta a Muscat; dop...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "omr",
+      "name": "Omr",
+      "coords": [
+        23.5954,
+        58.5456
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Qui troviamo facile parcheggio in centro, in realtà fin troppo facile in quanto non ci accorgiamo che si tratta di zona a pagamento e quando rientriamo ci troviamo.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

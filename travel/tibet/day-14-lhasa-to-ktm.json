@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    27.7107,
+    85.3481
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "pashupatinath",
+      "name": "Pashupatinath",
+      "coords": [
+        27.7107,
+        85.3481
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Spediamo i borsoni in hotel e ci facciamo recapitare a Pashupatinath , il tempio hinduista famoso per essere un dei luoghi prediletti per le cremazioni.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

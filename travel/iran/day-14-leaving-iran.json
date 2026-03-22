@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    27.0638,
+    56.2736
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "tap",
+      "name": "TAP",
+      "coords": [
+        26.9484,
+        56.2724
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Inizio giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "usd",
+      "name": "USD",
+      "coords": [
+        27.1792,
+        56.2747
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

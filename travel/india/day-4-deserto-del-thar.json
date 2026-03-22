@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    24.7051,
+    79.6141
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "laxmi-narayan-mandir",
+      "name": "Laxmi Narayan Mandir",
+      "coords": [
+        22.5024,
+        88.3067
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Il secondo ( Laxmi Narayan Mandir ) è evidentemente dedicato a Shiva, con il linga sovrastato da un cobra e il toro Nandi di fronte.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "gadisar-lake",
+      "name": "Gadisar Lake",
+      "coords": [
+        26.9078,
+        70.9214
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Andiamo ancora a vedere il Gadisar Lake , un bel lago artificiale creato secoli fa come riserva idrica, dal quale spunta un cenotafio sull’isolotto che sembra stato...",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -21.8237,
+    46.9768
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "tsaranoro-valley",
+      "name": "Tsaranoro Valley",
+      "coords": [
+        -21.8237,
+        46.9768
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 1,
+      "description": "Tsaranoro Valley",
+      "category": "Montagna",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

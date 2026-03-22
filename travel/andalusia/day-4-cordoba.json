@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    39.09,
+    -5.1327
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "cordoba",
+      "name": "Cordoba",
+      "coords": [
+        37.8846,
+        -4.776
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cordoba",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "medina-azahara",
+      "name": "Medina Azahara",
+      "coords": [
+        37.8863,
+        -4.8675
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una rapida occhiata a Medina Azahara , situata ad 8 km dalla città, le rovine di un palazzo del Califfo oggi non visitabile per chiusura settimanale; ci limitiamo a...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cattedrale-letteralmente-incorporata",
+      "name": "Cattedrale letteralmente incorporata",
+      "coords": [
+        41.4991,
+        -5.7547
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Vista da fuori appare come una fortezza circondata da alte mura, niente di paragonabile alla maestosità della Cattedrale di Siviglia o all’imponenza dell’Alhambra c...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

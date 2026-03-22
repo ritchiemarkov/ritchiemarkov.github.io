@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    44.0157,
+    13.5453
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "torre-della-tv",
+      "name": "torre della TV",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Usciamo mentre il Centro si sta riempiendo nell’ora di punta e passeggiando lungo l’enorme torre della TV , caratteristica ma non bella, andiamo a vedere la Moschea...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "monumento-commemorativo-del-terremoto",
+      "name": "Monumento Commemorativo del Terremoto",
+      "coords": [
+        40.4707,
+        19.4907
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A piedi ci portiamo nella zona del Chorsu Bazar dopo avere un’occhiata alla Madrasa Kulkedash (in ristrutturazione) da fuori e la Moschea Juma (del venerdì) con i s...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "interno-delle-mura-ichon-qala",
+      "name": "interno delle mura (Ichon-Qala",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Finalmente arrivati nel recentemente rinnovato terminal 3 delle partenze domestiche prendiamo il volo interno per Urgench, che al decollo ci regala una bella veduta...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

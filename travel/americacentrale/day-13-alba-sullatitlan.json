@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    14.5586,
+    -90.7295
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "vulcani-dellatitlan",
+      "name": "vulcani dell’Atitlan",
+      "coords": [
+        14.5586,
+        -90.7295
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Sebbene a distanza, i vulcani dell’Atitlan risultano allineati a quelli di Antigua (distanti ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

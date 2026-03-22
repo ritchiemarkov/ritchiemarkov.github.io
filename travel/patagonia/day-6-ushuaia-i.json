@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -54.8308,
+    -68.417
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "ushuaia",
+      "name": "Ushuaia",
+      "coords": [
+        -54.8019,
+        -68.303
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ushuaia I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "bahia-lapataia",
+      "name": "Bahia Lapataia",
+      "coords": [
+        -54.8597,
+        -68.5311
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A Bahia Lapataia , il luogo oltre il quale terminano tutte le strade, si trova l’inizio (o la fine) della Routa 3, che parte da Buenos Aires ed impiega più di tremi...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

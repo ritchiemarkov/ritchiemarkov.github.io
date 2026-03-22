@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    48.1684,
+    -65.81
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "gaspesie",
+      "name": "Gaspesie",
+      "coords": [
+        48.6147,
+        -66.0666
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Gaspesie",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "baie-de-chaleur",
+      "name": "baie de Chaleur",
+      "coords": [
+        47.722,
+        -65.5535
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "di Cap Ferret, da dove godiamo di una magnifica veduta su tutta la baie de Chaleur , appena intaccata da una foschia di fondo che non aiuta a rendere nitida la cost...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

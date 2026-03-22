@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -3.4281,
+    37.0763
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "jro",
+      "name": "JRO",
+      "coords": [
+        -3.4281,
+        37.0763
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Inizio giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

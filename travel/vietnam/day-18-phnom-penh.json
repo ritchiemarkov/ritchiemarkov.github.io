@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    11.9096,
+    104.7823
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "phnom-penh",
+      "name": "Phnom Penh",
+      "coords": [
+        11.5587,
+        104.9328
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Phnom Penh",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "wat-phnom",
+      "name": "Wat Phnom",
+      "coords": [
+        12.2605,
+        104.6318
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Rientriamo in città (qui eravamo a 13 km dal centro) per un interessante giro al Psar Tuol Tom Pong (mercato Russo) e proseguire nel primo pomeriggio verso il Wat P...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

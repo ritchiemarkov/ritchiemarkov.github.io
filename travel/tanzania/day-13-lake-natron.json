@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -2.6803,
+    36.6277
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "lake-natron",
+      "name": "Lake Natron",
+      "coords": [
+        -2.348,
+        36.0261
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Lake Natron",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "un-paio-di-zebre-che-brucano-nel-camp",
+      "name": "un paio di zebre che brucano nel camp",
+      "coords": [
+        -3.0126,
+        37.2294
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Nella notte fra sabato e domenica al Lobo camp c’è molta vita: udiamo proprio vicino a noi un muggito chiuso e forte a sembrare quello di un bufalo, magari in calor...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

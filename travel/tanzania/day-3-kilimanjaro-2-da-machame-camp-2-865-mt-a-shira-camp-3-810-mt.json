@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -3.1432,
+    37.0727
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "machame-camp",
+      "name": "Machame Camp",
+      "coords": [
+        -3.1737,
+        37.239
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kilimanjaro 2 da Machame Camp (2.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "shira-camp",
+      "name": "Shira Camp",
+      "coords": [
+        -3.0126,
+        37.2294
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Kilimanjaro 2 da Machame Camp (2.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mt-meru",
+      "name": "Mt. Meru",
+      "coords": [
+        -3.2434,
+        36.7498
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Meru , con i suoi 4.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

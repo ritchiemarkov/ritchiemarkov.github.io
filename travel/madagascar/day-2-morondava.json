@@ -1,0 +1,85 @@
+{
+  "mapCenter": [
+    -19.4639,
+    46.2649
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "morondava",
+      "name": "Morondava",
+      "coords": [
+        -20.5144,
+        44.3456
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Morondava",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "andohalo-cathedral",
+      "name": "Andohalo Cathedral",
+      "coords": [
+        -18.9179,
+        47.5307
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Passiamo di fronte al Ministero della Difesa, alla Andohalo Cathedral ed alla più vecchia chiesa protestante della capitale.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "allee-des-baobabs",
+      "name": "Allée des Baobabs",
+      "coords": [
+        -20.2503,
+        44.4193
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Attraversiamo l’ Allée des Baobabs che avremo occasione di ammirare domani sera al tramonto, facciamo il primo incontro con la miriade di bambini che chiedono l’ele...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "camp-amoureux",
+      "name": "Camp Amoureux",
+      "coords": [
+        -18.8408,
+        47.5553
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Con qualche sussulto dovuto alle numerose buche raggiungiamo la nostra dimora al Camp Amoureux , chiamata così per via di due baobab ( Baobab amoureux ) avvinghiati...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tnr",
+      "name": "Tnr",
+      "coords": [
+        -18.7961,
+        47.4734
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Flight TNR - MOQ 12:20 - 13:20 Con un balzo aereo di un’ora raggiungiamo Morondava , adagiata lungo una costa arida che si apre sul Canale di Mozambico.",
+      "category": "Luogo",
+      "highlights": [
+        "Moq",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

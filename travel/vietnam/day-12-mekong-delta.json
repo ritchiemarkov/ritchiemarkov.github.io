@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    10.3058,
+    105.9219
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "mekong-delta",
+      "name": "Mekong Delta",
+      "coords": [
+        9.7509,
+        105.2225
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Mekong Delta",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "pagoda-tay-an",
+      "name": "pagoda Tay An",
+      "coords": [
+        10.8607,
+        106.6214
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Ci spostiamo in taxi alla pagoda Tay An , anche questa dipinta a tinte molto vive, con particolare evidenza del colore arancio.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

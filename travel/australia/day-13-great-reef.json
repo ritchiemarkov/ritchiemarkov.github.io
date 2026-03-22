@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -16.6354,
+    145.8385
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "great-reef",
+      "name": "Great Reef",
+      "coords": [
+        -16.35,
+        145.9
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Great Reef",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "quicksilver",
+      "name": "Quicksilver",
+      "coords": [
+        -16.9208,
+        145.7771
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Finalmente abbiamo un mattino in cui non dobbiamo fare levatacce, così andiamo nel tranquillo centro di Port Douglas a fare colazione e ci dirigiamo verso l’imbarco...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

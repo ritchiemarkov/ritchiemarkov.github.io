@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    38.2214,
+    -6.6364
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "siviglia",
+      "name": "Siviglia",
+      "coords": [
+        37.3886,
+        -5.9953
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Siviglia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ecija",
+      "name": "Ecija",
+      "coords": [
+        37.5406,
+        -5.0796
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La prima tappa odierna è Ecija dove ci accoglie un gelido sole (1,5°C) nella Plaza d’España semideserta, a seguire passeggiamo fino al Palacio de Peñaflor con bei b...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "puerta-de-sevilla",
+      "name": "Puerta de Sevilla",
+      "coords": [
+        37.8755,
+        -4.7857
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Per quanto si visiti facilmente con una passeggiata di mezz’oretta vale sicuramente la pena per vedere l’elaborato centro urbano ed il bel complesso dove ha sede la...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cattedrale",
+      "name": "Cattedrale",
+      "coords": [
+        41.1428,
+        -8.6112
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Ora che il giro può iniziare corroborato dallo spuntino puntiamo subito dal clou, la Cattedrale gotica più grande del mondo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "plaza-de-espana",
+      "name": "Plaza de España",
+      "coords": [
+        36.6891,
+        -6.131
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Vediamo quanto visitabile senza entrare nel Real Alcazar, procedendo attraverso i Jardines de Murillo ed il Parque de Maria Luisa, arriviamo alla bellissima Plaza d...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "torre-delloro",
+      "name": "Torre dell’Oro",
+      "coords": [
+        38.6916,
+        -9.2159
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Uscendo dal parco andiamo sul lungofiume per vedere la Torre dell’Oro e la Plaza de Toros , nonché alcuni interessanti edifici del quartiere El Arenal.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.3601,
+    81.3722
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "taj-mahal",
+      "name": "Taj Mahal",
+      "coords": [
+        27.175,
+        78.0421
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Agra, il Taj Mahal",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "due-moschee-rosse",
+      "name": "Due moschee rosse",
+      "coords": [
+        29.2725,
+        88.8756
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Due moschee rosse in arenaria fanno da damigelle, rimanendo a rispettosa distanza dalla mole dell’edificio principale.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "chaturbhuj-temple",
+      "name": "Chaturbhuj Temple",
+      "coords": [
+        28.6328,
+        77.199
+      ],
+      "emoji": "🛕",
+      "stepNumber": 3,
+      "description": "Sull’altro lato del fiume c’è invece il Ram Raja Temple, che raccoglie intorno a sé sulla piazza antistante quelli che potremmo definire vagabondi: in effetti non r...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

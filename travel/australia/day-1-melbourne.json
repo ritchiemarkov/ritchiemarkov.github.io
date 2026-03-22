@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -36.6968,
+    146.7888
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "melbourne",
+      "name": "Melbourne",
+      "coords": [
+        -37.8142,
+        144.9632
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Melbourne",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "st-patrik-cathedral",
+      "name": "St. Patrik Cathedral",
+      "coords": [
+        -33.8709,
+        151.2141
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Patrik Cathedral .",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "anglesea",
+      "name": "Anglesea",
+      "coords": [
+        -38.4052,
+        144.189
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Arriviamo ad Anglesea e ci premuriamo di stabilire un primo contatto con i canguri, che incontriamo presso il locale golf club.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

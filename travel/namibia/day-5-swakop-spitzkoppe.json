@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -24.1933,
+    16.3663
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "woermannhaus",
+      "name": "Woermannhaus",
+      "coords": [
+        -22.6793,
+        14.5242
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Colazione in una bakery che potrebbe tranquillamente trovarsi in una qualunque città tedesca, poi proseguiamo per la Woermannhaus , il faro col vicino monumento ai...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "hohenzollern",
+      "name": "Hohenzollern",
+      "coords": [
+        -27.8489,
+        17.2067
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Colazione in una bakery che potrebbe tranquillamente trovarsi in una qualunque città tedesca, poi proseguiamo per la Woermannhaus , il faro col vicino monumento ai...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bbq",
+      "name": "Bbq",
+      "coords": [
+        -22.0516,
+        17.368
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Nel frattempo la selvaggina del giorno finisce sul braai (termine afrikaans che sta a significare BBQ) ed il vino sudafricano si rinfresca qualche minuto nel frigo.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    31.9556,
+    5.3357
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "ksar-arbouat",
+      "name": "ksar Arbouat",
+      "coords": [
+        31.9556,
+        5.3357
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Andiamo a vedere lo ksar Arbouat , il quale presenta quattro porte orientate secondo i punti cardinali e all’interno vi si trova una moschea dove ci viene illustrat...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    63.5978,
+    -149.9049
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "denali",
+      "name": "Denali",
+      "coords": [
+        63.5333,
+        -150.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Denali by Bus",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "polychrome-pass-overlook",
+      "name": "Polychrome Pass Overlook",
+      "coords": [
+        63.5722,
+        -149.8186
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 2,
+      "description": "Si passa dal Sable Pass, per arrivare al mi.",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "eielson-visitor-center",
+      "name": "Eielson Visitor Center",
+      "coords": [
+        63.4181,
+        -150.3531
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "66 si trova l’ Eielson Visitor Center, dal quale si gode di una bella vista sul McKinley (a 33 mi) ma, come detto, ci viene concesso di vedere solo la metà inferior...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "wonder-lake",
+      "name": "Wonder Lake",
+      "coords": [
+        63.4742,
+        -150.8769
+      ],
+      "emoji": "🌊",
+      "stepNumber": 4,
+      "description": "Si prosegue per quello che sarà il nostro capolinea e luogo deputato ad un frugale spuntino, il Wonder Lake al mi.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "libro-into-the-wild-nelle-terre-selvagge",
+      "name": "libro Into the Wild (Nelle Terre Selvagge",
+      "coords": [
+        63.8564,
+        -148.9656
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Le libagioni sono di natura ittica, in particolare si tratta di un salmone grigliato al Salmon on the Bake , il nome del ristorante la dice già lunga su quali siano...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "denali-wilderness-access-center",
+      "name": "Denali Wilderness Access Center",
+      "coords": [
+        63.7326,
+        -148.9153
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Denali by Bus",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

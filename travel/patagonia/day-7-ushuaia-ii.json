@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -54.2853,
+    -68.0166
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "ushuaia",
+      "name": "Ushuaia",
+      "coords": [
+        -54.8019,
+        -68.303
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ushuaia II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "rio-grande",
+      "name": "Rio Grande",
+      "coords": [
+        -53.7686,
+        -67.7303
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Poco prima delle 17 partiamo alla volta di RIO GRANDE, accompagnati da un cielo variabile tra il sereno ed il coperto.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    51.3345,
+    -116.0248
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "coords": [
+        51.1688,
+        -115.5761
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jasper & Banff",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "athabaska-falls",
+      "name": "Athabaska Falls",
+      "coords": [
+        51.5002,
+        -116.4735
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Vediamo le Athabaska Falls , dove il fiume omonimo compie una salto fra dure rocce , passando roboante in mezzo ad un canyon per aprirsi infine in un ampia zona pia...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

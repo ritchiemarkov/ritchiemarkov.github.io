@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    44.1986,
+    -70.318
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "mt-washington",
+      "name": "Mt. Washington",
+      "coords": [
+        44.2705,
+        -71.3033
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ci avviamo in direzione della White Mountain National Forest sulla US16 imboccando la Washington Valley per arrivare al punto di pedaggio posto alla base dell’asces...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sabbaday-falls",
+      "name": "Sabbaday Falls",
+      "coords": [
+        43.994,
+        -71.3962
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "I viewpoint sono numerosi ma non fermarsi ogni 100 mt per una foto o una ripresa sembra un delitto: su tutti apprezziamo particolarmente le Sabbaday Falls e Lily Po...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lily-pond",
+      "name": "Lily Pond",
+      "coords": [
+        44.3313,
+        -68.2545
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "I viewpoint sono numerosi ma non fermarsi ogni 100 mt per una foto o una ripresa sembra un delitto: su tutti apprezziamo particolarmente le Sabbaday Falls e Lily Po...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

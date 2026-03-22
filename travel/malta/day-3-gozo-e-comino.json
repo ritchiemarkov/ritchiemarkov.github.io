@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    35.9494,
+    14.4226
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "marsaxlokk",
+      "name": "Marsaxlokk",
+      "coords": [
+        35.8418,
+        14.5448
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ma andiamo per ordine: colazione al solito chiosco vista mare e via per l’altro lato dell’isola, a Marsaxlokk , dove oggi si svolge il mercato ed in particolare que...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "st-blas",
+      "name": "St Blas",
+      "coords": [
+        36.057,
+        14.3004
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una volta sbarcati a Mgarr iniziamo il giro dell’isola in senso orario, iniziando dal promontorio di St Blas , dominato da una torre e contornato dal mare che varia...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

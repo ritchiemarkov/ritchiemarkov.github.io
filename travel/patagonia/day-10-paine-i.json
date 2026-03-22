@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -50.9607,
+    -73.2484
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "paine",
+      "name": "Paine",
+      "coords": [
+        -50.9423,
+        -73.4068
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Paine I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "valle-del-frances",
+      "name": "Valle del Frances",
+      "coords": [
+        -50.979,
+        -73.09
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Oggi intendiamo arrivare ad un belvedere situato nella Valle del Frances (nonché parte del percorso W) e dobbiamo essere di ritorno per il traghetto delle 18,30.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

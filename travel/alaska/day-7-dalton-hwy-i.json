@@ -1,0 +1,114 @@
+{
+  "mapCenter": [
+    66.5348,
+    -149.1478
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "dalton-hwy",
+      "name": "Dalton Hwy",
+      "coords": [
+        65.8759,
+        -149.7219
+      ],
+      "emoji": "🚙",
+      "stepNumber": 1,
+      "description": "Dalton Hwy I",
+      "category": "Trasferimento",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sag-river-overlook",
+      "name": "Sag River Overlook",
+      "coords": [
+        69.3359,
+        -148.7289
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci si ferma anche un attimo al Sag River Overlook , punto panoramico su uno dei tanti fiumi che scendono direttamente verso nord, all’altezza della pump station nr.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "trans-alaska-pipeline",
+      "name": "Trans Alaska Pipeline",
+      "coords": [
+        63.9322,
+        -145.7726
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Lungo tutto il percorso la strada corre parallela alla Trans Alaska Pipeline , la quale di tanto in tanto s’inabissa sotto terra oppure balza da un lato all’altro d...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "atigun-pass",
+      "name": "Atigun Pass",
+      "coords": [
+        68.1301,
+        -149.4804
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 4,
+      "description": "Raggiungiamo il punto più elevato sulla Hwy all’ Atigun Pass a 1.",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "last-spruce",
+      "name": "Last Spruce",
+      "coords": [
+        67.8,
+        -149.8
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "A seguire ci si ferma un paio di volte al Chalander Shelf e all’altezza del Last Spruce , l’ultimo abete, ovvero quello che rappresentava il limite nord della veget...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "coldfoot-camp",
+      "name": "Coldfoot Camp",
+      "coords": [
+        67.2516,
+        -150.1779
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Arriviamo a Coldfoot quando è ormai sera con una passerella finale costituita da 15 mi.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "visitor-centre",
+      "name": "Visitor Centre",
+      "coords": [
+        63.4181,
+        -150.3531
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Se cambiasse perderebbe il suo fascino, cosa che rileviamo invece nel Visitor Centre .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

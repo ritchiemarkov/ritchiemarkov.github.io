@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    14.8407,
+    -89.1559
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "copan-ruinas",
+      "name": "Copan Ruinas",
+      "coords": [
+        14.8407,
+        -89.1559
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Alle 5:00 abbiamo appuntamento con il driver, passiamo a prendere una signora olandese ed un ragazzo del Connecticut, e partiamo alla volta del confine col Guatemal...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

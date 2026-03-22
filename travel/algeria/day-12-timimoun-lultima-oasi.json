@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    29.2605,
+    0.2286
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "timimoun-l-ultima-oasi",
+      "name": "Timimoun: l'ultima oasi",
+      "coords": [
+        29.2605,
+        0.2286
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Timimoun: l'ultima oasi",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

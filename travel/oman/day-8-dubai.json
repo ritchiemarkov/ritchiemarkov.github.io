@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    25.1888,
+    55.2121
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "dubai",
+      "name": "Dubai",
+      "coords": [
+        25.2281,
+        55.1767
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dubai",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "burj-al-arab",
+      "name": "Burj al Arab",
+      "coords": [
+        25.1413,
+        55.1854
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Tutto risulta essere estremamente pulito, ordinato, nulla viene lasciato al caso, quasi a sembrare paradisiaco nella sua concezione per quanto estremamente lontano...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "burj-al-khalifa",
+      "name": "Burj al Khalifa",
+      "coords": [
+        25.197,
+        55.2741
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Risaliamo sull’Expressway per vedere il Burj al Arab nella sua tonalità migliore e naturale, il bianco, e via verso il vero centro.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

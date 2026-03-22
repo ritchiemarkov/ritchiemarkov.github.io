@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    42.5915,
+    -8.5884
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "santiago-de-compostela",
+      "name": "Santiago de Compostela",
+      "coords": [
+        42.8804,
+        -8.5459
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Santiago de Compostela",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "coruna",
+      "name": "Coruña",
+      "coords": [
+        42.9494,
+        -8.791
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "E’ ormai ora di pranzo, cerchiamo così un locale dove assaggiare il famoso polipo alla feira , altro nome di quello che nel resto della Spagna viene definito alla “...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "davanti-al-porto",
+      "name": "davanti al porto",
+      "coords": [
+        41.1502,
+        -8.6103
+      ],
+      "emoji": "⚓️",
+      "stepNumber": 3,
+      "description": "Il porto è un assaggio in grande di quanto andremo a vedere nei prossimi giorni, mentre il reticolato di viuzze della città vecchia ci trasporta indietro di qualche...",
+      "category": "Porto",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "torre-di-ercole",
+      "name": "Torre di Ercole",
+      "coords": [
+        43.3859,
+        -8.4065
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Poco più distante, sul capo settentrionale si delinea la forma della Torre di Ercole , monumentale quanto antica di 2000 anni, nell’epoca in cui il sole girava anco...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

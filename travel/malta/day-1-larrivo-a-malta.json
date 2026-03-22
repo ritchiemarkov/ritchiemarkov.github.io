@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    35.9311,
+    14.3952
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "malta",
+      "name": "Malta",
+      "coords": [
+        35.9311,
+        14.3952
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "L'arrivo a Malta",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

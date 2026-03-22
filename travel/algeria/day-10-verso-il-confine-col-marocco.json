@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    39.7808,
+    15.8465
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "uno-dei-fuori-strada-si-e-insabbiato",
+      "name": "Uno dei fuori strada si è insabbiato",
+      "coords": [
+        39.7808,
+        15.8465
+      ],
+      "emoji": "🚙",
+      "stepNumber": 1,
+      "description": "Uno dei fuori strada si è insabbiato (capita anche a noi!",
+      "category": "Trasferimento",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

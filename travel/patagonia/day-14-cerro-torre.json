@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -49.3122,
+    -72.9584
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "cerro-torre",
+      "name": "Cerro Torre",
+      "coords": [
+        -49.2928,
+        -73.0306
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cerro Torre",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "el-chalten",
+      "name": "El Chalten",
+      "coords": [
+        -49.3315,
+        -72.8863
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Quasi col conto alla rovescia arriviamo finalmente a El Chalten e qui cerchiamo l’alloggiamento di stasera almeno per lasciare i bagagli.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

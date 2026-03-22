@@ -1,0 +1,44 @@
+{
+  "name": "vitepress-shadcn-site",
+  "version": "1.0.0",
+  "description": "Sito statico VitePress con tema custom in stile shadcn-vue",
+  "private": true,
+  "scripts": {
+    "content:generate": "node scripts/generate-content-pages.mjs",
+    "docs:dev": "npm run content:generate && vitepress dev .",
+    "docs:build": "npm run content:generate && vitepress build .",
+    "docs:preview": "vitepress preview .",
+    "ui:add": "shadcn-vue add"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.577.0",
+    "postcss": "^8.5.8",
+    "shadcn-vue": "2.4.3",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^4.2.1",
+    "tw-animate-css": "^1.4.0",
+    "vitepress": "2.0.0-alpha.16"
+  },
+  "dependencies": {
+    "@orestbida/iframemanager": "^1.3.0",
+    "@unovis/ts": "^1.6.4",
+    "@unovis/vue": "^1.6.4",
+    "@vee-validate/zod": "^4.15.1",
+    "@vueuse/core": "^14.2.1",
+    "embla-carousel-vue": "^8.6.0",
+    "motion": "^12.38.0",
+    "reka-ui": "^2.9.1",
+    "vanilla-cookieconsent": "^3.1.0",
+    "vaul-vue": "^0.4.1",
+    "vee-validate": "^4.15.1",
+    "vue-sonner": "^2.0.9",
+    "zod": "^3.25.76"
+  }
+}

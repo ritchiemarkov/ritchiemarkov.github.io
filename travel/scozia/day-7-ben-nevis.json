@@ -1,0 +1,55 @@
+{
+  "mapCenter": [
+    55.4566,
+    -5.4479
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "ben-nevis",
+      "name": "Ben Nevis",
+      "coords": [
+        56.7969,
+        -5.0035
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ben Nevis",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "inveraray",
+      "name": "INVERARAY",
+      "coords": [
+        56.2303,
+        -5.0731
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Al tramonto siamo ad INVERARAY , dove il castello ( uno dei più belli ) viene illuminato dalle calde luci serali.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "dove-il-castello",
+      "name": "dove il castello",
+      "coords": [
+        53.3426,
+        -6.267
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Al tramonto siamo ad INVERARAY , dove il castello ( uno dei più belli ) viene illuminato dalle calde luci serali.",
+      "category": "Luogo",
+      "highlights": [
+        "Inveraray",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

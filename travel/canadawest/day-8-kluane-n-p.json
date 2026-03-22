@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    51.0726,
+    -116.2618
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "chilkoot-lake",
+      "name": "Chilkoot Lake",
+      "coords": [
+        59.3538,
+        -135.5983
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Entriamo al visitor centre di Haines dove una gentile impiegata ci consiglia di vedere la parte vecchia del paese ed il lago Chilkoot.",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "usd",
+      "name": "USD",
+      "coords": [
+        42.7914,
+        -96.9254
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

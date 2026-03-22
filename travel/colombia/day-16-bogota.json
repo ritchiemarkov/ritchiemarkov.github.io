@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    5.3091,
+    -74.9272
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "bogota",
+      "name": "Bogotà",
+      "coords": [
+        4.6534,
+        -74.0836
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Bogotà",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cerro-di-monserrate",
+      "name": "Cerro di Monserrate",
+      "coords": [
+        5.9647,
+        -75.7707
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Un pranzo veloce ma concreto e andiamo al punto di partenza per il Cerro di Monserrate ; purtroppo il sentiero pedonale in salita chiude alle 13 in una sorta di inc...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

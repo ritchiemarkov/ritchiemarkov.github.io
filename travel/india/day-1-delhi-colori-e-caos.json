@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    28.6139,
+    77.209
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "delhi-colori",
+      "name": "Delhi: colori",
+      "coords": [
+        28.6139,
+        77.209
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Delhi: colori e caos",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

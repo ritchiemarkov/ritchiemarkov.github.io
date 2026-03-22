@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -38.6964,
+    -62.2194
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "buenos-aires",
+      "name": "Buenos Aires",
+      "coords": [
+        -38.6964,
+        -62.2194
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Buenos Aires",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

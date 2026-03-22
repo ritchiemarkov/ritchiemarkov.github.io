@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    34.9964,
+    112.6142
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "terracotta-army",
+      "name": "Terracotta Army",
+      "coords": [
+        34.4095,
+        109.2437
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Terracotta Army",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "buddha",
+      "name": "Buddha",
+      "coords": [
+        29.5469,
+        103.7693
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Questo gesto, simbolo di buon auspicio, richiama il Buddha , che ha avuto una vita terrena per convertire gli uomini.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vita-del-buddha",
+      "name": "vita del Buddha",
+      "coords": [
+        40.4344,
+        116.5635
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La Tomba di Qin Shi Huangdi è situata circa 30 km da Xi’An nelle vicinanze dell’Esercito.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "avalokiteshvara",
+      "name": "Avalokiteshvara",
+      "coords": [
+        31.4092,
+        120.7755
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "La Pagoda custodisce dei dipinti raffiguranti la vita del Buddha , una statua con Avalokiteshvara ed una sala con il Buddha Shakyamuni: nel tempio vivono attualment...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "citta-caotica",
+      "name": "Città caotica",
+      "coords": [
+        39.9173,
+        116.3908
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 5,
+      "description": "E’ la stagione dei melograni e fuori città si vedono i frutti coperti da una campana di plastica per impedire che vengano attaccati dagli insetti.",
+      "category": "Citta",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "xi-an",
+      "name": "Xi'An",
+      "coords": [
+        34.261,
+        108.9423
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Dopo 1200 km con 13 ore di viaggio alle spalle, alle 9.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

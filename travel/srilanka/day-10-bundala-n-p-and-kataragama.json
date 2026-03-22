@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    6.9549,
+    80.6957
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "bundala-n-p",
+      "name": "Bundala N.P",
+      "coords": [
+        6.1994,
+        81.1967
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Bundala N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "kataragama",
+      "name": "Kataragama",
+      "coords": [
+        6.4134,
+        81.3347
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "and Kataragama",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tissa-wewa",
+      "name": "Tissa Wewa",
+      "coords": [
+        8.3353,
+        80.3794
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ci spostiamo presso il Tissa Dagoba, un altro maestoso stupa dove oggi, giornata di festa coincidente con il plenilunio, è frequentato dai fedeli come da noi una ch...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "devale-di-maha",
+      "name": "Devale di Maha",
+      "coords": [
+        6.8714,
+        79.8718
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "I santuari più importanti sono illuminati, mentre altrove ci si muove con attenzione visto che siamo scalzi per raggiungere il Maha Devale.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

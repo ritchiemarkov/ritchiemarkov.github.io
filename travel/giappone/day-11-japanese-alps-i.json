@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    34.8393,
+    134.694
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "castello-di-kanazawa",
+      "name": "Castello di Kanazawa",
+      "coords": [
+        34.8393,
+        134.694
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Il castello di Kanazawa si estende in un vasto parco, tuttavia non presenta grandi attrattive storiche fatta eccezione per una sala interamente in legno.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

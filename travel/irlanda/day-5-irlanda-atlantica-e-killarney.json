@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    52.3004,
+    -8.9771
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "connor-pass",
+      "name": "Connor Pass",
+      "coords": [
+        52.182,
+        -10.2078
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 1,
+      "description": "Per rientrare dal versante settentrionale della penisola attraversiamo nuovamente Dingle e risaliamo (pendenza del 7,5%) verso il Connor Pass a 456 mt.",
+      "category": "Montagna",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "muckross-house",
+      "name": "Muckross House",
+      "coords": [
+        52.0183,
+        -9.504
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ora il nostro interesse punta sul Parco Nazionale di Killarney al cui interno, oltre al lago omonimo, si trovano anche la Muckross House e le cascate di Torc , alte...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "st-mary-cathedral",
+      "name": "St. Mary Cathedral",
+      "coords": [
+        51.9047,
+        -8.4762
+      ],
+      "emoji": "🛕",
+      "stepNumber": 3,
+      "description": "Mary Cathedral , assai normale dall’esterno ma la cui maestosità si apprezza non appena oltrepassato il modesto ingresso; qui le pareti in pietra salgono come i far...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "limerick-county",
+      "name": "Limerick County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "LIMERICK COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

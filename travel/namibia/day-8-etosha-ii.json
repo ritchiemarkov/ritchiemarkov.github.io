@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -22.5491,
+    17.0916
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "etosha",
+      "name": "Etosha",
+      "coords": [
+        -22.5491,
+        17.0916
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Etosha II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

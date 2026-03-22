@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -21.1363,
+    18.7322
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "tsodilo",
+      "name": "Tsodilo",
+      "coords": [
+        -18.7805,
+        21.7424
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tsodilo + Maun",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "aids",
+      "name": "AIDS",
+      "coords": [
+        -22.5768,
+        17.0861
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bbq",
+      "name": "BBQ",
+      "coords": [
+        -22.0516,
+        17.368
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

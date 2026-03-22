@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    28.3105,
+    75.5385
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "jodhpur",
+      "name": "Jodhpur",
+      "coords": [
+        26.2968,
+        73.0351
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jodhpur",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "clock-tower",
+      "name": "Clock Tower",
+      "coords": [
+        30.3243,
+        78.0419
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Quella che potrebbe configurarsi come la piazza centrale vede al centro la Clock Tower e tutt’intorno banchi di verdura, bazar delle stoffe , un bel lago artificial...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

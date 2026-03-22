@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    22.3154,
+    103.84
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "sa-pa",
+      "name": "Sa Pa",
+      "coords": [
+        22.3154,
+        103.84
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Sa Pa",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

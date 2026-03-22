@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    39.7874,
+    98.2562
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "jiayuguan",
+      "name": "Jiayuguan",
+      "coords": [
+        39.7722,
+        98.2885
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jiayuguan",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "jiayuguan-pass",
+      "name": "Jiayuguan Pass",
+      "coords": [
+        39.8026,
+        98.224
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 2,
+      "description": "Ci si accontenta di un tè con pane cotto al vapore e passiamo oltre con zelo avviandoci verso lo Jiayuguan Pass .",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

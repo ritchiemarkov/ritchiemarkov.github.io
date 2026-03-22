@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    46.7927,
+    9.792
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "passo-il-moldo-bel",
+      "name": "Passo (il Moldo-Bel",
+      "coords": [
+        46.5387,
+        10.1648
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ad un primo passo (il Moldo-Bel) ci troviamo di fronte un altopiano che preclude parte della veduta paesaggistica sulla vallata, compensato dalla rilassante vista d...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mels",
+      "name": "Mels",
+      "coords": [
+        47.0467,
+        9.4193
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ne segue un altro ( Mels ) situato più in basso dove la strada disegna una lunga serie di tornanti, per tuffarsi nel fondovalle.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -33.6375,
+    138.321
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "adelaide",
+      "name": "Adelaide",
+      "coords": [
+        -34.9282,
+        138.5999
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Adelaide",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "quorn",
+      "name": "Quorn",
+      "coords": [
+        -32.3469,
+        138.0421
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Da Wilmington in 39 km raggiungiamo la cittadina di Quorn , che sembra essersi fermata all’epoca pionieristica.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

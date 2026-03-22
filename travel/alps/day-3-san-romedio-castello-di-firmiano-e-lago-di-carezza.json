@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    46.4205,
+    11.3084
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "castello-di-firmiano",
+      "name": "Castello di Firmiano",
+      "coords": [
+        46.4821,
+        11.2985
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "San Romedio, Castello di Firmiano e Lago di Carezza",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-di-carezza",
+      "name": "Lago di Carezza",
+      "coords": [
+        46.4093,
+        11.5759
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "San Romedio, Castello di Firmiano e Lago di Carezza",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lago-di-s-giustina",
+      "name": "Lago di S. Giustina",
+      "coords": [
+        46.3702,
+        11.0509
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Nella notte è piovuto molto ed il mattino si presenta tutt’altro che promettente, pertanto abbandoniamo subito l’idea della passeggiata al lago delle Malghette.",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

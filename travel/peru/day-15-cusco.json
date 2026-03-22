@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -12.7261,
+    -74.3384
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "cusco",
+      "name": "Cusco",
+      "coords": [
+        -13.5171,
+        -71.9785
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cusco",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cristo-blanco",
+      "name": "Cristo Blanco",
+      "coords": [
+        -11.9351,
+        -76.6984
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Passiamo accanto al Cristo Blanco , simile all’omologo che si trova a Rio de Janeiro, solo più piccolo, particolarmente visibile quanto viene illuminato di sera.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

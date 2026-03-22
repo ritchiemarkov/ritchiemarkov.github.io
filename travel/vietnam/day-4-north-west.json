@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    22.3004,
+    103.8936
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "dzay",
+      "name": "Dzay",
+      "coords": [
+        22.3004,
+        103.8936
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Arriviamo a Ta Van, abitato dalle minoranze etniche Dzay a ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

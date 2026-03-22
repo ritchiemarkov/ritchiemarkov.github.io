@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    26.0077,
+    73.0428
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "udaipur",
+      "name": "Udaipur",
+      "coords": [
+        26.4869,
+        74.5561
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Udaipur, Ajmer, Pushkar",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "jagdish-temple",
+      "name": "Jagdish Temple",
+      "coords": [
+        24.5807,
+        73.6846
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Vediamo l’haveli solo da fuori, nelle cui vicinanze si trova il Jagdish Temple misticamente frequentato dai fedeli; all’interno un gruppo intona dei mantra accompag...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "giardini-detti-bagh",
+      "name": "giardini detti Bagh",
+      "coords": [
+        26.9554,
+        70.8876
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La struttura è comunque interessante anche nei contenuti: le stanze sontuose con specchi, ceramiche simili allo stile di Delft con immagini che richiamano il nostro...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

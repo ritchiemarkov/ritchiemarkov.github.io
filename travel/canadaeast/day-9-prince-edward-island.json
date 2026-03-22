@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    45.3503,
+    -71.398
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "prince-edward-island",
+      "name": "Prince Edward Island",
+      "coords": [
+        46.3545,
+        -62.2537
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Prince Edward Island",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "wood-island",
+      "name": "Wood Island",
+      "coords": [
+        44.3597,
+        -75.9936
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sotto un bellissimo sole lasciamo la Nova Scotia per arrivare in un’ora e un quarto a Wood Island nella Provincia di Price Edward Island, la più piccola delle Provi...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "confederation-bridge",
+      "name": "Confederation Bridge",
+      "coords": [
+        45.3368,
+        -75.9467
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Lasciamo Prince Edward passando sul Confederation Bridge , che dicono essere il ponte più lungo del mondo con i suoi 13 km.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

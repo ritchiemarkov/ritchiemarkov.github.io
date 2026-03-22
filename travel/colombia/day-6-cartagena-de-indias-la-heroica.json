@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    6.1483,
+    -74.9702
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "cartagena-de-indias",
+      "name": "Cartagena de Indias",
+      "coords": [
+        10.3761,
+        -75.4951
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cartagena de Indias, la \"Heroica\"",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "plaza-de-bolivar",
+      "name": "Plaza de Bolivar",
+      "coords": [
+        4.5981,
+        -74.076
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Proseguiamo visitando il museo del Oro in Plaza de Bolivar , terminando alle Bovedas , dove al posto dei magazzini militari oggi si trova una lunga fila di negozi d...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bovedas",
+      "name": "Bovedas",
+      "coords": [
+        3.4708,
+        -75.3395
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Proseguiamo visitando il museo del Oro in Plaza de Bolivar , terminando alle Bovedas , dove al posto dei magazzini militari oggi si trova una lunga fila di negozi d...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    12.3531,
+    -71.7869
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "baia-honda",
+      "name": "Baia Honda",
+      "coords": [
+        12.3531,
+        -71.7869
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dalle 7:30 iniziamo a percorrere piste che sagacemente dribblano i cactus , attraversano lande pianeggianti screpolate rassomiglianti ad immagini portate quale esem...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

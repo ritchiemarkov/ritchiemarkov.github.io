@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -50.9423,
+    -73.4068
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "paine",
+      "name": "Paine",
+      "coords": [
+        -50.9423,
+        -73.4068
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Paine II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

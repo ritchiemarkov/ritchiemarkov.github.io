@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    37.0157,
+    -3.3559
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "orgiva",
+      "name": "Orgiva",
+      "coords": [
+        36.9005,
+        -3.4239
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ci fermiamo un attimo ad Orgiva ma non sembra niente di ché se non per la caratteristica tipica di identificarsi in una grossa macchia di bianco declinante lungo i...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "pampaneira",
+      "name": "Pampaneira",
+      "coords": [
+        36.94,
+        -3.3615
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Pampaneira è invece un bel villaggio che merita una passeggiata in centro quando sono le 10 e le vie iniziano ad animarsi, fra i tappeti berberi in vendita molto be...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "palacios-nazaries",
+      "name": "Palacios Nazaries",
+      "coords": [
+        37.1773,
+        -3.5896
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La giornata è abbastanza soleggiata e ci sono 18°, risaliamo verso l’Alhambra per visitare il palazzo di Carlo V (unico nel suo genere, con il perimetro esterno a b...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mirador-di-san-cristobal",
+      "name": "Mirador di San Cristobal",
+      "coords": [
+        37.045,
+        -3.0485
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Ancora una bella camminata, tanto che pur avendo gli occhi pieni di meraviglie architettoniche quanto naturali, non dispiace affatto sedersi in macchina e con un lu...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

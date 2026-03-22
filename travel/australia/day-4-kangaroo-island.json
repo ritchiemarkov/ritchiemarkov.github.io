@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -35.9193,
+    137.2028
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "kangaroo-island",
+      "name": "Kangaroo Island",
+      "coords": [
+        -35.8183,
+        137.1566
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kangaroo Island",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "little-sahara",
+      "name": "Little Sahara",
+      "coords": [
+        -35.9542,
+        137.2478
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Andiamo al Little Sahara , risalendo a piedi varie dune.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vivonne-bay",
+      "name": "Vivonne Bay",
+      "coords": [
+        -35.9853,
+        137.2039
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Prendiamo la strada verso l’Hanson Bay Sanctuary, dove si dovrebbero ammirare dei koala nel loro habitat naturale.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

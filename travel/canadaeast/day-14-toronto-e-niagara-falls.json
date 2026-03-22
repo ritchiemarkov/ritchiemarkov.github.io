@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    44.1568,
+    -76.5444
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "toronto",
+      "name": "Toronto",
+      "coords": [
+        43.6886,
+        -79.474
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Toronto e Niagara Falls",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "niagara-falls",
+      "name": "Niagara Falls",
+      "coords": [
+        43.994,
+        -71.3962
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Toronto e Niagara Falls",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cn-tower",
+      "name": "CN Tower",
+      "coords": [
+        43.6426,
+        -79.3871
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Saliamo a Toronto, che merita di essere vista solo per la CN Tower ed un giro tra i grattacieli del centro , che peraltro hanno l’aria abbastanza arida del centro d...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "canada-occidentale",
+      "name": "Canada Occidentale",
+      "coords": [
+        45.3021,
+        -75.9201
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Torniamo infine al Pearson Airport di Toronto, dal quale siamo arrivati, per espletare le formalità e lasciare il Canada dopo giorni intensi, nei quali l’avidità di.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

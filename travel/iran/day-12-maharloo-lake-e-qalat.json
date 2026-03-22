@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.841,
+    51.1696
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "maharloo-lake",
+      "name": "Maharloo lake",
+      "coords": [
+        29.4284,
+        52.8258
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Maharloo lake e Qalat",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "qalat",
+      "name": "Qalat",
+      "coords": [
+        36.2536,
+        49.5133
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Maharloo lake e Qalat",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -3.1737,
+    37.239
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "machame-gate",
+      "name": "Machame Gate",
+      "coords": [
+        -3.1737,
+        37.239
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kilimanjaro 1 da Machame Gate (1.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

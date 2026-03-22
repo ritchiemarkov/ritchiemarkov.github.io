@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -30.5344,
+    135.6301
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "south-australia",
+      "name": "South Australia",
+      "coords": [
+        -30.5344,
+        135.6301
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "South Australia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

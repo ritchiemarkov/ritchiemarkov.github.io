@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    10.2632,
+    105.9623
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "saigon",
+      "name": "Saigon",
+      "coords": [
+        10.7755,
+        106.7021
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Saigon",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "delta-del-mekong",
+      "name": "Delta Del Mekong",
+      "coords": [
+        9.7509,
+        105.2225
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Partiamo verso il DELTA DEL MEKONG attraversando My Tho e Cai Be (90 km da Saigon).",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

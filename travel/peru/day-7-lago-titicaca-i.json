@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -8.3772,
+    -74.5521
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "lago-titicaca",
+      "name": "Lago Titicaca",
+      "coords": [
+        -8.3966,
+        -74.5658
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Lago Titicaca I",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-titicaca-i",
+      "name": "Lago Titicaca I",
+      "coords": [
+        -8.3577,
+        -74.5385
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Lago Titicaca I",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

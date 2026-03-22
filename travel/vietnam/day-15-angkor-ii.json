@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    16.1734,
+    105.9143
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "angkor",
+      "name": "Angkor",
+      "coords": [
+        16.0428,
+        108.2256
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Angkor II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "south-gate",
+      "name": "South Gate",
+      "coords": [
+        21.8412,
+        106.7553
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Entriamo dal South Gate con un ingresso imponente e due naga che corrono lungo il parapetto verso il lago artificiale.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "phimeanakas",
+      "name": "Phimeanakas",
+      "coords": [
+        13.4457,
+        103.8562
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Proseguiamo verso due templi-montagna di costruzione anteriore, il Baphuon (1050), di forma piramidale e dai bei decori e il Phimeanakas (968).",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ta-keo",
+      "name": "Ta Keo",
+      "coords": [
+        10.7981,
+        105.0639
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Il Ta Keo , dedicato al culto di Shiva.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vii",
+      "name": "Vii",
+      "coords": [
+        18.739,
+        105.6705
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "(1181 – 1220) da Jayavarman VII.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

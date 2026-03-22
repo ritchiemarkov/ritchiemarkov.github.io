@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    13.4197,
+    107.4723
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "my-son",
+      "name": "My Son",
+      "coords": [
+        16.0636,
+        108.24
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "My Son",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "hotel-continental",
+      "name": "Hotel Continental",
+      "coords": [
+        10.7758,
+        106.7046
+      ],
+      "emoji": "🏨",
+      "stepNumber": 2,
+      "description": "Dall’illuminazione del Municipio passiamo a quelle dell’Opera per fermarci un istante di fronte all’ Hotel Continental .",
+      "category": "Alloggio",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

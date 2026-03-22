@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    52.9147,
+    -6.8289
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "military-road",
+      "name": "Military Road",
+      "coords": [
+        52.2609,
+        -7.1271
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Vediamo il complesso con campi da golf dall’esterno per prendere la splendida R115, nota anche come Military Road , venne infatti costruita dagli inglesi per presid...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sally-pass",
+      "name": "Sally Pass",
+      "coords": [
+        53.1377,
+        -6.312
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 2,
+      "description": "La disciplina ed il rispetto degli autisti irlandesi saranno di grande aiuto, quando non si passa tutti cercano di prevenire la strettoia e di trovare uno spazio do...",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "altamont-gardens",
+      "name": "Altamont Gardens",
+      "coords": [
+        52.7359,
+        -6.7181
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Un frugale pranzo apparecchiato aprendo il baule della macchina e via per gli Altamont Gardens , lungo una via dove si susseguono altopiani rivestiti da boschetti d...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "carlow-county",
+      "name": "Carlow County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "CARLOW COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castello",
+      "name": "Castello",
+      "coords": [
+        53.3426,
+        -6.267
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Kilkenny è una bellissima cittadina con il castello , la cattedrale e diverse chiese in pietra levigata.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

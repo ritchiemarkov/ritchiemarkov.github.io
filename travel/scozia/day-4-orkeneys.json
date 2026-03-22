@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    58.9626,
+    -3.1253
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "italian-chapel",
+      "name": "Italian Chapel",
+      "coords": [
+        58.8899,
+        -2.8894
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Si dà il caso che tali barriere vennero costruite proprio da prigionieri italiani, catturati dopo le sconfitte in Africa Settentrionale.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ring-of-brodgar",
+      "name": "Ring of Brodgar",
+      "coords": [
+        59.0016,
+        -3.2299
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si decide così di continuare il giro dell’isola principale e la nostra attenzione va ad alcuni menhir che si trovano lì da qualche millennio ed al Ring of Brodgar ,...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "yesnaby",
+      "name": "Yesnaby",
+      "coords": [
+        59.023,
+        -3.3478
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ci portiamo sulla costa atlantica per vedere Yesnaby , un’alta scogliera che di punto in bianco compie un salto nel mare.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kirkwall",
+      "name": "KIRKWALL",
+      "coords": [
+        58.9816,
+        -2.9604
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "houton",
+      "name": "HOUTON",
+      "coords": [
+        58.9171,
+        -3.1991
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

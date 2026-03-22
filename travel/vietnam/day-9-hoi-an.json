@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    15.888,
+    108.3368
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "hoi-an",
+      "name": "Hoi An",
+      "coords": [
+        15.888,
+        108.3368
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Hoi An",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

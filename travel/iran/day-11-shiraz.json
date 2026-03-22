@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    31.1317,
+    52.1082
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "shiraz",
+      "name": "Shiraz",
+      "coords": [
+        29.606,
+        52.5378
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Shiraz",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "moschea-nasir-al-mulk",
+      "name": "Moschea Nasir al-Mulk",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Tentiamo di vedere la Moschea Nasir al-Mulk , chiamata anche Moschea Rosa, nelle prime ore del mattino per poter ammirare le magiche vetrate che trasportano i loro...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

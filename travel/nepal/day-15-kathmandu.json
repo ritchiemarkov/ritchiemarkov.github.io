@@ -1,0 +1,41 @@
+{
+  "mapCenter": [
+    27.9536,
+    84.6448
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "kathmandu",
+      "name": "Kathmandu",
+      "coords": [
+        27.7083,
+        85.3206
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kathmandu",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "questo-reportage-sara-servito",
+      "name": "Questo Reportage Sara' Servito",
+      "coords": [
+        28.1989,
+        83.9691
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "SE QUESTO REPORTAGE SARA' SERVITO A SENSIBILIZZARE QUALCHE ANIMO SULLA CAUSA TIBETANA, L'OBIETTIVO SARA' A QUESTO PUNTO RAGGIUNTO.",
+      "category": "Luogo",
+      "highlights": [
+        "Sensibilizzare Qualche Animo Sulla Causa",
+        "Tibetana",
+        "L'Obiettivo Sara"
+      ]
+    }
+  ]
+}

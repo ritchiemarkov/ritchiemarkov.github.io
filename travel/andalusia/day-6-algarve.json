@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    38.1982,
+    -7.5408
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "algarve",
+      "name": "Algarve",
+      "coords": [
+        37.0371,
+        -5.6728
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Algarve",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cabo-carvoeiro",
+      "name": "Cabo Carvoeiro",
+      "coords": [
+        39.3593,
+        -9.4088
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A Cabo Carvoeiro c’è un’altra veduta splendida che ci sorprende all’altezza di un enorme arco , dove il mare si diverte ad erodere millimetro dopo millimetro con la...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

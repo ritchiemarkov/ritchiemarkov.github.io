@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    39.6919,
+    96.1904
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "kashgar",
+      "name": "Kashgar",
+      "coords": [
+        39.4666,
+        75.99
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kashgar",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "vengono-in-citta",
+      "name": "vengono in città",
+      "coords": [
+        39.9173,
+        116.3908
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 2,
+      "description": "Vediamo inoltre delle sorte di cateteri intagliati in legno per bambini, i quali vengono fasciati e costretti a mantenere la posizione durante la notte.",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

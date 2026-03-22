@@ -1,0 +1,55 @@
+{
+  "mapCenter": [
+    16.127,
+    105.953
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "angkor",
+      "name": "Angkor",
+      "coords": [
+        16.0428,
+        108.2256
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Angkor III",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Iii"
+      ]
+    },
+    {
+      "id": "banteay-srei",
+      "name": "Banteay Srei",
+      "coords": [
+        13.5992,
+        103.963
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Banteay Srei , a ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vii",
+      "name": "Vii",
+      "coords": [
+        18.739,
+        105.6705
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Tempio Ta Pr o hm (Jayavarman VII), grande monastero buddhista del 1186, che gli archeologi hanno volutamente lasciato nello stato in cui venne ritrovato: gigantesc.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

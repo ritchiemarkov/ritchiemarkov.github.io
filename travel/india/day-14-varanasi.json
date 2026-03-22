@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    27.2267,
+    81.8395
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "varanasi",
+      "name": "Varanasi",
+      "coords": [
+        25.3356,
+        83.0076
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Varanasi",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "vishwanath-temple",
+      "name": "Vishwanath Temple",
+      "coords": [
+        28.6328,
+        77.199
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "L’incantesimo finisce nel momento in cui tocchiamo terra e andiamo a fare un giro tra i vicoli della vecchia Varanasi , dove spicca il Vishwanath Temple ; non entri...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "moderno-aeroporto-di-varanasi",
+      "name": "moderno aeroporto di Varanasi",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "✈️",
+      "stepNumber": 3,
+      "description": "Si va quindi al moderno aeroporto di Varanasi da dove partiremo alle 21:45 per atterrare a Delhi alle 23:15 con un volo della IndiGo.",
+      "category": "Aeroporto",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

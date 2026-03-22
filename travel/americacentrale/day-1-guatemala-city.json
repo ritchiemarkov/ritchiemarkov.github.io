@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    14.6349,
+    -90.5069
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "guatemala-city",
+      "name": "Guatemala City",
+      "coords": [
+        14.6349,
+        -90.5069
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 1,
+      "description": "Guatemala City",
+      "category": "Citta",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

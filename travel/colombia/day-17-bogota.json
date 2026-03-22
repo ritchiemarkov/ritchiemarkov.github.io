@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    4.6534,
+    -74.0836
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "bogota",
+      "name": "Bogotà",
+      "coords": [
+        4.6534,
+        -74.0836
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Bogotà",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

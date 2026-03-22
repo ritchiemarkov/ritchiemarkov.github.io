@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    47.5742,
+    107.7948
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "leaving-mongolia",
+      "name": "Leaving Mongolia",
+      "coords": [
+        47.5742,
+        107.7948
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Leaving Mongolia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    45.897,
+    10.6053
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "dolomiti-di-brenta",
+      "name": "Dolomiti di Brenta",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Madonna di Campiglio e le Dolomiti di Brenta",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "foscagno",
+      "name": "Foscagno",
+      "coords": [
+        46.4886,
+        10.2246
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il meteo sembra migliorare e risaliamo verso il Foscagno , dove in dogana ci lasciano passare senza controlli.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mortirolo",
+      "name": "Mortirolo",
+      "coords": [
+        45.4909,
+        11.1818
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Rientriamo così dall’unica via possibile, quella da cui siamo venuti per uscire prima di Tirano, evitando così Edolo, ed affrontare la salita epica del Mortirolo se...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tonale",
+      "name": "Tonale",
+      "coords": [
+        45.6188,
+        10.2335
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Raggiungiamo il Tonale dopo aver pranzato in una splendida area pic nic a Ponte di Legno, dove i tavoli sono stati distanziati per il Covid.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ossario-della-prima-guerra-mondiale",
+      "name": "ossario della Prima Guerra Mondiale",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Prima di partire è doveroso fare gasolio a 0,785€/lt, poco più della metà di quanto si paga nel resto d’Italia.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cascate-alte-di-vallesinella",
+      "name": "cascate alte di Vallesinella",
+      "coords": [
+        46.2074,
+        10.8469
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "10 che conduce alle cascate alte di Vallesinella dove si trovano le sorgenti del Sarca.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

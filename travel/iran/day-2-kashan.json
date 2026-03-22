@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    33.3225,
+    51.5608
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "kashan",
+      "name": "Kashan",
+      "coords": [
+        33.9877,
+        51.4429
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kashan",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "moschea-aghal-borzog",
+      "name": "Moschea Aghal Borzog",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "La prossima tappa è la Moschea Aghal Borzog , non fra le più antiche ma la principale della città in quanto ad architettura e decorazioni.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

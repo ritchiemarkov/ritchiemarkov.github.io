@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    15.1012,
+    105.5965
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "angkor",
+      "name": "Angkor",
+      "coords": [
+        16.0428,
+        108.2256
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Angkor I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "phnom-santuk",
+      "name": "Phnom Santuk",
+      "coords": [
+        12.2605,
+        104.6318
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Da lì partiamo alla volta di Siem Reap, non prima di aver visto il rilievo di Phnom Santuk , luogo sacro per i Cambogiani che eressero una venerata pagoda dalla qua...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vii",
+      "name": "VII",
+      "coords": [
+        18.739,
+        105.6705
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "siem-reap",
+      "name": "SIEM REAP",
+      "coords": [
+        13.3623,
+        103.8581
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

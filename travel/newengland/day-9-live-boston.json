@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    42.6814,
+    -74.4397
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "live-boston",
+      "name": "Live Boston",
+      "coords": [
+        42.3495,
+        -71.1306
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Live Boston",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "trinity-church",
+      "name": "Trinity Church",
+      "coords": [
+        40.7081,
+        -74.0122
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Riprendiamo la macchina e siamo ormai a Boston, parcheggiamo presso un distributore dalle parti della Trinity Church che “offre” posti auto a soli 20$/giorno, mentr...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "black-heritage-trail",
+      "name": "Black Heritage Trail",
+      "coords": [
+        43.7602,
+        -79.5181
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "e, partendo dal Public Garden andiamo ad iniziare il Freedom Trail lungo 4 km, dal quale per la verità ci distacchiamo quasi subito per percorrere un altro circuito...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "old-state-house",
+      "name": "Old State House",
+      "coords": [
+        42.3587,
+        -71.0575
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "- Old State House , anch’essa minacciosamente attorniata da grattaceli che la cingono in un’irreale ombra illuminata dal riflesso dei vetri;",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "fanheuil-hall",
+      "name": "Fanheuil Hall",
+      "coords": [
+        44.2304,
+        -76.4803
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "- Fanheuil Hall",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

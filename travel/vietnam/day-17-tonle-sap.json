@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    12.2178,
+    104.4688
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "tonle-sap",
+      "name": "Tonle Sap",
+      "coords": [
+        12.8861,
+        104.02
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tonle Sap",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tuol-sleng",
+      "name": "Tuol Sleng",
+      "coords": [
+        11.5495,
+        104.9176
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci rechiamo a vedere subito il Museo Tuol Sleng , liceo che fu sede della polizia politica sotto il regime di Pol Pot.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

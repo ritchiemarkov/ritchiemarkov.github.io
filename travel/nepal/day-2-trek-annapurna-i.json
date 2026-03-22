@@ -1,0 +1,56 @@
+{
+  "mapCenter": [
+    28.3797,
+    84.0205
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "trek-annapurna",
+      "name": "Trek Annapurna",
+      "coords": [
+        28.5854,
+        83.9891
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Annapurna I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "punto-di-controllo-tims",
+      "name": "punto di controllo TIMS",
+      "coords": [
+        28.1989,
+        83.9691
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Oltrepassiamo il nel punto di controllo TIMS dove mostriamo il relativo permesso, mentre a Pothana c’è quello dell’ACAP, proprio mentre la pioggia aumenta d’intensi...",
+      "category": "Luogo",
+      "highlights": [
+        "Tims",
+        "Acap"
+      ]
+    },
+    {
+      "id": "acap",
+      "name": "Acap",
+      "coords": [
+        28.3549,
+        84.1034
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Oltrepassiamo il nel punto di controllo TIMS dove mostriamo il relativo permesso, mentre a Pothana c’è quello dell’ACAP, proprio mentre la pioggia aumenta d’intensi.",
+      "category": "Luogo",
+      "highlights": [
+        "Tims",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

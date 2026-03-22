@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -32.7456,
+    115.6579
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "thorny-devil",
+      "name": "Thorny Devil",
+      "coords": [
+        -32.7456,
+        115.6579
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Vediamo il famoso Thorny Devil (una lucertola che ben si mimetizza con una foglia secca), alcuni pitoni, mammiferi (wallabies, wombats, ecc.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

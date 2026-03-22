@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.2813,
+    53.0244
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "yazd",
+      "name": "Yazd",
+      "coords": [
+        31.9052,
+        54.3701
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Yazd I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "antichissima-moschea",
+      "name": "antichissima moschea",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Giungiamo a Na’in sotto un caldo sole per vedere l’ antichissima moschea (ha oltre 1000 anni), decorata con stucchi mirabilmente conservati.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

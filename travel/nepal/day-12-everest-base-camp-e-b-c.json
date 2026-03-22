@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    28.0816,
+    86.5566
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "everest-base-camp",
+      "name": "Everest Base Camp",
+      "coords": [
+        28.2215,
+        83.9739
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Everest Base Camp (E.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cho-oyu",
+      "name": "Cho Oyu",
+      "coords": [
+        27.7173,
+        85.3262
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Da destra (ovest) si vede la lunga cresta imbiancata del Cho Oyu , al centro come una star l’Everest e subito dietro il Lhotse.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "leverest",
+      "name": "l’Everest",
+      "coords": [
+        27.8159,
+        86.7248
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La nostra guida cerca di andare a prendere i permessi per entrare nel Parco dell’Everest ma ciò non è possibile in quanto l’ufficio è chiuso per festività.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "makalu",
+      "name": "Makalu",
+      "coords": [
+        27.7285,
+        87.1636
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Più a est si vede bene il Makalu .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "monastero",
+      "name": "Monastero",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "A Rongbuk andiamo a visitare il locale monastero , il più alto del mondo.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

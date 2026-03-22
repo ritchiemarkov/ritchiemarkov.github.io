@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    42.9166,
+    -77.212
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "newfoundland",
+      "name": "Newfoundland",
+      "coords": [
+        41.0465,
+        -74.4352
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Newfoundland II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "matthew",
+      "name": "Matthew",
+      "coords": [
+        45.381,
+        -75.7502
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Proseguendo lungo la penisola di Bonavista giungiamo al capo omonimo e vediamo the Matthew , la copia della nave utilizzata da Caboto nella sua traversata.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "trans-canada-hwy",
+      "name": "Trans Canada Hwy",
+      "coords": [
+        45.3021,
+        -75.9201
+      ],
+      "emoji": "🚙",
+      "stepNumber": 3,
+      "description": "Nel centro cittadino vediamo il punto iniziale della Trans Canada Hwy , ossia il km 0.",
+      "category": "Trasferimento",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cape-spear",
+      "name": "Cape Spear",
+      "coords": [
+        39.9368,
+        -82.7425
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Visitiamo Cape Spear , dove la vegetazione, a dispetto della calma attuale, ci fa pensare che il vento spiri fresco, forte e frequente su questo promontorio che rap...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

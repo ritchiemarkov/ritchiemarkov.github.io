@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    7.2931,
+    80.635
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "kandy",
+      "name": "Kandy",
+      "coords": [
+        7.2931,
+        80.635
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kandy",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

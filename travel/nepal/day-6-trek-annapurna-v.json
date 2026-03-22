@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.3946,
+    83.9236
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "trek-annapurna-v",
+      "name": "Trek Annapurna V",
+      "coords": [
+        28.5854,
+        83.9891
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Annapurna V",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "machhapuchhre",
+      "name": "Machhapuchhre",
+      "coords": [
+        28.2215,
+        83.9739
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "In lontananza l’Annapurna South troneggia insieme al Machhapuchhre più a est.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ghandruk",
+      "name": "Ghandruk",
+      "coords": [
+        28.3769,
+        83.8078
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ghandruk è costituito da una serie di borgate che distano poche ore da una stradina sterrata su cui si inerpicano i mezzi, da lì carovane di muli portano le merci i...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    61.0429,
+    -149.5708
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "anchorage",
+      "name": "Anchorage",
+      "coords": [
+        61.2181,
+        -149.9003
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Anchorage",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "potter-marsh",
+      "name": "Potter Marsh",
+      "coords": [
+        61.0774,
+        -149.8289
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Alla periferia di Anchorage è ancora d’obbligo una fermata al Potter Marsh , le paludi che sembrano uno specchio.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "portage-lake-alba",
+      "name": "Portage Lake - Alba",
+      "coords": [
+        60.8333,
+        -148.9833
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Ultima visita a Portage all'alba: atmosfera dantesca con foschia bassa illuminata dai raggi solari, che si riflette sulle acque del lago formato dall'Harding Glacie.",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    8.0777,
+    80.8199
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "kaudulla",
+      "name": "Kaudulla",
+      "coords": [
+        8.1984,
+        80.8795
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kaudulla, Sigiriya",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sigiriya",
+      "name": "Sigiriya",
+      "coords": [
+        7.957,
+        80.7603
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Kaudulla, Sigiriya",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

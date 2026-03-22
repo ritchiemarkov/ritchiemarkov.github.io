@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    53.5132,
+    -10.0141
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "tully-mountain",
+      "name": "Tully Mountain",
+      "coords": [
+        53.5838,
+        -10.0049
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Connemara e Tully Mountain",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "dogs-bay",
+      "name": "Dogs Bay",
+      "coords": [
+        53.381,
+        -9.9733
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La Dogs Bay presso Doonloughhan dev’essere invece un’ottima spiaggia se vista con il dovuto soleggiamento, dal colore biancastro contornato da scogli levigati; arri...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "sky-road",
+      "name": "Sky Road",
+      "coords": [
+        53.5085,
+        -10.0399
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La Sky Road dev’essere bellissima, solo ci fosse il sole ad illuminarla, ed ancor più dev’esserlo la splendida quanto frastaglia la costa che sembra un pizzo creato...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "omey-island",
+      "name": "Omey Island",
+      "coords": [
+        53.5309,
+        -10.1629
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Un’esperienza che non avevamo ancora avuto modo di vivere è l’attraversamento a piedi di un braccio di mare che unisce la terraferma (per quanto improprio trattando...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kylemore-abbey",
+      "name": "Kylemore Abbey",
+      "coords": [
+        53.5617,
+        -9.8894
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Andiamo alla Kylemore Abbey , decidiamo di non spendere 15€ richiesti anche solo per fare la passeggiata a piedi che conduce dall’abbazia ai giardini, limitandoci c...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

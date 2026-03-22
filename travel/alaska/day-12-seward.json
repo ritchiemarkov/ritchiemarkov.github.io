@@ -1,0 +1,114 @@
+{
+  "mapCenter": [
+    60.7973,
+    -149.3356
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "seward",
+      "name": "Seward",
+      "coords": [
+        60.1014,
+        -149.4404
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Seward",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "potter-marsh",
+      "name": "Potter Marsh",
+      "coords": [
+        61.0774,
+        -149.8289
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il primo fra essi lo incontriamo al Potter Marsh , una palude a 16 km da Anchorage dove vivono folte colonie di uccelli acquatici, ben visitabile tramite centinaia...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "turnagain-arm",
+      "name": "Turnagain Arm",
+      "coords": [
+        60.9944,
+        -149.8364
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Facciamo ancora un paio di fermate sul Turnagain Arm .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "whittier",
+      "name": "WHITTIER",
+      "coords": [
+        60.7731,
+        -148.6839
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Decidiamo di fare una visita a WHITTIER , attirati più dalla sua stranezza che non dalle bellezze che vi si potranno ammirare.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "anton-anderson-tunnel",
+      "name": "Anton Anderson Tunnel",
+      "coords": [
+        60.7831,
+        -148.7683
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "E’ collegata al resto del Paese via terra da un lungo tunnel di 2,7 mi.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "begich-tower",
+      "name": "Begich Tower",
+      "coords": [
+        60.8333,
+        -148.9833
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "L’hinterland è invece veramente squallido: vi si trova un casermone dove attualmente vive circa l’80% dei locali, il Begich Tower , un edificio di 14 piani.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "chugach-state-park-headquarters",
+      "name": "Chugach State Park Headquarters",
+      "coords": [
+        61.0186,
+        -149.8083
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Breve sosta presso la sede del parco, dove è esposto un treno spazzaneve storico utilizzato per mantenere sgombra la ferrovia tra Seward e Anchorage durante l'inver.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

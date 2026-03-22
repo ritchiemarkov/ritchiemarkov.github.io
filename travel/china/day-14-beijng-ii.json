@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    39.9916,
+    116.3842
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "water-cube",
+      "name": "Water Cube",
+      "coords": [
+        39.9916,
+        116.3842
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Water Cube è il centro di nuoto nazionale, con le bolle che escono in superficie, la sua forma richiama la struttura dell’ “H2O”.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

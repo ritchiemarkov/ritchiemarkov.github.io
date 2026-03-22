@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    28.5202,
+    87.5861
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "lhasa",
+      "name": "Lhasa",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lhasa",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "jokhang",
+      "name": "Jokhang",
+      "coords": [
+        27.6425,
+        87.9177
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Vediamo subito il Jokhang , nel centro storico della capitale, costruito nel 7° secolo, è il tempio più sacro di tutto il Tibet.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "piazza-del-barkhor",
+      "name": "Piazza del Barkhor",
+      "coords": [
+        29.6527,
+        91.1315
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Vediamo subito il Jokhang , nel centro storico della capitale, costruito nel 7° secolo, è il tempio più sacro di tutto il Tibet.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "potala",
+      "name": "Potala",
+      "coords": [
+        28.6693,
+        83.9745
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "In mezzo ad aiuole e fioriture saliamo sulla terrazza del tempio dalla quale si gode un’ottima vista sulla piazza del Barkhor ed, in lontananza, vediamo per la prim...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "monastero-di-drepung",
+      "name": "Monastero di Drepung",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Ci si sposta nella periferia occidentale per visitare il Monastero di Drepung , che sorge in posizione dominante sulla città e con bella vista sulla catena montuosa...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

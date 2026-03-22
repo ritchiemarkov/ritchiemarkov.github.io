@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    13.6929,
+    -89.2182
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "san-salvador",
+      "name": "San Salvador",
+      "coords": [
+        13.6929,
+        -89.2182
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "San Salvador",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

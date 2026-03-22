@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.5692,
+    83.9055
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "trek-annapurna",
+      "name": "Trek Annapurna",
+      "coords": [
+        28.5854,
+        83.9891
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Annapurna IV",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "annapurna-i",
+      "name": "Annapurna I",
+      "coords": [
+        28.5958,
+        83.8199
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Oggi anche l’ Annapurna I ci osserva mentre i primi raggi di sole lo raggiungono.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mbc",
+      "name": "MBC",
+      "coords": [
+        28.5265,
+        83.9076
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    37.0705,
+    112.6726
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "xi-an",
+      "name": "Xi'An",
+      "coords": [
+        34.261,
+        108.9423
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Xi'An",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tempio-lamaista",
+      "name": "Tempio Lamaista",
+      "coords": [
+        39.8799,
+        116.4029
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "In uno dei quattro angoli scopriamo perfino un Tempio Lamaista ( Guang Zeng ), magnificamente mantenuto, che con i suoi tetti dorati ed i ricchi cortili schiude dav...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

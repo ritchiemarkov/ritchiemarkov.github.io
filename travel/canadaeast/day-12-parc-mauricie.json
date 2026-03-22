@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    46.7249,
+    -71.6086
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "parc-mauricie",
+      "name": "Parc Mauricie",
+      "coords": [
+        45.5956,
+        -73.6839
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Parc Mauricie",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "riviere-di-st-maurice",
+      "name": "Riviere di St. Maurice",
+      "coords": [
+        47.8541,
+        -69.5333
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Seguiamo l’ampio e lento Riviere di St.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

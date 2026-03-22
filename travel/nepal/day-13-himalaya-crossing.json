@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    28.0975,
+    84.9691
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "zhangmu",
+      "name": "Zhangmu",
+      "coords": [
+        27.9735,
+        85.9643
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Quando sono appena le 15 arriviamo alla meta quotidiana di Zhangmu , una città molto particolare: intanto si disloca lungo una serie di tornanti in ripida discesa,...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "allaltezza-del-bivio-che-porta-al-campo-base-del-cho-oyu",
+      "name": "all’altezza del bivio che porta al campo base del Cho Oyu",
+      "coords": [
+        28.2215,
+        83.9739
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il primo tratto ripercorre la strada da cui siamo saliti, poi anziché ripiegare verso Shegar, prendiamo una traccia che porta a Tingri .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

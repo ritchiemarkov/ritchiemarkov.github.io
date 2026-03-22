@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    44.4499,
+    -1.7334
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "san-sebastian",
+      "name": "San Sebastian",
+      "coords": [
+        43.315,
+        -2.0063
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "San Sebastian e Pamplona",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cattedrale-gotica",
+      "name": "Cattedrale gotica",
+      "coords": [
+        47.2179,
+        -1.551
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Visitiamo la Cattedrale gotica e la chiesa di Sta Maria del Coro , caratteristica per la sua entrata laterale.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "immagine-della-citta-bassa",
+      "name": "immagine della città bassa",
+      "coords": [
+        42.8168,
+        -1.6428
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 3,
+      "description": "Saliamo sul monte Urgull , dal quale si ha una splendida immagine della città bassa e della spiaggia, dopo aver fatto una passeggiata lungo l’Atlantico che infrange...",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

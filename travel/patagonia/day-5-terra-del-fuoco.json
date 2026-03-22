@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    -53.8165,
+    -68.3058
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "terra-del-fuoco",
+      "name": "Terra del Fuoco",
+      "coords": [
+        -53.7686,
+        -67.7303
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Terra del Fuoco",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "integracion-austral",
+      "name": "Integracion Austral",
+      "coords": [
+        -52.1418,
+        -69.5199
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Arriviamo al passo della Integracion Austral .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lago-fagnano",
+      "name": "Lago Fagnano",
+      "coords": [
+        -54.5538,
+        -67.6701
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Da questo punto in avanti ogni km meriterebbe una fermata fotografica: con fatica ci limitiamo ad immortalare il lago Fagnano , che si trova nella depressione di un...",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ushuaia",
+      "name": "USHUAIA",
+      "coords": [
+        -54.8019,
+        -68.303
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Sono ormai le 20 quando giungiamo a USHUAIA , a 54°45’ di latitudine sud.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    9.4855,
+    -72.4343
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "bahia-hondita",
+      "name": "Bahia Hondita",
+      "coords": [
+        12.4168,
+        -71.7195
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ci fermiamo per un attimo a scattare qualche foto da un punto panoramico su Bahia Hondita e ci rimettiamo subito in moto sapendo che la giornata si presenta piena d...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "expreso-brasilia",
+      "name": "Expreso Brasilia",
+      "coords": [
+        6.5543,
+        -73.1491
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fortuna vuole che i sindacalizzati wayuu oggi non abbiano previsto blocchi e ancora sotto qualche scroscio di pioggia arriviamo prima nella sede dell’agenzia e quin...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

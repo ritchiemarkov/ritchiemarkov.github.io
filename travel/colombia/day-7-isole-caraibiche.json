@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -0.583,
+    -72.1173
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "isla-azul",
+      "name": "isla Azul",
+      "coords": [
+        -0.583,
+        -72.1173
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Con una buona organizzazione veniamo avviati sulla lancia che a velocità sostenuta raggiunge l’ Isla Grande di Rosario , ci buttiamo nell’acqua cristallina per una...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

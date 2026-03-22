@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    47.5553,
+    103.9566
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "mongolia",
+      "name": "Mongolia",
+      "coords": [
+        47.5742,
+        107.7948
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Central Mongolia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "monastero",
+      "name": "Monastero",
+      "coords": [
+        45.4631,
+        103.9005
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Visitiamo il monastero di Danzandarjiaa Khiid e pranziamo qualche decina di km a sud, lungo le sponde del fiume Delger , dove incontriamo i francesi lasciati stamat...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "moron",
+      "name": "Mörön",
+      "coords": [
+        49.6285,
+        100.1746
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La cuoca allestisce una cucina all’interno e prepara il makh , tagliando le costine di montone farcite di grasso, comprate al mercato di Mörön .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -13.0065,
+    -76.6393
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "paracas",
+      "name": "Paracas",
+      "coords": [
+        -13.835,
+        -76.2496
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Paracas",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mtb",
+      "name": "MTB",
+      "coords": [
+        -12.1779,
+        -77.029
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

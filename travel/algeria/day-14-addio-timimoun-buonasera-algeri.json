@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.8123,
+    3.4185
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "addio-timimoun",
+      "name": "Addio Timimoun",
+      "coords": [
+        29.2605,
+        0.2286
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Addio Timimoun, buonasera Algeri",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "buonasera-algeri",
+      "name": "buonasera Algeri",
+      "coords": [
+        36.3642,
+        6.6084
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Addio Timimoun, buonasera Algeri",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

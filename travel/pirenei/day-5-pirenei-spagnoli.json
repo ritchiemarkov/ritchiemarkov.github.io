@@ -1,0 +1,88 @@
+{
+  "mapCenter": [
+    43.2408,
+    0.7929
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "pirenei-spagnoli",
+      "name": "Pirenei spagnoli",
+      "coords": [
+        43.31,
+        -0.3721
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Pirenei spagnoli",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "anso",
+      "name": "Anso",
+      "coords": [
+        42.9596,
+        0.8231
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Scendiamo nella VALLE DEL RONCAL (a Isaba), per trasferirci in quella di ANSO’ (Anso) ed infine nella VALLE DE HECHO (Hecho).",
+      "category": "Luogo",
+      "highlights": [
+        "Valle Del Roncal",
+        "Valle",
+        "Hecho"
+      ]
+    },
+    {
+      "id": "ciudadela",
+      "name": "Ciudadela",
+      "coords": [
+        43.2063,
+        2.364
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Sotto un sole lucente e caldo, facciamo il giro intorno alla Ciudadela pentagonale (pare essere una delle due sole rimaste in Europa).",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "parque-nacional-de-ordesa",
+      "name": "PARQUE NACIONAL DE ORDESA",
+      "coords": [
+        42.6476,
+        -0.0557
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Si va a Biescas e di qui a BROTO, che è anticamera della rinomata TORLA , a sua volta la porta del PARQUE NACIONAL DE ORDESA .",
+      "category": "Luogo",
+      "highlights": [
+        "Broto",
+        "Torla",
+        "Parque Nacional"
+      ]
+    },
+    {
+      "id": "eta",
+      "name": "ETA",
+      "coords": [
+        44.0807,
+        1.2051
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

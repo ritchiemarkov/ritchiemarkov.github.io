@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    29.1011,
+    84.6209
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "trek-kailash",
+      "name": "Trek Kailash",
+      "coords": [
+        29.2773,
+        79.647
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Kailash I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "un-monastero",
+      "name": "un monastero",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sull’altro lato, oltre il torrente, c’è un monastero la cui ristrutturazione volge verso il termine.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

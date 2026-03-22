@@ -1,0 +1,56 @@
+{
+  "mapCenter": [
+    28.0354,
+    84.8824
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "back",
+      "name": "Back",
+      "coords": [
+        27.7252,
+        85.3607
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Back to Lhasa III",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Iii"
+      ]
+    },
+    {
+      "id": "potala",
+      "name": "Potala",
+      "coords": [
+        28.6693,
+        83.9745
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Infine entriamo nel caos di Lhasa e ci facciamo portare nella piazza antistante il Potala per alcune foto di gruppo e per compiere il kora dello stesso Potala.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lhasa-iii",
+      "name": "Lhasa III",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Back to Lhasa III",
+      "category": "Luogo",
+      "highlights": [
+        "Iii",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

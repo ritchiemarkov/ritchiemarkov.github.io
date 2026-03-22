@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    24.7071,
+    54.9774
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "abu-dhabi",
+      "name": "Abu Dhabi",
+      "coords": [
+        24.25,
+        55.75
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Abu Dhabi",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "burj-mohammed-bin-rashid",
+      "name": "Burj Mohammed bin Rashid",
+      "coords": [
+        25.197,
+        55.2741
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Abbiamo un piano dettagliato dei punti da visitare così ci spostiamo subito di qualche km verso nord per andare a vedere la parte centrale incominciando dal quartie...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "etisalat-head-office",
+      "name": "Etisalat Head Office",
+      "coords": [
+        24.4847,
+        54.3598
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Abbiamo un piano dettagliato dei punti da visitare così ci spostiamo subito di qualche km verso nord per andare a vedere la parte centrale incominciando dal quartie...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "emirates-palace",
+      "name": "Emirates Palace",
+      "coords": [
+        24.4624,
+        54.3175
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Ci spostiamo nella zona detta Breakwater: Emirates Palace : hotel a 5 stelle, nel quale è consentito entrare per ammirare la ricchezza che ne decora le sale .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "burj-al-arab",
+      "name": "Burj al Arab",
+      "coords": [
+        25.1413,
+        55.1854
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Unico comune denominatore di questa società in cui i cosiddetti veri arabi sono una sparuta minoranza, contro una massiccia presenza asiatica per i lavori di bassa...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

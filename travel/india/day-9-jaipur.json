@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    26.9982,
+    75.1556
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "coords": [
+        26.9155,
+        75.819
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jaipur",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "hawa-mahal",
+      "name": "Hawa Mahal",
+      "coords": [
+        27.175,
+        78.0421
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Al mattino vediamo subito l’ Hawa Mahal , forse quello più interessante, detto anche il palazzo alveare.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "amber-fort",
+      "name": "Amber Fort",
+      "coords": [
+        26.9863,
+        75.8507
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "A seguire usciamo di qualche km da Jaipur per visitare l’ Amber Fort, anch’esso adagiato su una lunga collina e circondato a distanza dal cordone difensivo di una m...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "natwar-ji-ka-mandir",
+      "name": "Natwar Ji Ka Mandir",
+      "coords": [
+        26.9159,
+        70.9105
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "C’è ancora del tempo e ne approfittiamo per respirare qualche istante di silenzio nel complesso Natwar Ji Ka Mandir , creato dall’imprenditore Birla, dove si trova u",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

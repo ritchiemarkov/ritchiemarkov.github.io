@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    50.9528,
+    -116.9633
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "kootenay-n-p",
+      "name": "Kootenay N.P",
+      "coords": [
+        50.7094,
+        -120.3463
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Kootenay N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "johnston-canyon",
+      "name": "Johnston canyon",
+      "coords": [
+        51.2536,
+        -115.838
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 2,
+      "description": "Non possiamo vedere il Marble Canyon, in quanto chiuso a seguito dei numerosi incendi.",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kananaskis-country",
+      "name": "Kananaskis Country",
+      "coords": [
+        50.8953,
+        -114.7057
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Usciamo definitivamente dal parco per deviare verso sud nel Kananaskis Country , in un paesaggio ricco di colori vivi.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

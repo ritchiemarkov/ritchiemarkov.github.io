@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    40.7951,
+    -76.5124
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "cape-cod",
+      "name": "Cape Cod",
+      "coords": [
+        39.9368,
+        -82.7425
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cape Cod",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "hyannis",
+      "name": "Hyannis",
+      "coords": [
+        41.6535,
+        -70.2823
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Proseguiamo in qualche modo per poi visitare Hyannis sulla cui Ocean Rd si trova il John F.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

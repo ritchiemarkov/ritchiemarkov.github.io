@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -49.2719,
+    -73.0432
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "fitz-roy",
+      "name": "Fitz Roy",
+      "coords": [
+        -49.2719,
+        -73.0432
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Fitz Roy",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

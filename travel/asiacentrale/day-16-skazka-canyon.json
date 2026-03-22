@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    45.2541,
+    8.6117
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "torre-di-burana",
+      "name": "Torre di Burana",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nel pomeriggio facciamo una breve soste a vedere la Torre di Burana , un antico minareto tronco, importante simbolo della storia locale.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    29.6438,
+    85.4363
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "saga",
+      "name": "Saga",
+      "coords": [
+        29.333,
+        85.2311
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Saga",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-manasarovar",
+      "name": "Lago Manasarovar",
+      "coords": [
+        30.6735,
+        81.483
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Un paio di foto e si riparte per le sponde del lago Manasarovar : la luce non è delle migliori, il cielo opalescente impedisce una visione cristallina delle acque m...",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "monastero-di-chugompa",
+      "name": "Monastero di Chugompa",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il monastero di Chugompa che fa capolino poche centinaia di metri all’interno ci invita a provare le nostre capacità escursionistiche in quota, così risaliamo la st...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    35.7584,
+    139.7425
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "sas",
+      "name": "SAS",
+      "coords": [
+        35.7584,
+        139.7425
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

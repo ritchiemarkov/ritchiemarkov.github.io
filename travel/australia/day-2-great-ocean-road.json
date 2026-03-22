@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -36.9647,
+    146.1743
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "great-ocean-road",
+      "name": "Great Ocean Road",
+      "coords": [
+        -38.3799,
+        144.2076
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Great Ocean Road",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "twelve-apostles",
+      "name": "Twelve Apostles",
+      "coords": [
+        -38.6622,
+        143.1044
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "con i Twelve Apostles , che incontriamo in splendida forma .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "london-bridge",
+      "name": "London Bridge",
+      "coords": [
+        -33.8521,
+        151.2108
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Un caso recente si è avuto una decina d’anni fa pochi km più avanti, quando il London Bridge , un promontorio che entra nel mare per qualche decina di metri e forma...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

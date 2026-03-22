@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    53.0687,
+    -7.3748
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "dublino",
+      "name": "Dublino",
+      "coords": [
+        53.3494,
+        -6.2606
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dublino",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "st-patricks",
+      "name": "St. Patrick’s",
+      "coords": [
+        52.6709,
+        -8.6065
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Patrick’s e la Christ Chruch Cathedral , paradossalmente due in una città quasi interamente cattolica.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "christ-chruch-cathedral",
+      "name": "Christ Chruch Cathedral",
+      "coords": [
+        53.1579,
+        -6.9116
+      ],
+      "emoji": "🛕",
+      "stepNumber": 3,
+      "description": "Patrick’s e la Christ Chruch Cathedral , paradossalmente due in una città quasi interamente cattolica.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "dublin-county",
+      "name": "Dublin County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "DUBLIN COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

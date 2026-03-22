@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    12.2382,
+    -72.1427
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "pilon-de-azucar",
+      "name": "Pilón de Azúcar",
+      "coords": [
+        12.2382,
+        -72.1427
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Abbiamo ancora il pomeriggio a disposizione e lo impiegheremo andando a visitare la collinetta chiamata Pilón de Azúcar prospicente al mar dei Caraibi e alla Playa...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

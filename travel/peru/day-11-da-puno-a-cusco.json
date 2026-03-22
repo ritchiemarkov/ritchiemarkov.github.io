@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -13.4817,
+    -71.1069
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "raqchi",
+      "name": "Raqchi",
+      "coords": [
+        -13.4817,
+        -71.1069
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nella fermata successiva abbiamo invece l’occasione per saziarci di cultura Incaica visitando Raqchi , il Tempio di Viracocha , l’unico dedicato all’autorità suprem...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

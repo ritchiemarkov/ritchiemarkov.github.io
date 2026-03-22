@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    35.2193,
+    137.4402
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "himeji",
+      "name": "Himeji",
+      "coords": [
+        34.8393,
+        134.694
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Himeji e Kyoto I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "kyoto-i",
+      "name": "Kyoto I",
+      "coords": [
+        35.0116,
+        135.7681
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Himeji e Kyoto I",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "koko-en-il-giardino",
+      "name": "Koko-en, il giardino",
+      "coords": [
+        35.3322,
+        139.5555
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Dopo due ore davvero interessanti visitiamo ancora l’incantevole Koko-en, il giardino adiacente che rappresenta una vera musica per gli occhi: cespugli fioriti, ace...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tofuku-ji-temple",
+      "name": "Tofuku-ji temple",
+      "coords": [
+        35.6943,
+        139.7433
+      ],
+      "emoji": "🛕",
+      "stepNumber": 4,
+      "description": "Con un balzo in bus ci portiamo in prossimità del Tofuku-ji temple , dove sorgono altri edifici religiosi imponenti di credo buddhista; sembra che la religione vole...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

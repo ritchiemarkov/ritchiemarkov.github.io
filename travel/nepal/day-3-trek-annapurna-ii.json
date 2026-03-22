@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    28.4245,
+    83.9652
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "trek-annapurna",
+      "name": "Trek Annapurna",
+      "coords": [
+        28.5854,
+        83.9891
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Annapurna II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "bamboo",
+      "name": "Bamboo",
+      "coords": [
+        28.457,
+        83.8569
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lungo un sentiero circondato da alberi di rododendri fioriti ed un ripido saliscendi scalinato, mantenendo praticamente la stessa quota, raggiungiamo Bamboo quando...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "acap",
+      "name": "Acap",
+      "coords": [
+        28.3549,
+        84.1034
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Anche se non è obbligatorio, il loro impiego viene anche preteso nei primi punti di controllo ACAP e TIMS.",
+      "category": "Luogo",
+      "highlights": [
+        "Tims"
+      ]
+    },
+    {
+      "id": "tims",
+      "name": "Tims",
+      "coords": [
+        28.1989,
+        83.9691
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Anche se non è obbligatorio, il loro impiego viene anche preteso nei primi punti di controllo ACAP e TIMS.",
+      "category": "Luogo",
+      "highlights": [
+        "Acap"
+      ]
+    },
+    {
+      "id": "mbc",
+      "name": "Mbc",
+      "coords": [
+        28.5265,
+        83.9076
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Acquistiamo per la prima volta l’acqua bollita che consente di limitare l’uso della plastica e costa molto meno delle bottiglie (i prezzi variano dai 50 Rs di Ghand.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

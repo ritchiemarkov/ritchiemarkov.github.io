@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    40.1913,
+    -8.6387
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "porto",
+      "name": "Porto",
+      "coords": [
+        41.1502,
+        -8.6103
+      ],
+      "emoji": "⚓️",
+      "stepNumber": 1,
+      "description": "Porto",
+      "category": "Porto",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ponte-dom-luis-i",
+      "name": "Ponte Dom Luis I",
+      "coords": [
+        39.2324,
+        -8.6672
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sé: la cattedrale posta in posizione dominante con ottima vista sulla parte bassa e sul fiume Ponte Dom Luis I che attraversiamo al livello superiore destinato al t...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

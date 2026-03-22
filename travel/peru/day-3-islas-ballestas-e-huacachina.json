@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -13.8727,
+    -76.1554
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "islas-ballestas",
+      "name": "Islas Ballestas",
+      "coords": [
+        -13.736,
+        -76.3944
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Islas Ballestas e Huacachina",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "huacachina",
+      "name": "Huacachina",
+      "coords": [
+        -14.0876,
+        -75.7631
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Islas Ballestas e Huacachina",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "candelabro",
+      "name": "Candelabro",
+      "coords": [
+        -13.7944,
+        -76.3086
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ci dirigiamo verso il Candelabro , un geoglifo di cui si sa molto poco (più evidente dalle foto modificate che alla vista dal vivo).",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

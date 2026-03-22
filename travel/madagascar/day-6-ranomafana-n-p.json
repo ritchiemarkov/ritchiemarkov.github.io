@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -20.0987,
+    47.5042
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "ranomafana-n-p",
+      "name": "Ranomafana N.P",
+      "coords": [
+        -21.2699,
+        47.4768
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Ranomafana N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "haute-ville",
+      "name": "Haute Ville",
+      "coords": [
+        -18.9275,
+        47.5316
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Visitiamo la Haute Ville , rinnovata grazie ai contribuiti di un’associazione, la quale ha promosso il restauro delle sei chiese che si concentrano su questo caratt...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    45.4587,
+    -74.9768
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "montreal",
+      "name": "Montreal",
+      "coords": [
+        45.4433,
+        -75.6416
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Montreal and Ottawa",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mont-royal",
+      "name": "Mont Royal",
+      "coords": [
+        45.5086,
+        -73.5897
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Dall’isola si ha una splendida vista sulla Skyline di Montreal , grazie ad un meteo perfettamente terso.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "collina-del-parlamento",
+      "name": "collina del Parlamento",
+      "coords": [
+        45.4241,
+        -75.699
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "L’immagine è subito quella di una città pulita e, sebbene sia domenica, non ci sono difficoltà a capire che si tratta della capitale.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

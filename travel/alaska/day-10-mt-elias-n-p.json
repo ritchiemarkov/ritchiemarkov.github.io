@@ -1,0 +1,114 @@
+{
+  "mapCenter": [
+    61.7392,
+    -144.1582
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "mt-elias-n-p",
+      "name": "Mt. Elias N.P",
+      "coords": [
+        62.6,
+        -144.5
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Elias N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lungo-la-richardson",
+      "name": "lungo la Richardson",
+      "coords": [
+        64.8334,
+        -147.7088
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il momento magico lo assaporiamo subito lungo la Richardson , dove il sole che sorge illumina le foreste e le radure dove i laghi riflettono il colore azzurro (su t...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "willow-lake",
+      "name": "Willow Lake",
+      "coords": [
+        61.7444,
+        -150.0364
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Il momento magico lo assaporiamo subito lungo la Richardson , dove il sole che sorge illumina le foreste e le radure dove i laghi riflettono il colore azzurro (su t...",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "copper-river",
+      "name": "Copper River",
+      "coords": [
+        60.7857,
+        -144.5142
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Da qui, percorriamo l’ accidentata McCarthy Road verso est, una strada costruita sul percorso della vecchia ferrovia che si snoda lungo le splendide Chugach Mountai...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kuskulana-bridge",
+      "name": "Kuskulana Bridge",
+      "coords": [
+        61.4888,
+        -144.0156
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Il Kuskulana Bridge , un ponte lung o 160 mt per 177 di altezza fa trattenere il respiro al momento del suo attraversamento.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kennicott",
+      "name": "KENNICOTT",
+      "coords": [
+        61.4863,
+        -142.8864
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "verso KENNICOTT , raggiungendola verso le 11,30.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "power-station",
+      "name": "power station",
+      "coords": [
+        59.2358,
+        -135.446
+      ],
+      "emoji": "🚂",
+      "stepNumber": 7,
+      "description": "Quella che era la power station è in buone condizioni ed all’interno si possono ancora vedere le caldaie con le quali si produceva l’energia necessaria all’estrazio...",
+      "category": "Stazione",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

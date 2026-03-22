@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -21.0752,
+    45.5716
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "toliara",
+      "name": "Toliara",
+      "coords": [
+        -23.3542,
+        43.6697
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trasferimento a Toliara per il pranzo a base di pesce volutamente un po' più tardi del solito e via per l’aeroporto, da dove voleremo per la capitale alle 17,30.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tnr",
+      "name": "TNR",
+      "coords": [
+        -18.7961,
+        47.4734
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

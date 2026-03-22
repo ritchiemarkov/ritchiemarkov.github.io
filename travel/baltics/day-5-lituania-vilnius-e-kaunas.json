@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    44.9544,
+    10.247
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "lituania-vilnius",
+      "name": "Lituania: Vilnius",
+      "coords": [
+        44.9891,
+        9.2969
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lituania: Vilnius e Kaunas",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cattedrale",
+      "name": "Cattedrale",
+      "coords": [
+        43.0922,
+        11.7807
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Iniziamo dalla maestosa Cattedrale , il cui interno si rivela più modesto degli esterni, e gli edifici che si trovano nella stessa enorme piazza (Museo Nazionale de...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "torre-di-gediminas",
+      "name": "Torre di Gediminas",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Iniziamo dalla maestosa Cattedrale , il cui interno si rivela più modesto degli esterni, e gli edifici che si trovano nella stessa enorme piazza (Museo Nazionale de...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castello-dellisola",
+      "name": "Castello dell’Isola",
+      "coords": [
+        46.4821,
+        11.2985
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Con una ventina di km in direzione sud raggiungiamo Trakai, sede dell’incantevole Castello dell’Isola .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

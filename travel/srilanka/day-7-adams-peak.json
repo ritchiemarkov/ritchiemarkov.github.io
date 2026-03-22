@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    6.8651,
+    81.063
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "adam-s-peak",
+      "name": "Adam's Peak",
+      "coords": [
+        6.8651,
+        81.063
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 1,
+      "description": "Adam's Peak",
+      "category": "Montagna",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

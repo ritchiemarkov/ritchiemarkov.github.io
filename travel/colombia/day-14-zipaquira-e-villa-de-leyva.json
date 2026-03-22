@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    4.5977,
+    -74.0752
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "capilla-de-la-virgen",
+      "name": "Capilla de la Virgen",
+      "coords": [
+        4.5977,
+        -74.0752
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Sul lato sinistro rispetto alle navate c’è la Capilla de la Virgen , dove vengono normalmente celebrate le messe in stagione bassa, quando c’è meno gente; altriment...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    27.6588,
+    76.1951
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "pushkar",
+      "name": "Pushkar",
+      "coords": [
+        26.4869,
+        74.5561
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Pushkar e Jaipur",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "coords": [
+        26.9155,
+        75.819
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Pushkar e Jaipur",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "albert-hall-museum",
+      "name": "Albert Hall Museum",
+      "coords": [
+        28.6,
+        77.2061
+      ],
+      "emoji": "🏛️",
+      "stepNumber": 3,
+      "description": "Un paio di foto all’ Albert Hall Museum , un buon lassi in luogo affidabile e ci dirigiamo subito verso il Galta Temple (conosciuto anche come il tempio delle scimm...",
+      "category": "Museo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "galta-temple",
+      "name": "Galta Temple",
+      "coords": [
+        28.6328,
+        77.199
+      ],
+      "emoji": "🛕",
+      "stepNumber": 4,
+      "description": "Un paio di foto all’ Albert Hall Museum , un buon lassi in luogo affidabile e ci dirigiamo subito verso il Galta Temple (conosciuto anche come il tempio delle scimm...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

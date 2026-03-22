@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    47.9111,
+    106.878
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "ulan-baatar",
+      "name": "Ulan Baatar",
+      "coords": [
+        47.9111,
+        106.878
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ulan Baatar",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    47.6951,
+    101.0975
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "tsetserleg",
+      "name": "Tsetserleg",
+      "coords": [
+        47.4769,
+        101.454
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tsetserleg",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "zuun-salaa-mod",
+      "name": "Zuun Salaa Mod",
+      "coords": [
+        48.1323,
+        100.2735
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Nelle vicinanze si trova il Zuun Salaa Mod , l’albero dei cento rami, ricoperto di sciarpe di preghiera ed offerte di vario genere lasciate in giro, il cui modo dis...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "taykhar-chuluu",
+      "name": "Taykhar Chuluu",
+      "coords": [
+        47.476,
+        101.565
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ripartiamo per una rapida fermata al Taykhar Chuluu , una formazione di roccia che nemmeno gli scienziati riescono a spiegarsi perché si trovi in quel punto.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

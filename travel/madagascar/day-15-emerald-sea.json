@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -12.9947,
+    49.0567
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "emerald-sea",
+      "name": "Emerald Sea",
+      "coords": [
+        -12.1678,
+        49.3726
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Emerald Sea",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ramena",
+      "name": "Ramena",
+      "coords": [
+        -13.8215,
+        48.7408
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il ritrovo è sulla spiaggia di Ramena, dove ci si imbarca in un gruppetto, accompagnati da ragazzi locali dediti a manovrare il tipico dhow ed alla cucina.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

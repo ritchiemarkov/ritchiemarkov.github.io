@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -15.6098,
+    -71.9635
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "trekking-colca-canon",
+      "name": "Trekking Colca Cañon",
+      "coords": [
+        -15.6098,
+        -71.9635
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trekking Colca Cañon I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

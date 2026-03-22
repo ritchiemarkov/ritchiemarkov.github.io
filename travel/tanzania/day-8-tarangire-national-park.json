@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -2.9322,
+    35.5084
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "tarangire-national-park",
+      "name": "Tarangire National Park",
+      "coords": [
+        -4.1248,
+        36.0857
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Tarangire National Park",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "gnu",
+      "name": "Gnu",
+      "coords": [
+        -1.7396,
+        34.9312
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Gnu e zebre solitamente vengono visti pascolare insieme.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

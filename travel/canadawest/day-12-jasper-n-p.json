@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    52.5527,
+    -117.8351
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "jasper-n-p",
+      "name": "Jasper N.P",
+      "coords": [
+        51.1688,
+        -115.5761
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Jasper N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mt-robson-provincial-park",
+      "name": "MT. ROBSON Provincial Park",
+      "coords": [
+        52.9034,
+        -118.9053
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Purtroppo continua a piovere e da Hinton entriamo nel JASPER National Park per dirigerci a Miette Hot Springs, sorgenti calde con un bel panorama che possiamo solo...",
+      "category": "Luogo",
+      "highlights": [
+        "Jasper"
+      ]
+    },
+    {
+      "id": "mount-robson",
+      "name": "Mount Robson",
+      "coords": [
+        53.1104,
+        -119.1557
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 3,
+      "description": "ROBSON Provincial Park in 80 Km ed arrivare nelle vicinanze del il maestoso Mount Robson dove nasce il Fraser River, la montagna più bella del Canada e più alta del...",
+      "category": "Montagna",
+      "highlights": [
+        "Robson"
+      ]
+    },
+    {
+      "id": "maligne-lake",
+      "name": "Maligne Lake",
+      "coords": [
+        52.6613,
+        -117.5281
+      ],
+      "emoji": "🌊",
+      "stepNumber": 4,
+      "description": "Ritorniamo al Yellowhead Pass per giungere a Jasper: imbocchiamo verso sud la Maligne Lake Drive per 44 km nell’omonima vallata ed in 30 minuti si giunge al Maligne...",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "maligne-canyon",
+      "name": "Maligne Canyon",
+      "coords": [
+        52.9198,
+        -118.0102
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 5,
+      "description": "Ritorniamo al Yellowhead Pass per giungere a Jasper: imbocchiamo verso sud la Maligne Lake Drive per 44 km nell’omonima vallata ed in 30 minuti si giunge al Maligne...",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

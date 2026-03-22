@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    -23.6837,
+    15.5579
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "sossusvlei",
+      "name": "Sossusvlei",
+      "coords": [
+        -24.7395,
+        15.2924
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Sossusvlei",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "big-daddy",
+      "name": "Big Daddy",
+      "coords": [
+        -22.6771,
+        14.5266
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Saliamo la duna chiamata Big Daddy che si trova proprio sopra il Dead Vlei (vlei sta per il letto di un antico lago prosciugato, bianco, di forma tonda oppure oblun...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "dead-vlei",
+      "name": "Dead Vlei",
+      "coords": [
+        -24.7535,
+        15.3282
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Nel campeggio c’è movimento, nessuno vuole perdersi l’alba in un luogo come questo: puntiamo a ovest in direzione di Sossusvlei, il limite di velocità imposto è di...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "canyon",
+      "name": "Canyon",
+      "coords": [
+        -22.5649,
+        17.0844
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 4,
+      "description": "Giunti a Sesriem visitiamo ancora l’omonimo canyon (Sesriem Canyon), scendendo sul fondo a 30 mt dall’altopiano sovrastante.",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

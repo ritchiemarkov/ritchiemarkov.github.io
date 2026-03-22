@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -53.1667,
+    -69.5735
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "punta-arenas",
+      "name": "Punta Arenas",
+      "coords": [
+        -53.1638,
+        -70.9171
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Punta Arenas",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "estancia-san-gregorio",
+      "name": "Estancia San Gregorio",
+      "coords": [
+        -52.5678,
+        -70.073
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ringraziamo e proseguiamo divertiti verso il confine di San Sebastian, facendo immediati quanto inevitabili paralleli con le nostre forze dell’ordine.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "rio-grande",
+      "name": "Rio Grande",
+      "coords": [
+        -53.7686,
+        -67.7303
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "RIO GRANDE, è una città quasi militarizzata, retaggio della guerra delle Falkland, di cui rappresentava la base operativa.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

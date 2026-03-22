@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    42.9308,
+    89.3424
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "turpan",
+      "name": "Turpan",
+      "coords": [
+        42.9425,
+        89.1796
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Turpan",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "flaming-mountain",
+      "name": "Flaming Mountain",
+      "coords": [
+        42.9192,
+        89.5052
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci avviamo per andare a vedere le rupi fiammeggianti Flaming Mountain .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

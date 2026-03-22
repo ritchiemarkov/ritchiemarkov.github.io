@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    31.7642,
+    53.3336
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "esfahan",
+      "name": "Esfahan",
+      "coords": [
+        32.6708,
+        51.665
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Esfahan",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "hasht-behesht",
+      "name": "Hasht Behesht",
+      "coords": [
+        35.6734,
+        52.0634
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Proseguiamo infine per il Hasht Behesht , poco distante, un palazzo a forma di diamante, letteralmente “otto paradisi”, situato in un parco che veniva usato come re...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tap",
+      "name": "Tap",
+      "coords": [
+        26.9484,
+        56.2724
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Rientriamo per le 8.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

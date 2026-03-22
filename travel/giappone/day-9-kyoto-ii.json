@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    35.1817,
+    136.7351
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "kyoto",
+      "name": "Kyoto",
+      "coords": [
+        35.0116,
+        135.7681
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kyoto II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "otagi-buddhist-temple",
+      "name": "Otagi Buddhist Temple",
+      "coords": [
+        35.6943,
+        139.7433
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "La giornata è splendida e decidiamo di raggiungere la meta successiva, l’ Otagi Buddhist Temple , con una passeggiata di mezz’ora lungo stradine bordate da ville e...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "nijo-jo-il-castello",
+      "name": "Nijo-jo, il castello",
+      "coords": [
+        34.8393,
+        134.694
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Prossima tappa è il Nijo-jo, il castello circondato da un largo fossato lungo il quale staziona tranquillo un airone; i massicci bastioni in pietra simboleggiano la...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -3.0891,
+    37.3706
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "stella-point",
+      "name": "Stella Point",
+      "coords": [
+        -3.0782,
+        37.3626
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Le note ci tengono compagnia e distraggono parzialmente la nostra mente dalla fatica: il cielo stellato all’inverosimile sopra di noi completa il quadro idilliaco d...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "barafu",
+      "name": "Barafu",
+      "coords": [
+        -3.1,
+        37.3787
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Giunti appena sopra il Barafu ci vengono incontro due dei nostri portator, con i quali una calorosa stretta di mano suggella l’impresa appena riuscita anche grazie...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

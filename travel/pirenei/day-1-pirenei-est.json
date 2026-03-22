@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    43.0715,
+    2.2855
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "pirenei-est",
+      "name": "Pirenei Est",
+      "coords": [
+        42.6962,
+        2.8883
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Pirenei Est",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "molina",
+      "name": "Molina",
+      "coords": [
+        43.9639,
+        1.7705
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lungo il percorso incontriamo bei boschi, per giungere al Port de Tosas, che si trova in prossimità della più nota stazione sciistica dei Pirenei Orientali, La Moli...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "foix",
+      "name": "Foix",
+      "coords": [
+        42.9639,
+        1.6054
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Giungiamo a Foix per vedere la chiesa di St.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ripoll",
+      "name": "RIPOLL",
+      "coords": [
+        42.6621,
+        2.8778
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

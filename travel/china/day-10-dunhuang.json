@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    40.1142,
+    94.6651
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "dunhuang",
+      "name": "Dunhuang",
+      "coords": [
+        40.1411,
+        94.6608
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dunhuang",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "crescent-lake",
+      "name": "Crescent Lake",
+      "coords": [
+        40.0874,
+        94.6693
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Dove l’oasi incontra il deserto, in mezzo alle dune, si nasconde il Crescent Lake ( Yueya Quan ), a forma di mezzaluna (crescent), dove acqua di sorgente gocciola i...",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    27.7083,
+    85.3206
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "kathmandu",
+      "name": "Kathmandu",
+      "coords": [
+        27.7083,
+        85.3206
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kathmandu I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

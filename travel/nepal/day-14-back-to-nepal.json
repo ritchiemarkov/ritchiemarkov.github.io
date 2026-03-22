@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    27.9466,
+    85.1554
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "back",
+      "name": "Back",
+      "coords": [
+        27.7252,
+        85.3607
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Back to Nepal",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "kodari",
+      "name": "Kodari",
+      "coords": [
+        28.7925,
+        82.1718
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Non vendiamo ancora camion, quelli probabilmente sono transitati nella notte in un senso alternato che diversamente non potrebbe essere, l’unica strada di Kodari co...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "friendship-bridge",
+      "name": "Friendship Bridge",
+      "coords": [
+        27.9736,
+        85.9639
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Vorremmo guardarci intorno ma dobbiamo camminare e scansare i nepalesi che si affrettano ad attraversare, il Friendship Bridge che unisce e nel contempo divide Nepa...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bhote-kosi",
+      "name": "Bhote Kosi",
+      "coords": [
+        27.8079,
+        86.6872
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Vorremmo guardarci intorno ma dobbiamo camminare e scansare i nepalesi che si affrettano ad attraversare, il Friendship Bridge che unisce e nel contempo divide Nepa...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "imbottigliamento-di-kathmandu",
+      "name": "imbottigliamento di Kathmandu",
+      "coords": [
+        27.7083,
+        85.3206
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "La valle di Kathmandu è accogliente e piacevole, la strada serpeggia nel verde tra splendide case ben tenute e coltivazione ordinate, in uno scenario reso mozzafiat...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "durbar-square",
+      "name": "Durbar Square",
+      "coords": [
+        27.6721,
+        85.4282
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Una concorrenza anche positiva perché ha postato alla costruzione di un’altra Durbar Square simile a quella di Kathmandu e di un’infinità di templi ed edifici carat...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

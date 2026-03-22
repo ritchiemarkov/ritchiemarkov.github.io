@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    20.9885,
+    106.4767
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "halong-bay",
+      "name": "Halong Bay",
+      "coords": [
+        20.9495,
+        107.0987
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Halong Bay II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "thai-chi",
+      "name": "Thai Chi",
+      "coords": [
+        21.0275,
+        105.8547
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Quella che ieri si definiva una “brume”, oggi è una foschia più densa che arriva a coprire le punte dei faraglioni, rendendo sempre suggestiva ma meno ampia la vist...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

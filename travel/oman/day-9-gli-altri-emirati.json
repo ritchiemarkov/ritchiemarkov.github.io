@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    24.4802,
+    56.9672
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "museum-of-islamic-civilization",
+      "name": "Museum of Islamic Civilization",
+      "coords": [
+        25.365,
+        55.3888
+      ],
+      "emoji": "🏛️",
+      "stepNumber": 1,
+      "description": "Dove però dedichiamo gran parte della nostra permanenza sarà il Museum of Islamic Civilization , il museo che intende spiegare l’Islam, i suoi concetti, la tradizio...",
+      "category": "Museo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "omr",
+      "name": "Omr",
+      "coords": [
+        23.5954,
+        58.5456
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Prima di salire chiediamo al tassista indiano se accetta carte di credito o OMR e ci dice che in qualche modo ci aggiusteremo.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

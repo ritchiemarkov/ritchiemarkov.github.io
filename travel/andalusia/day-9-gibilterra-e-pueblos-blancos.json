@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    36.3972,
+    -5.4428
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "gibilterra",
+      "name": "Gibilterra",
+      "coords": [
+        36.1408,
+        -5.3541
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Gibilterra e Pueblos Blancos",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tarifa",
+      "name": "Tarifa",
+      "coords": [
+        36.0129,
+        -5.605
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Come sempre, mentre ancora nessuno si muove, ci muoviamo noi e dopo essere passati dal mirador per uno sguardo che cade nel mare poiché le coste africane sono ancor...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ubrique",
+      "name": "Ubrique",
+      "coords": [
+        36.6769,
+        -5.4458
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ubrique giace sonnolenta nella domenica postprandiale, anche se molti suoi abitanti sono ancora nel vivo delle libagioni nei dehors dei ristoranti.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "grazalema",
+      "name": "Grazalema",
+      "coords": [
+        36.7584,
+        -5.3661
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Mentre entriamo nella Sierra de Grazalema incontriamo diversi alberi a cui è stata tagliata la corteccia fino ad un’altezza di ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

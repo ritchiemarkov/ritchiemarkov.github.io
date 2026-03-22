@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    63.7126,
+    -149.5132
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "denali",
+      "name": "Denali",
+      "coords": [
+        63.5333,
+        -150.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Denali by Land",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "savage-river",
+      "name": "Savage River",
+      "coords": [
+        63.7746,
+        -149.3061
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Gli ozi della colazione ci fanno perdere per pochi istanti la navetta che porta al Savage River , ultimo punto raggiungibile con le vetture e meta di una gita.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mt-healy-overlook",
+      "name": "Mt. Healy Overlook",
+      "coords": [
+        63.5722,
+        -149.8186
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Healy Overlook con 600 mt.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ridgetop-cabins",
+      "name": "Ridgetop Cabins",
+      "coords": [
+        63.9503,
+        -149.0259
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "su ripida strada sterrata fino a raggiungere un luogo dove non ci si aspetterebbe che esistano due abitanti stanziali con 5 cabins che affittando durante l’estate.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "denali-wilderness-access-center",
+      "name": "Denali Wilderness Access Center",
+      "coords": [
+        63.7326,
+        -148.9153
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Denali by Land",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

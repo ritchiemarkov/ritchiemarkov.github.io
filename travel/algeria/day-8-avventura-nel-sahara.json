@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    31.9556,
+    5.3357
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "ksar-el-khass",
+      "name": "ksar El Khass",
+      "coords": [
+        31.9556,
+        5.3357
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Il cielo splendente sulla sabbia orizzontale e sulle rocce verticali tratteggia l’unico momento triste solo quando si deve ripartire, ma andiamo a visitare lo ksar...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

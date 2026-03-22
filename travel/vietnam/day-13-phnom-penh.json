@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    11.5587,
+    104.9328
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "phnom-penh",
+      "name": "Phnom Penh",
+      "coords": [
+        11.5587,
+        104.9328
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Phnom Penh",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

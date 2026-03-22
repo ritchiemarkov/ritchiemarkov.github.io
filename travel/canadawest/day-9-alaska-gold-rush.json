@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    61.2017,
+    -141.3746
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "alaska-gold-rush",
+      "name": "Alaska Gold Rush",
+      "coords": [
+        63.9322,
+        -145.7726
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Alaska Gold Rush",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "skagway",
+      "name": "Skagway",
+      "coords": [
+        59.457,
+        -135.295
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Poco dopo le 7 facciamo due passi per la città di Skagway .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "white-pass",
+      "name": "White Pass",
+      "coords": [
+        59.6255,
+        -135.1372
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 3,
+      "description": "Poco dopo le 7 facciamo due passi per la città di Skagway .",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "venus-mine",
+      "name": "Venus Mine",
+      "coords": [
+        61.7921,
+        -149.2935
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Costeggiamo il Carcross desert, il più piccolo deserto del mondo, una vecchia miniera abbandonata (la Venus Mine )",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

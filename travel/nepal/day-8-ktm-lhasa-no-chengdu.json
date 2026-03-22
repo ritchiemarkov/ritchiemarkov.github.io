@@ -1,0 +1,26 @@
+{
+  "mapCenter": [
+    27.7118,
+    85.312
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "ktm-lhasa-no",
+      "name": "KTM - Lhasa (no",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "KTM - Lhasa (no, Chengdu)",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Ktm",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

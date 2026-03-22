@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    35.2668,
+    137.2186
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "zona-del-castello",
+      "name": "zona del castello",
+      "coords": [
+        34.8393,
+        134.694
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Per evitare problemi di parcheggio in centro decidiamo di affrontare una mezz’ora a piedi attraversando quartieri residenziali e ricavando così uno spaccato della q...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "santuario-shintoista",
+      "name": "Santuario shintoista",
+      "coords": [
+        35.6943,
+        139.7433
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci spostiamo verso il fiume dove si trovano un paio di viuzze storiche dei mercanti e degli artigiani ( Nawate Dori ) nonché un tranquillo santuario shintoista , ma...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

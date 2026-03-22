@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    42.8488,
+    -70.2829
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "nova-scotia",
+      "name": "Nova Scotia",
+      "coords": [
+        45.0548,
+        -66.7864
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nova Scotia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "jfk",
+      "name": "JFK",
+      "coords": [
+        40.6429,
+        -73.7794
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

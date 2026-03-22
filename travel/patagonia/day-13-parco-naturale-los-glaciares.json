@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    -50.4597,
+    -73.0378
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "parco-naturale-los-glaciares",
+      "name": "Parco Naturale Los Glaciares",
+      "coords": [
+        -50.336,
+        -73.2349
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Parco Naturale Los Glaciares",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-argentino",
+      "name": "Lago Argentino",
+      "coords": [
+        -50.221,
+        -72.534
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Facciamo un’escursione di tutto il giorno navigando sul Lago Argentino (che si trova a soli 170 mt sul livello del mare) fra icebergs, ghiacciai e foreste.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ghiacciaio-upsala",
+      "name": "ghiacciaio Upsala",
+      "coords": [
+        -50.785,
+        -73.245
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il percorso si inoltra lungo il lago, superando lo stretto chiamato Puerta del Diablo, ponendoci di fronte agli iceberg staccatisi dal ghiacciaio Upsala .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "perito-moreno",
+      "name": "Perito Moreno",
+      "coords": [
+        -50.4969,
+        -73.1371
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Il fatto di non poter entrare nel bacino dell’Upsala genera l’occasione di vedere il Perito Moreno da altra angolazione, ovvero dal basso sul lato destro .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

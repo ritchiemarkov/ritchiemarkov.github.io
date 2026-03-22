@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    35.5329,
+    107.3697
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "buddha-maytreya",
+      "name": "Buddha Maytreya",
+      "coords": [
+        29.5469,
+        103.7693
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "La più parte degli edifici venne abbattuta o fortemente danneggiata nell’epoca in cui il materialismo cieco aveva anche portato ai lavori forzati o al matrimonio al...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "buddha-raffigurato",
+      "name": "Buddha raffigurato",
+      "coords": [
+        40.4344,
+        116.5635
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La più parte degli edifici venne abbattuta o fortemente danneggiata nell’epoca in cui il materialismo cieco aveva anche portato ai lavori forzati o al matrimonio al...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "xining",
+      "name": "Xining",
+      "coords": [
+        36.6173,
+        101.7762
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Si parte alla volta di Xining salendo ancora fino a scollinare a 3643 mt.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

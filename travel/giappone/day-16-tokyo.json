@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    35.6888,
+    139.7523
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "coords": [
+        35.6769,
+        139.7639
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tokyo",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "koishikawa-korakuen",
+      "name": "Koishikawa Korakuen",
+      "coords": [
+        35.7054,
+        139.7492
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Dopo aver acquistato un conveniente biglietto giornaliero che ci consentirà di viaggiare tutto il giorno per soli 800Y (5€) sia sulle linee metro che sulla Toei Lin...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "shibuya-crossing",
+      "name": "Shibuya Crossing",
+      "coords": [
+        35.6595,
+        139.7005
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "E lo Shibuya Crossing è proprio l’emblema di questo modo di vivere e muoversi, una delle immagini che meglio raffigurano la caotica quotidianità urbana di Tokyo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "visioni-notturne-del-complesso-di-senso-ji",
+      "name": "visioni notturne del complesso di Senso-ji",
+      "coords": [
+        35.7134,
+        139.7955
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "A stomaco sazio sembra doveroso congedarci dal Giappone riempiendo ancora una volta occhi e cuore con le splendide visioni notturne del complesso di Senso-ji.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

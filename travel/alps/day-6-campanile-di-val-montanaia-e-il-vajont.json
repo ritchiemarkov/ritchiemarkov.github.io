@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    46.2947,
+    12.4869
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "campanile-di-val-montanaia",
+      "name": "Campanile di Val Montanaia",
+      "coords": [
+        46.3952,
+        12.4812
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Campanile di Val Montanaia e il Vajont",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-di-barcis",
+      "name": "Lago di Barcis",
+      "coords": [
+        46.1884,
+        12.563
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Lasciamo presto Maniago con l’intenzione di vedere le luci del lago di Barcis , distante solo una ventina di km, allo spuntar del sole.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "vista-delle-dolomiti-carniche",
+      "name": "vista delle Dolomiti Carniche",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il nome Campanile risulta pienamente appropriato , vista la presenza di un virtuale bordo che nei campanili delle chiese funge da marciapiede perimetrale alla base...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "erto-vecchia",
+      "name": "Erto vecchia",
+      "coords": [
+        46.2729,
+        12.3698
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Giunti nuovamente a Cimolais risaliamo la Val Cellina per scendere in quella del Vajont e visitare Erto.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

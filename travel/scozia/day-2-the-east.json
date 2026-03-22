@@ -1,0 +1,55 @@
+{
+  "mapCenter": [
+    55.2382,
+    -4.4697
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "stirling",
+      "name": "STIRLING",
+      "coords": [
+        56.1181,
+        -3.936
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Colazione poco dopo le 7 e partiamo con un cielo decisamente terso; decidiamo così di rivedere il centro di STIRLING con la luce del sole.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "castello-battuto-dal-vento",
+      "name": "Castello battuto dal vento",
+      "coords": [
+        53.3426,
+        -6.267
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Splendida la vista della pianura sottostante ed il castello battuto dal vento .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "falkland-palace",
+      "name": "Falkland Palace",
+      "coords": [
+        56.2539,
+        -3.2061
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "FALKLAND – chiesa parrocchiale, quando è appena terminata la celebrazione domenicale ed il pastore s’intrattiene coi parrocchiani, in un’immagine d’antan.",
+      "category": "Luogo",
+      "highlights": [
+        "Falkland",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

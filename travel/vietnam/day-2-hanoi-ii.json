@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    20.9993,
+    105.7804
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "hanoi",
+      "name": "Hanoi",
+      "coords": [
+        21.0283,
+        105.854
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Hanoi II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "quan-thanh",
+      "name": "Quan Thanh",
+      "coords": [
+        18.9829,
+        105.4395
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci spostiamo nel tempio taoista di Quan Thanh , che si trova poco distante dal West Lake.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "di-hang-be",
+      "name": "di Hang Be",
+      "coords": [
+        22.9868,
+        106.0476
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Si cena al Little Hanoi, quindi segue una passeggiata nelle vie centrali per un’occhiata ai mercati serali di Hang Be e Dong Xuan e fino al lago Han Kien, di fronte...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

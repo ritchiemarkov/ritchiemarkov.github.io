@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -12.046,
+    -77.0306
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "lima",
+      "name": "Lima",
+      "coords": [
+        -12.046,
+        -77.0306
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lima",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

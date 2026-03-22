@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    33.2884,
+    131.935
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "nagoro-scarecrow-village",
+      "name": "Nagoro “Scarecrow” Village",
+      "coords": [
+        33.8554,
+        134.0205
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 1,
+      "description": "Fuggiti dalla folla e rientrati nel verde facciamo due soste, la prima è al Nagoro “Scarecrow” Village , un paesino che avrebbe niente da mostrare se i propri abita...",
+      "category": "Citta",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "oku-iya-double-vine-bridge",
+      "name": "Oku-Iya Double Vine Bridge",
+      "coords": [
+        32.7214,
+        129.8495
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A Oku-Iya ce ne sono addirittura due ad attraversare l’omonimo torrente e a consentire di fare un breve giro ad anello, l’ Oku-Iya Double Vine Bridge (Oku lya Ni-jũ...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

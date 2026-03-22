@@ -1,0 +1,70 @@
+{
+  "mapCenter": [
+    28.3667,
+    83.9887
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "trek-annapurna-vi",
+      "name": "Trek Annapurna VI",
+      "coords": [
+        28.5854,
+        83.9891
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Annapurna VI",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "naya-pul",
+      "name": "Naya Pul",
+      "coords": [
+        28.3277,
+        83.8932
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Con sorpresa incontriamo un pullman e delle auto ferme su un piazzale.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tims",
+      "name": "Tims",
+      "coords": [
+        28.1989,
+        83.9691
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Qui veniamo controllati nei rispettivi punti del TIMS e ACAP, dove vengono apposti gli ultimi timbri sui nostri permessi in una sorta di check out.",
+      "category": "Luogo",
+      "highlights": [
+        "Acap"
+      ]
+    },
+    {
+      "id": "acap",
+      "name": "Acap",
+      "coords": [
+        28.3549,
+        84.1034
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Qui veniamo controllati nei rispettivi punti del TIMS e ACAP, dove vengono apposti gli ultimi timbri sui nostri permessi in una sorta di check out.",
+      "category": "Luogo",
+      "highlights": [
+        "Tims",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

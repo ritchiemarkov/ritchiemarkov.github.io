@@ -1,0 +1,144 @@
+{
+  "mapCenter": [
+    64.0049,
+    -146.3023
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "coords": [
+        60.8,
+        -148.9
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Central Alaska",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "richardson-hwy",
+      "name": "Richardson Hwy",
+      "coords": [
+        64.8334,
+        -147.7088
+      ],
+      "emoji": "🚙",
+      "stepNumber": 2,
+      "description": "Si prosegue lungo la Richardson Hwy in una giornata di splendido sole.",
+      "category": "Trasferimento",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tanana-river",
+      "name": "Tanana river",
+      "coords": [
+        64.4,
+        -146.9
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "prima di Delta Jct si possono vedere la pipeline (sorretta da cavi color argento sospesa sopra le rapide del fiume) e la strada scorrere parallelamente sopra il Tan...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tre-maestosi-giganti-dellalaska-range",
+      "name": "tre maestosi giganti dell’Alaska Range",
+      "coords": [
+        69.2714,
+        -144.9137
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "20 mi a sud di Delta Jct si vede il Donnelly Dome, oltre appaiono i tre maestosi giganti dell’Alaska Range , mentre finiamo per attraversare la catena avendo sempre...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "alte-vette-del-parco-wrangell-st-elias",
+      "name": "alte vette del Parco Wrangell-St.Elias",
+      "coords": [
+        62.6,
+        -144.5
+      ],
+      "emoji": "🌳",
+      "stepNumber": 5,
+      "description": "che prosegue in direzione ovest, per raggiungere il Wrangell Mountain Viewpoint e Gakona Jct, dove si innesta la Tok Cut-off Hwy.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "delta-jct",
+      "name": "Delta Jct",
+      "coords": [
+        64.0378,
+        -145.7322
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "DELTA JCT.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "copper-centre",
+      "name": "Copper Centre",
+      "coords": [
+        61.9667,
+        -145.35
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Proseguiamo verso COPPER CENTRE e in mezzo ad una serie infinita di stop fotografici riusciamo a raggiungere l’hotel che ci ospiterà stasera.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "north-pole",
+      "name": "North Pole",
+      "coords": [
+        64.7511,
+        -147.3494
+      ],
+      "emoji": "📍",
+      "stepNumber": 8,
+      "description": "Visita alla cittadina dedicata a Babbo Natale, con atmosfere natalizie, renne in attesa e la possibilità di incontrare Santa Claus.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "isabel-pass",
+      "name": "Isabel Pass",
+      "coords": [
+        63.3833,
+        -145.3667
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 9,
+      "description": "Passo dell'Alaska Range che segna l'attraversamento della catena montuosa, con vista sui tre giganti dell'Alaska Range e la compagnia della Trans-Alaska Pipeline.",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

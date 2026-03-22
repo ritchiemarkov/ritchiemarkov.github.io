@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    28.5228,
+    87.699
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "shigatse",
+      "name": "Shigatse",
+      "coords": [
+        27.9735,
+        85.9643
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Shigatse",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "quadro-nella-stanza-dell-hotel-di-shigatse",
+      "name": "quadro nella stanza dell'hotel di Shigatse",
+      "coords": [
+        29.072,
+        89.4337
+      ],
+      "emoji": "🏨",
+      "stepNumber": 2,
+      "description": "Dopo Shigatse è un susseguirsi arido , greggi di pecore brucano non si sa bene cosa.",
+      "category": "Alloggio",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

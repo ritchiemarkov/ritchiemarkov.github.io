@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    54.6514,
+    -116.8902
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "alberta",
+      "name": "Alberta",
+      "coords": [
+        53.5423,
+        -113.5439
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Alberta",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "dawson-creek",
+      "name": "Dawson Creek",
+      "coords": [
+        55.7605,
+        -120.2364
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "John e quindi Dawson Creek dopo aver visto un orso a fianco della strada.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

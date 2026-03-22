@@ -1,0 +1,40 @@
+{
+  "mapCenter": [
+    -31.5309,
+    138.4697
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "moralana",
+      "name": "Moralana",
+      "coords": [
+        -31.5352,
+        138.3332
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Partiamo presto per il FLINDERS RANGES N.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Flinders Ranges"
+      ]
+    },
+    {
+      "id": "wilpena-pound",
+      "name": "Wilpena Pound",
+      "coords": [
+        -31.5265,
+        138.6061
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Risaliamo un tratto fine a Wilpena, famoso per l’omonimo Wilpena Pound , una conca di 80 kmq che influenza decisamente le precipitazioni nella zona.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

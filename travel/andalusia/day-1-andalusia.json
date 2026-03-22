@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    36.8457,
+    -3.9863
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "andalusia",
+      "name": "Andalusia",
+      "coords": [
+        36.8457,
+        -3.9863
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Andalusia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

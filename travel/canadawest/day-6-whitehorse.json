@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    63.0309,
+    -140.8786
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "whitehorse",
+      "name": "Whitehorse",
+      "coords": [
+        60.7216,
+        -135.0549
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Whitehorse",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "teslin",
+      "name": "Teslin",
+      "coords": [
+        60.166,
+        -132.7249
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ristorati, riprendiamo la Alaska Hwy 1 in direzione di Teslin in un paesaggio ondulato, ammantato dalla foresta boreale con laghi a specchio che la riflettono.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "yukon-river",
+      "name": "Yukon River",
+      "coords": [
+        65.6291,
+        -149.843
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Superato lo Yukon River arriviamo al Hyles Canyon , dove il fiume si restringe per effetto di alte pareti rocciose che ne aumentano la corrente in modo considerevol...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "withehorse-rapids-dam",
+      "name": "Withehorse Rapids Dam",
+      "coords": [
+        62.271,
+        -136.3534
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Vediamo la storica SS Klondike (battello a vapore in servizio sullo Yukon fino al 1962), il Fish Ladder al Withehorse Rapids Dam .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "five-finger-rapids",
+      "name": "Five Finger Rapids",
+      "coords": [
+        66.3667,
+        -150.4167
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Vediamo la storica SS Klondike (battello a vapore in servizio sullo Yukon fino al 1962), il Fish Ladder al Withehorse Rapids Dam .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    37.8766,
+    -4.778
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "dune-di-sidi-khouleid",
+      "name": "dune di Sidi Khouleid",
+      "coords": [
+        37.8766,
+        -4.778
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trasferendoci dal bello dell’architettura umana a quello della natura, poco prima del tramonto raggiungiamo le dune di Sidi Khouleid .",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

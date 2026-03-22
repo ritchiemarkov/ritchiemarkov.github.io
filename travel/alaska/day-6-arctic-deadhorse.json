@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    68.0452,
+    -149.2394
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "deadhorse",
+      "name": "Deadhorse",
+      "coords": [
+        67.5,
+        -148.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Arctic Deadhorse",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "brooks-range",
+      "name": "Brooks Range",
+      "coords": [
+        69.2714,
+        -144.9137
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "quando dobbiamo passare sulla Brooks Range , diversamente la quota di crociera è sui 2.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "north-slope",
+      "name": "North Slope",
+      "coords": [
+        69.5335,
+        -153.8221
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Tutto quello che si trova a nord delle Brooks si chiama North Slope in quanto è proprio una lenta e costante discesa che degrada verso l’Oceano Artico, dove fluisco...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "dalton-hwy",
+      "name": "Dalton Hwy",
+      "coords": [
+        65.8759,
+        -149.7219
+      ],
+      "emoji": "🚙",
+      "stepNumber": 4,
+      "description": "Nell’ultimo tratto vediamo nitidamente due rette parallele che tagliano il terreno: una è la Dalton Hwy, l’altra è l’oleodotto che trasporta il petrolio a sud.",
+      "category": "Trasferimento",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

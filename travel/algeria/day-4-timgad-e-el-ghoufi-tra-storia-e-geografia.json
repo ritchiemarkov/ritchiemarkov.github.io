@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    35.4864,
+    6.3608
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "timgad",
+      "name": "Timgad",
+      "coords": [
+        35.4836,
+        6.4668
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Timgad e El Ghoufi: tra storia e geografia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lambaesis",
+      "name": "Lambaesis",
+      "coords": [
+        35.4891,
+        6.2548
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "In mezz’ora siamo a Lambaesis , un sito non imprescindibile ma visitabile senza digressioni.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

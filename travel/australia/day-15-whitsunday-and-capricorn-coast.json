@@ -1,0 +1,55 @@
+{
+  "mapCenter": [
+    -21.5556,
+    149.4835
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "whitsunday",
+      "name": "Whitsunday",
+      "coords": [
+        -20.4924,
+        148.5535
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Whitsunday and Capricorn Coast",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "capricorn-coast",
+      "name": "Capricorn Coast",
+      "coords": [
+        -23.1435,
+        150.7335
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Whitsunday and Capricorn Coast",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bucasia-beach",
+      "name": "Bucasia Beach",
+      "coords": [
+        -21.0309,
+        149.1636
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Proseguendo la nostra corsa in direzione del tropico del Capricorno raggiungiamo Mackay al fondo della WHITSUNDAY COAST, dove la guida consiglia una visita più che...",
+      "category": "Luogo",
+      "highlights": [
+        "Whitsunday Coast",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

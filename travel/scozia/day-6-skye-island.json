@@ -1,0 +1,71 @@
+{
+  "mapCenter": [
+    57.3195,
+    -5.9131
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "skye-island",
+      "name": "Skye Island",
+      "coords": [
+        57.363,
+        -6.3022
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Skye Island",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "old-man-of-storr",
+      "name": "Old Man of Storr",
+      "coords": [
+        57.507,
+        -6.1746
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Partiamo ben sazi per KYLE OF LOCALISH e l’arcuato ponte che un decennio fa ha mandato in pensione i traghetti che facevano la spola con SKYE, la più grande delle I...",
+      "category": "Luogo",
+      "highlights": [
+        "Kyle",
+        "Localish",
+        "Skye"
+      ]
+    },
+    {
+      "id": "kilt-rock",
+      "name": "Kilt Rock",
+      "coords": [
+        57.6109,
+        -6.1721
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ancora più a nord nella penisola di TROTTERNISH per raggiungere the Old Man of Storr , un pinnacolo che si erge da una catena montuosa, e il Kilt Rock , uno splendi...",
+      "category": "Luogo",
+      "highlights": [
+        "Trotternish"
+      ]
+    },
+    {
+      "id": "ben-nevis",
+      "name": "Ben Nevis",
+      "coords": [
+        56.7969,
+        -5.0035
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "All’inizio della seconda guerra mondiale, quando l’armata tedesca sembrava poter avere il sopravvento su tutta l’Europa e si temeva un’imminente invasione dell’isol...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

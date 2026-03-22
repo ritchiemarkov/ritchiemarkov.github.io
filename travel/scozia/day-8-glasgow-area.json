@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    55.804,
+    -3.7029
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "glasgow",
+      "name": "Glasgow",
+      "coords": [
+        55.8612,
+        -4.2502
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Glasgow area",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "peebles",
+      "name": "PEEBLES",
+      "coords": [
+        55.6518,
+        -3.1885
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "PEEBLES è una cittadina che conta ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "royal-mile",
+      "name": "Royal Mile",
+      "coords": [
+        55.9497,
+        -3.1911
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Si cena al Deacon Restaurant, situato lungo il Royal Mile , la via centrale della capitale scozzese.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "glasgow-area",
+      "name": "Glasgow area",
+      "coords": [
+        55.7534,
+        -4.1818
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Glasgow area",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

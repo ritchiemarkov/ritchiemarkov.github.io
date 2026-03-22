@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    51.1748,
+    -122.3145
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "british-columbia",
+      "name": "British Columbia",
+      "coords": [
+        49.2829,
+        -123.1124
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "British Columbia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "barkerville",
+      "name": "Barkerville",
+      "coords": [
+        53.0667,
+        -121.5167
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Deviamo per 80 km in direzione Barkerville , onde visitare la città fantasma ed incontrare un piccolo cervo mulo .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

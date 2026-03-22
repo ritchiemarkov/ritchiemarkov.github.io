@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    33.6499,
+    51.2794
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "qom",
+      "name": "Qom",
+      "coords": [
+        34.6423,
+        50.8801
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Qom",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "moschea-dellimam-al-hasan",
+      "name": "Moschea dell’Imam Al-Hasan",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Nel frattempo è comparso anche un po’ di sole , usciamo dal cancello che si trova sul lato opposto del santuario per attraversare l’ampia Astana square ornata di gi...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

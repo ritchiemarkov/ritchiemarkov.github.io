@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    45.7875,
+    11.5695
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "museo-darte",
+      "name": "Museo d’Arte",
+      "coords": [
+        45.7875,
+        11.5695
+      ],
+      "emoji": "🏛️",
+      "stepNumber": 1,
+      "description": "Quasi come pietre preziose vi si trovano innestati nel verde il Museo d’Arte (con un giardino da favola), il Palazzo Presidenziale, la casetta dello Zar Pietro I e...",
+      "category": "Museo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

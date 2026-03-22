@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    7.5914,
+    80.1377
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "anuradhapura",
+      "name": "Anuradhapura",
+      "coords": [
+        8.3114,
+        80.4037
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Anuradhapura",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sri-maha-bodhi",
+      "name": "Sri Maha Bodhi",
+      "coords": [
+        6.8714,
+        79.8718
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Visitiamo inoltre lo Sri Maha Bodhi , un vecchio ficus che si ritiene origini dall’albero sotto il quale il Buddha ebbe l’illuminazione e rappresenta il punto più s...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

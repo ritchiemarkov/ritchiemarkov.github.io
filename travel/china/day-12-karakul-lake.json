@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    38.3607,
+    75.0861
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "karakul-lake",
+      "name": "Karakul Lake",
+      "coords": [
+        38.4453,
+        75.0563
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Karakul Lake",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "muztagh-ata",
+      "name": "Muztagh Ata",
+      "coords": [
+        38.2761,
+        75.1159
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Anche stamane fuori c’è la foschia portata dalla tempesta di sabbia .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

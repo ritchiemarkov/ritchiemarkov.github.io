@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    28.6897,
+    88.239
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "back",
+      "name": "Back",
+      "coords": [
+        27.7252,
+        85.3607
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Back to Lhasa II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lhasa-ii",
+      "name": "Lhasa II",
+      "coords": [
+        29.6542,
+        91.1173
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Back to Lhasa II",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    43.699,
+    -75.9579
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "birreria-long-trail",
+      "name": "birreria Long Trail",
+      "coords": [
+        43.7602,
+        -79.5181
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Corriamo sempre sulla VT100 South, attraversando località sciistiche, verso Bridgwaters Corner per la visita alla birreria Long Trail .",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "quechee-gorge",
+      "name": "Quechee Gorge",
+      "coords": [
+        43.6379,
+        -72.3976
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 2,
+      "description": "La Quechee Gorge è una stretta gola solcata da un impronunciabile torrente con nome indiano ed attraversata dalla US4; percorriamo i sentieri a monte e a valle dell...",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

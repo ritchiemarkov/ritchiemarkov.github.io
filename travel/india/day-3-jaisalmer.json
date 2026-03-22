@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    24.3232,
+    71.5424
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "jaisalmer",
+      "name": "Jaisalmer",
+      "coords": [
+        26.9117,
+        70.9125
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jaisalmer",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "indigo",
+      "name": "IndiGo",
+      "coords": [
+        19.1025,
+        72.8272
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il volo per Jaisalmer previsto originariamente con Spice Jet a metà pomeriggio è stato cancellato alcune settimane prima, e abbiamo dovuto prenotarne un altro con I...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bada-bagh",
+      "name": "Bada Bagh",
+      "coords": [
+        26.9554,
+        70.8876
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Andiamo a goderci il tramonto presso i cenotafi di Bada Bagh ; dal momento che la tradizione indiana vuole che i corpi siano cremati, in linea di principio verrebbe...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

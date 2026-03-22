@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    45.5194,
+    -69.268
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "cape-breton",
+      "name": "Cape Breton",
+      "coords": [
+        46.295,
+        -60.9361
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cape Breton",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ot-trail",
+      "name": "ot Trail",
+      "coords": [
+        43.7602,
+        -79.5181
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sebbene la pioggia non cessi affrontiamo il Ca b ot Trail sull’estremo nord della Cape Breton Island.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cheticamp",
+      "name": "Cheticamp",
+      "coords": [
+        46.6259,
+        -61.0157
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Nella seconda parte verso Cheticamp, dapprima smette di piovere, quindi si rasserena del tutto, lasciando spazio ad un paesaggio molto verde.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "sos",
+      "name": "SOS",
+      "coords": [
+        45.3964,
+        -75.6022
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

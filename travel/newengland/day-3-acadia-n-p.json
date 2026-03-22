@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    44.3436,
+    -68.216
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "bar-harbor",
+      "name": "Bar Harbor",
+      "coords": [
+        44.3876,
+        -68.2043
+      ],
+      "emoji": "⚓️",
+      "stepNumber": 1,
+      "description": "Raggiungiamo Ellsworth, puntiamo in direzione sud per la Mount Desert Island, sede del parco, e raggiungiamo Bar Harbor : giro sull shore path, una sorta di sentier...",
+      "category": "Porto",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "otter-cliffs",
+      "name": "Otter Cliffs",
+      "coords": [
+        44.312,
+        -68.1892
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "- Otter Cliffs : scogliere di media entità",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "jordan-pond",
+      "name": "Jordan Pond",
+      "coords": [
+        44.3313,
+        -68.2545
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "- Il Jordan Pond è invece un lago in cui verrebbe voglia di fare il bagno.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

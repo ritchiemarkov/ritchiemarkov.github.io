@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -20.6995,
+    46.4777
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "isalo-n-p",
+      "name": "Isalo N.P",
+      "coords": [
+        -22.5582,
+        45.4001
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Isalo N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "incendio-proprio-vicino-al-nostro-camp",
+      "name": "incendio proprio vicino al nostro Camp",
+      "coords": [
+        -18.8408,
+        47.5553
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sembra ci sia solo più da coricarci, quando al ritorno c’imbattiamo in un incendio proprio vicino al nostro Camp .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

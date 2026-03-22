@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    42.3881,
+    108.0936
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "gobi-desert",
+      "name": "Gobi Desert",
+      "coords": [
+        43.5729,
+        103.8045
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Gobi Desert II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "yolyn-am",
+      "name": "Yolyn Am",
+      "coords": [
+        43.6815,
+        104.0367
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Giungiamo all’ingresso del parco a 10 km da Yolyn Am (Valle delle Aquile), dove ha sede il museo di storia naturale, che visitiamo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "p-n",
+      "name": "P.N",
+      "coords": [
+        39.91,
+        116.4397
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Prendiamo in direzione est verso il P.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

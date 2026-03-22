@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.2161,
+    4.5164
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "beni-abbes-le-dune-come-vicino-di-casa",
+      "name": "Beni Abbes: le dune come vicino di casa",
+      "coords": [
+        32.4766,
+        3.6972
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Beni Abbes: le dune come vicino di casa",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ksar-di-taghit",
+      "name": "ksar di Taghit",
+      "coords": [
+        31.9556,
+        5.3357
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Prima però visitiamo lo ksar di Taghit che ha circa 700 anni, e il mercato locale, dove in particolare attira il nostro interesse un negozio che vende spezie ed erb...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

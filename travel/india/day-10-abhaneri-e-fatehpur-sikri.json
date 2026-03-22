@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    20.4653,
+    85.8618
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "jama-majid",
+      "name": "Jama Majid",
+      "coords": [
+        20.4653,
+        85.8618
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Si parte dall’ area residenziale con i suoi laghetti e giardini per passare a quella religiosa dove si trova la Jama Majid .",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

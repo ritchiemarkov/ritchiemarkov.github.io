@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    5.8132,
+    -75.0592
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "eje-cafetero",
+      "name": "Eje Cafetero",
+      "coords": [
+        4.3268,
+        -75.3332
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Eje Cafetero",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mirador-alto-de-la-cruz",
+      "name": "Mirador Alto de la Cruz",
+      "coords": [
+        6.1641,
+        -73.5182
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una colazione leggera nella cucina comune dell’hostal e approfittando dell’alba che arriva presto, a piedi raggiungiamo il Mirador Alto de la Cruz : una postazione...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "coords": [
+        4.4274,
+        -75.7187
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ed è proprio a Barcelona che facciamo la prima fermata dopo aver lambito Armenia, che con i suoi 300 mila abitanti è la seconda città dell’Eje.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cordoba",
+      "name": "Cordoba",
+      "coords": [
+        8.3345,
+        -75.6666
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Dopo pochi km, all’altezza di Rioverde svoltiamo a sinistra per inerpicarci lungo amene stradine in direzione di Cordoba (altro nome della toponomastica europea), i...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

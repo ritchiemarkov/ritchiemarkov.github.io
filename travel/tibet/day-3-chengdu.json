@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    27.7118,
+    85.312
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "chengdu",
+      "name": "Chengdu",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Chengdu",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

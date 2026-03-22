@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    39.5687,
+    -6.041
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "cattedrale",
+      "name": "Cattedrale",
+      "coords": [
+        41.1428,
+        -8.6112
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "A Jaen vediamo da fuori la Plaza de Toros, la Cattedrale solo dal fondo in quanto è in corso la Messa, facciamo una passeggiata nel centro storico, interessante ma...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "baeza",
+      "name": "Baeza",
+      "coords": [
+        37.9945,
+        -3.4708
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lasciamo così il capoluogo dell’omonima provincia per andare a visitare due cittadine atipiche: Baeza e Ubeda, superando per la prima volta il Guadalquivir, ancora...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

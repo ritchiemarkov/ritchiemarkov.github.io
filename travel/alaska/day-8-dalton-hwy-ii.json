@@ -1,0 +1,114 @@
+{
+  "mapCenter": [
+    66.2829,
+    -149.8312
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "dalton-hwy",
+      "name": "Dalton Hwy",
+      "coords": [
+        65.8759,
+        -149.7219
+      ],
+      "emoji": "🚙",
+      "stepNumber": 1,
+      "description": "Dalton Hwy II",
+      "category": "Trasferimento",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "circolo-polare-artico",
+      "name": "Circolo Polare Artico",
+      "coords": [
+        66.5667,
+        -150.8333
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci fermiamo al Circolo Polare Artico , dove finalmente riusciamo a trovare qualcosa che suscita il vero interesse dei nostri compagni di viaggio.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "yukon-river",
+      "name": "Yukon River",
+      "coords": [
+        65.6291,
+        -149.843
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Al mile 56 siamo al Yukon River Camp, dove la Dalton e l’oleodotto attraversano il mitico fiume nordamericano .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "east-ramp-di-fairbanks",
+      "name": "East Ramp di Fairbanks",
+      "coords": [
+        64.8438,
+        -147.7194
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Alle 22 siamo finalmente di ritorno all’ East Ramp di Fairbanks , dal quale siamo partiti due giorni prima.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "wiseman",
+      "name": "Wiseman",
+      "coords": [
+        67.4462,
+        -150.106
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Seconda giornata di discesa lungo la Dalton, anche se iniziamo ritornando per un dozzina di miglia verso nord per una visita a WISEMAN, cosa che si rivelerà interes.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "coldfoot-camp",
+      "name": "Coldfoot Camp",
+      "coords": [
+        67.2516,
+        -150.1779
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Partenza da Coldfoot e breve risalita verso nord per visitare Wiseman, prima di proseguire la discesa lungo la Dalton Highway.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "finger-mountain",
+      "name": "Finger Mountain",
+      "coords": [
+        66.3667,
+        -150.4167
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Formazione rocciosa a forma di dito che in passato serviva da punto di riferimento per i piloti diretti a Fairbanks.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

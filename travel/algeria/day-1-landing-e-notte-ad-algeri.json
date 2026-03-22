@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.5965,
+    0.158
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "notte-ad-algeri",
+      "name": "notte ad Algeri",
+      "coords": [
+        29.2605,
+        0.2286
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Landing e notte ad Algeri",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ita",
+      "name": "Ita",
+      "coords": [
+        35.9325,
+        0.0875
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il fastidioso vento che da due giorni sferza il torinese non rappresenta un ostacolo per la viabilità aerea, tuttavia si parte mezz’ora in ritardo e con un minimo d.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

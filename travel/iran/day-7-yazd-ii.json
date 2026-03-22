@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    33.9854,
+    52.2015
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "yazd",
+      "name": "Yazd",
+      "coords": [
+        31.9052,
+        54.3701
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Yazd II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "torre-dellorologio",
+      "name": "Torre dell’Orologio",
+      "coords": [
+        35.6997,
+        51.3381
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci addentriamo per un giro nella città vecchia e raggiungiamo l’ Amir Chakhmaq (comprendente una moschea, una scuola religiosa e il vicino bazar), la Torre dell’Oro...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "recente-moschea",
+      "name": "recente Moschea",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 3,
+      "description": "L’accattivante assortimento di mattonelle turchesi e mattoni color sabbia del deserto della grande moschea di Yazd crea un’atmosfera suggestiva che riporta a quando...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "persian-walk",
+      "name": "Persian walk",
+      "coords": [
+        35.6793,
+        51.4191
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "mapCenter": [
+    61.4503,
+    -147.4324
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "chugach",
+      "name": "Chugach",
+      "coords": [
+        61.0186,
+        -149.8083
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Chugach Mts",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "glenn-hwy",
+      "name": "GLENN Hwy",
+      "coords": [
+        61.2178,
+        -149.8213
+      ],
+      "emoji": "🚙",
+      "stepNumber": 2,
+      "description": "Risaliamo la Richardson Hwy fino a Glennallen e da qui percorriamo verso ovest la GLENN Hwy.",
+      "category": "Trasferimento",
+      "highlights": [
+        "Glenn"
+      ]
+    },
+    {
+      "id": "chugach-mountains",
+      "name": "Chugach Mountains",
+      "coords": [
+        61.5,
+        -147.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Per intanto ci godiamo una bella giornata con viste indimenticabili lungo la strada, soprattutto verso sud, dove scorre parallela la catena delle Chugach Mountains .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "matanuska-glacier",
+      "name": "Matanuska Glacier",
+      "coords": [
+        61.6053,
+        -147.5508
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Uno di questi spiega come durante l’ultima glaciazione il Matanuska Glacier raggiungesse la zona di Palmer, per cui tutta la piana alluvionale della zona era sede g...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "glenn",
+      "name": "Glenn",
+      "coords": [
+        61.3588,
+        -147.3789
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Risaliamo la Richardson Hwy fino a Glennallen e da qui percorriamo verso ovest la GLENN Hwy.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "valdez",
+      "name": "Valdez",
+      "coords": [
+        61.1301,
+        -146.3483
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Mattinata a Valdez tra musei, piattaforma per salmoni e terminale dell'oleodotto.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "worthington-glacier",
+      "name": "Worthington Glacier",
+      "coords": [
+        61.1731,
+        -145.7411
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Sosta al ghiacciaio poco dopo il Thompson Pass: breve camminata per ammirare le fenditure del ghiacciaio, meno imponente da vicino ma suggestivo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "glennallen",
+      "name": "Glennallen",
+      "coords": [
+        62.1094,
+        -145.5464
+      ],
+      "emoji": "📍",
+      "stepNumber": 8,
+      "description": "Incrocio tra la Richardson Highway e la Glenn Highway, punto di svolta verso ovest per la penisola di Kenai.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "eureka-pass",
+      "name": "Eureka Pass",
+      "coords": [
+        61.9397,
+        -147.1969
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 9,
+      "description": "Passo panoramico a 996 m lungo la Glenn Highway, con vista spettacolare sui ghiacciai delle Chugach Mountains che scendono per decine di chilometri.",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

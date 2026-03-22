@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    46.1017,
+    10.9894
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "castello-di-rundale",
+      "name": "Castello di Rundale",
+      "coords": [
+        46.4821,
+        11.2985
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Con una digressione di due km passiamo a scattare un paio di foto col sole alla Colline delle Croci quando il cielo è più sereno e ci avviamo verso il confine letto...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "chiesa-ortodossa-di-s-caterina",
+      "name": "Chiesa Ortodossa di S. Caterina",
+      "coords": [
+        45.5006,
+        9.1364
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "L’interno della Chiesa Ortodossa di S.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "confraternita-teste-nere",
+      "name": "Confraternita Teste Nere",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Nel frattempo il cielo ha scaricato la sua mole d’acqua e sta tornando il sereno, è l’ora di proseguire la passeggiata fra le vie del centro lungo il tratto di bast...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

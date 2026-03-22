@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    34.9198,
+    135.2375
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "tenman-gu",
+      "name": "Tenman-gũ",
+      "coords": [
+        35.0004,
+        135.781
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dazaifu è una cittadina a pochi km da Fukuoka, ma ricca di storia grazie al santuario Tenman-gũ , che si presenta con un giardino composto in modo estremamente equi...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "interessante-castello",
+      "name": "interessante castello",
+      "coords": [
+        34.8393,
+        134.694
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La cittadina di Kitsuki ci viene presentata dalla guida come sede di un interessante castello , in effetti lo è, ma tutto è lasciato a sé stesso, quasi alla ricerca...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.0874,
+    84.4644
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "kathmandu",
+      "name": "Kathmandu",
+      "coords": [
+        27.7083,
+        85.3206
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": ".",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tims",
+      "name": "TIMS",
+      "coords": [
+        28.1989,
+        83.9691
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "acap",
+      "name": "ACAP",
+      "coords": [
+        28.3549,
+        84.1034
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

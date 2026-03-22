@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -15.5713,
+    48.3807
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "die",
+      "name": "DIE",
+      "coords": [
+        -12.3466,
+        49.2881
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Inizio giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tnr",
+      "name": "TNR",
+      "coords": [
+        -18.7961,
+        47.4734
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

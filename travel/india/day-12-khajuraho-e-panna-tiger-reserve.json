@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    28.6328,
+    77.199
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "chaturbhuja-temple",
+      "name": "Chaturbhuja Temple",
+      "coords": [
+        28.6328,
+        77.199
+      ],
+      "emoji": "🛕",
+      "stepNumber": 1,
+      "description": "Visitiamo prima due templi che si trovano nella zona meridionale (il Chaturbhuja Temple e il Duladeo Temple), caratteristici ma meno imponenti di quanto possibile v...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

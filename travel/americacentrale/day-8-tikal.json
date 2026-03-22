@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    17.222,
+    -89.6237
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "tikal",
+      "name": "Tikal",
+      "coords": [
+        17.222,
+        -89.6237
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tikal",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

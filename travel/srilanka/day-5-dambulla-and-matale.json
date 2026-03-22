@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    7.6703,
+    80.6372
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "dambulla",
+      "name": "Dambulla",
+      "coords": [
+        7.8731,
+        80.6511
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dambulla and Matale",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "matale",
+      "name": "Matale",
+      "coords": [
+        7.4675,
+        80.6234
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Dambulla and Matale",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

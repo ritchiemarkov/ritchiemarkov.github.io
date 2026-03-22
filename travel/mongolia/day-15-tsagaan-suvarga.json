@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    42.7064,
+    109.2549
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "tsagaan-suvarga",
+      "name": "Tsagaan Suvarga",
+      "coords": [
+        44.6375,
+        106.8989
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Tsagaan Suvarga",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "dalanzadgad",
+      "name": "Dalanzadgad",
+      "coords": [
+        43.5717,
+        104.426
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si passa da Dalanzadgad , il capoluogo dell’aimag di Ömnögov, e si va verso N a Tsagaan Suvarga ( stupa bianco ): è una formazione rocciosa di calce, situata sul te...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "p-n",
+      "name": "P.N",
+      "coords": [
+        39.91,
+        116.4397
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "L’inevitabile istinto che ci porta a percorrere vie alternative ci costringe a girovagare qualche tempo prima di arrivare P.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

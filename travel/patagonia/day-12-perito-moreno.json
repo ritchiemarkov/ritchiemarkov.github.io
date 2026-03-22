@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -50.4969,
+    -73.1371
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "perito-moreno",
+      "name": "Perito Moreno",
+      "coords": [
+        -50.4969,
+        -73.1371
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Perito Moreno",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

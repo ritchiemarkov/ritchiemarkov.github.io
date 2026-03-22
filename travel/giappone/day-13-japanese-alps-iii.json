@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    35.4746,
+    138.9569
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "santuario-taisha-shimosha-akimiya",
+      "name": "Santuario Taisha Shimosha Akimiya",
+      "coords": [
+        35.6943,
+        139.7433
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Sono le prime ore del mattino e nel santuario Taisha Shimosha Akimiya si respira tranquillità.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "motosu-lake",
+      "name": "Motosu Lake",
+      "coords": [
+        35.4643,
+        138.5855
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Quello più a nord (il Motosu Lake ) consente una vista speciale verso la montagna simbolo del Giappone che si trova sullo sfondo, ripresa anche sulle banconote da 1.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "saiko-lake",
+      "name": "Saiko Lake",
+      "coords": [
+        35.4985,
+        138.6854
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Quello più a nord (il Motosu Lake ) consente una vista speciale verso la montagna simbolo del Giappone che si trova sullo sfondo, ripresa anche sulle banconote da 1.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kawaguchi-lake",
+      "name": "Kawaguchi Lake",
+      "coords": [
+        35.5131,
+        138.7448
+      ],
+      "emoji": "🌊",
+      "stepNumber": 4,
+      "description": "Quello più a nord (il Motosu Lake ) consente una vista speciale verso la montagna simbolo del Giappone che si trova sullo sfondo, ripresa anche sulle banconote da 1.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "torii-in-legno-il-kanadorii",
+      "name": "torii in legno, il Kanadorii",
+      "coords": [
+        35.2027,
+        139.0257
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Sistemati i bagagli è subito ora di ripartire alla volta di Fujiyoshida, dove troviamo niente di particolare da vedere fatto salvo lo storico torii in legno, il Kan...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

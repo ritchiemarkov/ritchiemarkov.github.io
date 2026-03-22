@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    43.8237,
+    103.32
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "bayanzag",
+      "name": "Bayanzag",
+      "coords": [
+        44.1403,
+        103.7235
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Bayanzag e Khongorin Els",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "khongorin-els",
+      "name": "Khongorin Els",
+      "coords": [
+        43.758,
+        102.432
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Bayanzag e Khongorin Els",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "deserto-dei-gobi-meridionale",
+      "name": "Deserto Dei Gobi Meridionale",
+      "coords": [
+        43.5729,
+        103.8045
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Solita buona colazione e si parte alla volta del DESERTO DEI GOBI MERIDIONALE.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

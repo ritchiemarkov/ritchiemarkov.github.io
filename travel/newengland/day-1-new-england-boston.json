@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    42.3188,
+    -71.1042
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "new-england",
+      "name": "New England",
+      "coords": [
+        42.2881,
+        -71.0778
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "New England, Boston",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "boston",
+      "name": "Boston",
+      "coords": [
+        42.3495,
+        -71.1306
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "New England, Boston",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

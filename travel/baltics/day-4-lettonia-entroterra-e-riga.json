@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    45.8898,
+    10.395
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "sigulda",
+      "name": "Sigulda",
+      "coords": [
+        46.4821,
+        11.2985
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Probabilmente la zona più interessante da vedere è quella di Sigulda , con i suoi castelli ed i sentieri che li collegano.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "casa-delle-teste-nere",
+      "name": "Casa delle Teste Nere",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La piazza del Municipio rappresenta il punto ideale per dare inizio alla lunga camminata, qui si trova in effetti un concentrato palazzi dalle caratteristiche archi...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "torre-delle-polveri",
+      "name": "Torre delle Polveri",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La piazza del Municipio rappresenta il punto ideale per dare inizio alla lunga camminata, qui si trova in effetti un concentrato palazzi dalle caratteristiche archi...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cattedrale-ortodossa",
+      "name": "Cattedrale Ortodossa",
+      "coords": [
+        45.5006,
+        9.1364
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Poco oltre si trova il castello (niente di particolare), la Cattedrale Luterana di Riga con il Museo d’Arte della Borsa, il gruppo di edifici storici detto i Tre Fr...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

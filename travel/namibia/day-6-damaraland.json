@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -21.0319,
+    15.3035
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "damaraland",
+      "name": "Damaraland",
+      "coords": [
+        -20.4312,
+        14.1273
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Damaraland",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "organ-pipes",
+      "name": "Organ Pipes",
+      "coords": [
+        -20.6129,
+        14.4151
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La prossima tappa sarà rappresentata dalle Organ Pipes e la Burnt Mountain, che si riveleranno due vere delusioni al costo di 50 NAD.",
+      "category": "Luogo",
+      "highlights": [
+        "Nad"
+      ]
+    },
+    {
+      "id": "bbq",
+      "name": "Bbq",
+      "coords": [
+        -22.0516,
+        17.368
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ogni piazzola, spaziosa e dotata di recinzione antivento su tre lati, è dotata di filo per il bucato, BBQ e lavandino in acciaio con acqua corrente.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

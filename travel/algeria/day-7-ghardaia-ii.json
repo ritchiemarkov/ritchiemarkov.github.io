@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    35.2489,
+    5.6031
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "ghardaia",
+      "name": "Ghardaïa",
+      "coords": [
+        32.4856,
+        3.6771
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ghardaïa II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mausoleum-di-sheikh-sidi-aissa",
+      "name": "Mausoleum di Sheikh Sidi Aissa",
+      "coords": [
+        36.575,
+        2.5528
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A seguire andiamo a Milika , il cui cimitero si trova nella parte alta della cittadina e proseguiamo per il Mausoleum di Sheikh Sidi Aissa .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bou-noura",
+      "name": "Bou Noura",
+      "coords": [
+        36.686,
+        10.5793
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Bou Noura è l’ultima visita in quel di Ghardaia: qui c’erano 5 torri di guardia ma ne sono rimaste solo tre.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    51.4563,
+    -116.3942
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "lake-louise",
+      "name": "Lake Louise",
+      "coords": [
+        51.425,
+        -116.1775
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Lake Louise",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "takakkaw-falls",
+      "name": "Takakkaw Falls",
+      "coords": [
+        51.5002,
+        -116.4735
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Deviamo poco dopo per una stretta carrozzabile, la Yoho Valley Rd.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "emerald-lake",
+      "name": "Emerald Lake",
+      "coords": [
+        51.4437,
+        -116.5317
+      ],
+      "emoji": "🌊",
+      "stepNumber": 3,
+      "description": "Da Golden ritorniamo verso il Kicking Horse Pass e Lake Louise.",
+      "category": "Lago",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

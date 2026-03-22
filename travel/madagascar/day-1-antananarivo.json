@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -18.91,
+    47.5256
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "antananarivo",
+      "name": "Antananarivo",
+      "coords": [
+        -18.91,
+        47.5256
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Antananarivo",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    46.4674,
+    11.8816
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "cuore-delle-dolomiti",
+      "name": "cuore delle Dolomiti",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Il cuore delle Dolomiti",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "scillar",
+      "name": "Scillar",
+      "coords": [
+        46.5071,
+        11.5859
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Le famose quanto magiche vette Dolomitiche (in particolare il Catinaccio e Scillar ) iniziano a scintillare sotto il primo sole, con una spolverata di neve a render...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "passo-sella",
+      "name": "Passo Sella",
+      "coords": [
+        46.5081,
+        11.7673
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Andiamo subito al Passo Sella , stretto fra il Sassolungo ed il gruppo del Sella , con la Marmolada non distante a sud.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "sassolungo",
+      "name": "Sassolungo",
+      "coords": [
+        46.5249,
+        11.7353
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Andiamo subito al Passo Sella , stretto fra il Sassolungo ed il gruppo del Sella , con la Marmolada non distante a sud.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "gruppo-del-sella",
+      "name": "gruppo del Sella",
+      "coords": [
+        46.5177,
+        11.8212
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Oggi bisogna approfittare del bel tempo ed intensificare le visite.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "marmolada",
+      "name": "Marmolada",
+      "coords": [
+        46.4244,
+        11.8467
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Andiamo subito al Passo Sella , stretto fra il Sassolungo ed il gruppo del Sella , con la Marmolada non distante a sud.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

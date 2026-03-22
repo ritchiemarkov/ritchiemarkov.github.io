@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    -17.3894,
+    145.5751
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "atherton-tableland",
+      "name": "Atherton Tableland",
+      "coords": [
+        -17.4099,
+        145.5619
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Atherton Tableland",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "atherton",
+      "name": "Atherton",
+      "coords": [
+        -17.2667,
+        145.4769
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Con una strada tutta curve ed in salita approdiamo al Lion’s lookout, scendiamo di poco per raggiungere l’ATHERTON TABLELAND sito sui 500 mt slm, contraddistinto da...",
+      "category": "Luogo",
+      "highlights": [
+        "Atherton Tableland"
+      ]
+    },
+    {
+      "id": "curtain-fig",
+      "name": "Curtain Fig",
+      "coords": [
+        -17.2808,
+        145.5698
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il tempo si è nel frattempo annuvolato ed il verde circostante assume colori meno brillanti, vediamo il Curtain Fig con un’interessante passeggiata nella foresta pl...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "millaa-millaa-falls",
+      "name": "Millaa Millaa Falls",
+      "coords": [
+        -17.4958,
+        145.6106
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Andiamo a Millaa Millaa che è ridotta ad una ghost town e percorriamo il Waterfall Circuit, cominciando con le spettacolari Millaa Millaa Falls , rese ancora più be...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ellinjaa-waterfalls",
+      "name": "Ellinjaa Waterfalls",
+      "coords": [
+        -17.4937,
+        145.6561
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Andiamo a Millaa Millaa che è ridotta ad una ghost town e percorriamo il Waterfall Circuit, cominciando con le spettacolari Millaa Millaa Falls , rese ancora più be...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

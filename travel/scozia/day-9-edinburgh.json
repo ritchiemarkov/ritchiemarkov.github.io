@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    54.292,
+    -5.3559
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "edinburgh",
+      "name": "Edinburgh",
+      "coords": [
+        55.9533,
+        -3.1884
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Edinburgh",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "calton-hill",
+      "name": "Calton Hill",
+      "coords": [
+        53.58,
+        -6.6122
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci rechiamo sulla collina di Calton Hill per una vista dall’alto, meritevole di una breve scarpinata per raggiungere tale podio .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castello-come-sfondo",
+      "name": "Castello come sfondo",
+      "coords": [
+        53.3426,
+        -6.267
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La New Town è degna di menzione ma potrebbe tranquillamente essere percorsa in auto, mentre la zona che si trova sotto la rocca del castello sembra essere decisamen...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

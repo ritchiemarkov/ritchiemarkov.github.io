@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    49.2609,
+    -123.114
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "coords": [
+        49.2609,
+        -123.114
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Vancouver I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

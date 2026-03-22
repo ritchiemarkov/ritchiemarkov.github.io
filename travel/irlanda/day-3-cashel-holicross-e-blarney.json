@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    52.7172,
+    -7.5771
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "tipperary-county",
+      "name": "Tipperary County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "TIPPERARY COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "glen-of-aherlow",
+      "name": "Glen of Aherlow",
+      "coords": [
+        52.4298,
+        -8.1685
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una deviazione che non costa nemmeno tanti km ci porta alla Glen of Aherlow ; non si tratta di vere montagne, sono piuttosto colline scintillanti di verde dopo l’im...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cahir",
+      "name": "Cahir",
+      "coords": [
+        52.3779,
+        -7.9226
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Cahir è un villaggio medievale con il castello che sorge su un’isola fluviale.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castello",
+      "name": "Castello",
+      "coords": [
+        53.3426,
+        -6.267
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "La tirannia del tempo ci costringe a rinunciare al litorale meridionale di Tramore ed altri villaggi limitrofi, puntando direttamente su Blarney, dove accediamo all...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cork",
+      "name": "Cork",
+      "coords": [
+        51.8985,
+        -8.4726
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "L’ultima tappa della giornata è Cork , che raggiungiamo con un breve tratto di 10 km.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "st-fin-barres-cathedral",
+      "name": "St. Fin Barre’s Cathedral",
+      "coords": [
+        53.1579,
+        -6.9116
+      ],
+      "emoji": "🛕",
+      "stepNumber": 6,
+      "description": "Pur essendo la seconda città irlandese finiamo per non ricavarne una grande impressione: il centro è trasandato, pur nell’allegra ed affollata movida del tardo pome...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

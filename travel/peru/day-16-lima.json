@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -12.7814,
+    -74.5047
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "lima",
+      "name": "Lima",
+      "coords": [
+        -12.046,
+        -77.0306
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lima",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "plaza-san-martin",
+      "name": "Plaza San Martin",
+      "coords": [
+        -13.5168,
+        -71.9788
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sbarchiamo nella Plaza de Armas e ci sembra di essere in stato d’assedio.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

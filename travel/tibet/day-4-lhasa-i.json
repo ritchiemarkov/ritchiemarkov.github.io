@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.6779,
+    86.806
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "lhasa",
+      "name": "Lhasa",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lhasa I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "barkhor",
+      "name": "Barkhor",
+      "coords": [
+        29.6527,
+        91.1315
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Entriamo nel circuito del Barkhor dopo aver sottoposto i contenitori all’occhio disattento di un metal detector presidiato da mezza dozzina di poliziotti.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "potala",
+      "name": "Potala",
+      "coords": [
+        28.6693,
+        83.9745
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Occorre muoverci rapidamente per andare a vedere il Potala in quanto siamo prenotati e l’orario di visita non va oltre il primo pomeriggio.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

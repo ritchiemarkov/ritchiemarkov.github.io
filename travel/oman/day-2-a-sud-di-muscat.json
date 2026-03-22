@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    23.4882,
+    58.6342
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "sud-di-muscat",
+      "name": "sud di Muscat",
+      "coords": [
+        23.5873,
+        58.39
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "A sud di Muscat",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "muscat",
+      "name": "Muscat",
+      "coords": [
+        23.6124,
+        58.5938
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A sud di Muscat",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "qurayat",
+      "name": "Qurayat",
+      "coords": [
+        23.265,
+        58.9187
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Qurayat ci accoglie in ambiente estremamente calmo, grazie anche al fatto che è sabato: in realtà non ci attendiamo grandi differenze negli orari di punta dei giorn...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

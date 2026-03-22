@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    36.2191,
+    139.7063
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "nikko",
+      "name": "Nikko",
+      "coords": [
+        36.7198,
+        139.6981
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nikko",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "senso-ji",
+      "name": "Senso-ji",
+      "coords": [
+        35.7134,
+        139.7955
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una volta acquistato il biglietto del treno alla stazione di Askakusa abbiamo ancora il tempo per due passi a vedere il Senso-ji nella sua versione diurna , più rea...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kanmangafuchi-abyss",
+      "name": "Kanmangafuchi Abyss",
+      "coords": [
+        36.749,
+        139.5883
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Trascurando momentaneamente gli highlights, decidiamo d’iniziare il tour con una passeggiata che ci porterà a visitare i ruderi di un santuario, il Kanmangafuchi Ab...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "parco-santuario",
+      "name": "parco-santuario",
+      "coords": [
+        35.6943,
+        139.7433
+      ],
+      "emoji": "🌳",
+      "stepNumber": 4,
+      "description": "Camminando lungo la strada ci imbattiamo ancora in un parco-santuario all’interno del quale si trovano le tombe di antichi dignitari.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

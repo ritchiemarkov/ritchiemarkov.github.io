@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -23.2694,
+    16.5832
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "sesriem",
+      "name": "Sesriem",
+      "coords": [
+        -24.4871,
+        15.7985
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Sesriem",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "bbq",
+      "name": "BBQ",
+      "coords": [
+        -22.0516,
+        17.368
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

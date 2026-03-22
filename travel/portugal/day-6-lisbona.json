@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    38.8779,
+    -9.0032
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "lisbona",
+      "name": "Lisbona",
+      "coords": [
+        38.7078,
+        -9.1366
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lisbona",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "padrao-do-descobrimentos",
+      "name": "Padrão do Descobrimentos",
+      "coords": [
+        38.6936,
+        -9.2057
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "15 e recarci nel quartiere di Belem, un tempo borgo di pescatori, adesso meta turistica dove si possono ammirare il Padrão do Descobrimentos , la Torre de Belém e i...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ponte-25-de-abril",
+      "name": "ponte 25 de Abril",
+      "coords": [
+        39.2324,
+        -8.6672
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Un pò più lontano il ponte 25 de Abril collega le due rive del Tago, ormai prossimo a gettarsi nell’oceano.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

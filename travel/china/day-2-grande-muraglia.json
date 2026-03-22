@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    37.3477,
+    112.7529
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "grande-muraglia",
+      "name": "Grande Muraglia",
+      "coords": [
+        40.4344,
+        116.5635
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Grande Muraglia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "xian",
+      "name": "Xi’An",
+      "coords": [
+        34.261,
+        108.9423
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ritornati a Pechino ceniamo nel ristorante della stazione Xi Zhan (il terminal ferroviario più grande dell’Asia) dove attendiamo il treno delle 20,02 che in nottata...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

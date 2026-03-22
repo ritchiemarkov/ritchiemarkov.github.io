@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    42.6582,
+    -72.8989
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "williamstown",
+      "name": "Williamstown",
+      "coords": [
+        42.7135,
+        -73.2095
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Risaliamo una decina di miglia per ritornare a Williamstown e da lì intraprendere il Mohawk Trail.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "natural-bridge-state-park",
+      "name": "Natural Bridge State Park",
+      "coords": [
+        42.7075,
+        -73.09
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Iniziamo dal Natural Bridge State Park , con bella cascata che scende su un velluto marmoreo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "shelburne-falls",
+      "name": "Shelburne Falls",
+      "coords": [
+        42.6036,
+        -72.7395
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Proseguendo spicca in particolare il ponte , questa volta scoperto, di Shelburne Falls .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "turners-falls",
+      "name": "Turners Falls",
+      "coords": [
+        42.6083,
+        -72.5568
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Turners Falls merita una breve sosta lungo il fiume Connecticut nel punto in cui si trova la diga e l’annessa scala che permette la risalita dei salmoni (che avvien...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

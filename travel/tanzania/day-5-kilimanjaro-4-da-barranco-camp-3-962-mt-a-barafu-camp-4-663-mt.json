@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    -3.1123,
+    37.2036
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "barranco-camp",
+      "name": "Barranco Camp",
+      "coords": [
+        -3.0126,
+        37.2294
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kilimanjaro 4 da Barranco Camp (3.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "barafu-camp",
+      "name": "Barafu Camp",
+      "coords": [
+        -3.1,
+        37.3787
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Kilimanjaro 4 da Barranco Camp (3.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mawenzi",
+      "name": "Mawenzi",
+      "coords": [
+        -3.0933,
+        37.4564
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ora il freddo punge decisamente, ma la neve smette di scendere lasciando spazio ad una visione paradisiaca che va dal Mawenzi al Mt.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "monte-meru-svetta",
+      "name": "Monte Meru svetta",
+      "coords": [
+        -3.2434,
+        36.7498
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 4,
+      "description": "Meru, passando dalla nostra Montagna ancora avvolta dalle nebbie.",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

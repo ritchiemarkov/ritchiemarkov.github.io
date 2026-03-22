@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.7711,
+    95.6855
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "monastero-kumbum",
+      "name": "Monastero Kumbum",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ciononostante mangiare spaghettini, aglio ed altre amenità del genere non ci sembra il viatico migliore per una giornata di visita ad un nuovo monastero.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "xining",
+      "name": "Xining",
+      "coords": [
+        36.6173,
+        101.7762
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il Monastero Kumbum (Ta’er Si in cinese) si trova a 25 km a sudest di Xining .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

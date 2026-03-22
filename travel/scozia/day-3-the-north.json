@@ -1,0 +1,57 @@
+{
+  "mapCenter": [
+    57.5286,
+    -3.2082
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "glenfiddich-distillery",
+      "name": "Glenfiddich distillery",
+      "coords": [
+        57.4551,
+        -3.1287
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "DUFFTOWN - SPEYSIDE - Partiamo subito bene con la visita alla Glenfiddich distillery , dove alle 9,45 parte il primo giro guidato ed alle 10,30 siamo costretti a ma...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Dufftown",
+        "Speyside"
+      ]
+    },
+    {
+      "id": "speyside-cooperage",
+      "name": "Speyside Cooperage",
+      "coords": [
+        57.4819,
+        -3.1812
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "DUFFTOWN - SPEYSIDE - Partiamo subito bene con la visita alla Glenfiddich distillery , dove alle 9,45 parte il primo giro guidato ed alle 10,30 siamo costretti a ma...",
+      "category": "Luogo",
+      "highlights": [
+        "Dufftown",
+        "Speyside"
+      ]
+    },
+    {
+      "id": "elgin",
+      "name": "ELGIN",
+      "coords": [
+        57.6488,
+        -3.3148
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Arriviamo ad ELGIN con un bel sole, che solo di rado si cela dietro veloci quanto candide nuvole.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

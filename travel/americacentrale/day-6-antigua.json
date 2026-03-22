@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    14.5586,
+    -90.7295
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "antigua",
+      "name": "Antigua",
+      "coords": [
+        14.5586,
+        -90.7295
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Antigua",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

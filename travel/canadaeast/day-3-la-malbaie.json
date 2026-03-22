@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    47.7558,
+    -69.8436
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "malbaie",
+      "name": "Malbaie",
+      "coords": [
+        47.6575,
+        -70.1539
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "La Malbaie",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "riviere-du-loup",
+      "name": "Riviere du Loup",
+      "coords": [
+        47.8541,
+        -69.5333
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Giungiamo a Riviere du Loup , bello e curato, e sotto una pioggia talvolta temporalesca ci dirigiamo verso Edmuston sulla 185.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    43.7418,
+    12.4129
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "monumento-allindipendenza",
+      "name": "Monumento all’Indipendenza",
+      "coords": [
+        40.4707,
+        19.4907
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Se mi chiedessero se preferisco vedere un posto di confine o un grande monumento, in molti casi sceglierei il primo per la curiosità che lo avvolgono, l’umanità tal...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "piazza-abay",
+      "name": "Piazza Abay",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Oggi è l’anniversario della fondazione di Almaty e sulla piazza Abay , di fronte al Palazzo della Repubblica, è in corso un concerto con ampia presenza di pubblico.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cattedrale-ortodossa-dellascensione",
+      "name": "Cattedrale ortodossa dell’Ascensione",
+      "coords": [
+        45.5006,
+        9.1364
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La vicina Cattedrale ortodossa dell’Ascensione (Zenkov) è uno sfarzo di colori dorati ed iconografie tipiche di questa confessione.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

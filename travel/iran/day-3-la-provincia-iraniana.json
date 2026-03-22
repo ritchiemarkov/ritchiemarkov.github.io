@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    31.0641,
+    53.1807
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "abyaneh",
+      "name": "Abyaneh",
+      "coords": [
+        33.5865,
+        51.5909
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ancora qualche decina di km e siamo ad Abyaneh , intrigante paesino sperduto sulle pendici dei Monti Zagros, dove il tempo si era fermato cristallizzando architettu...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "moschea",
+      "name": "Moschea",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Lungo la via, dopo un breve pranzo, rimane ancora da visitare Natanz con la sua Moschea .",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tap",
+      "name": "Tap",
+      "coords": [
+        26.9484,
+        56.2724
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Intorno ad essa, quasi nascosto, si estende il bazar che risale a secoli fa quando la città era una tappa importante lungo la via della seta.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

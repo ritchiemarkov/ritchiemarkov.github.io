@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    40.1458,
+    -8.5304
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "fatima",
+      "name": "Fatima",
+      "coords": [
+        39.6255,
+        -8.6659
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Fatima",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "coimbra",
+      "name": "Coimbra",
+      "coords": [
+        40.2112,
+        -8.4295
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La prima tappa odierna è Coimbra , bella la Cattedrale e ancor più bello il centro storico, con viuzze degradanti verso il fiume.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cattedrale",
+      "name": "Cattedrale",
+      "coords": [
+        41.1428,
+        -8.6112
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La prima tappa odierna è Coimbra , bella la Cattedrale e ancor più bello il centro storico, con viuzze degradanti verso il fiume.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tomar",
+      "name": "Tomar",
+      "coords": [
+        39.6037,
+        -8.415
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Tomar – alla fine non si è capito se i circa 30 km fra l’uscita dell’autostrada e la cittadina di Tomar siano realmente la via più breve, resta il fatto che la line...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

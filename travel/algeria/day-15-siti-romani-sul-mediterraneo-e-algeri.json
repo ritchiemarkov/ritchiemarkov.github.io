@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.9177,
+    1.3907
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "algeri",
+      "name": "Algeri",
+      "coords": [
+        29.2605,
+        0.2286
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Siti romani sul Mediterraneo e Algeri",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mauretania-royal-mausoleum",
+      "name": "Mauretania Royal Mausoleum",
+      "coords": [
+        36.575,
+        2.5528
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una prima tappa sarà il Mauretania Royal Mausoleum , sito funerario romano edificato dai regnanti della Numidia – alleati dell’Impero – per Giuba II e la moglie, ov...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

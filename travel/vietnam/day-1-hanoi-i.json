@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    21.0283,
+    105.854
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "hanoi",
+      "name": "Hanoi",
+      "coords": [
+        21.0283,
+        105.854
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Hanoi I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

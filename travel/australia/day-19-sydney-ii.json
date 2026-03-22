@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -36.0127,
+    148.0818
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "st-marys-cathedral",
+      "name": "St. Marys Cathedral",
+      "coords": [
+        -33.8709,
+        151.2141
+      ],
+      "emoji": "🛕",
+      "stepNumber": 1,
+      "description": "Marys Cathedral , teatro del prossimo incontro del Papa coi giovani nel 2008, saliamo sull’Harbour Bridge per una migliore veduta dell’ Opera House e della Skyline .",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "opera-house",
+      "name": "Opera House",
+      "coords": [
+        -36.3874,
+        148.2747
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Marys Cathedral , teatro del prossimo incontro del Papa coi giovani nel 2008, saliamo sull’Harbour Bridge per una migliore veduta dell’ Opera House e della Skyline .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "skyline",
+      "name": "Skyline",
+      "coords": [
+        -37.7797,
+        144.7565
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Marys Cathedral , teatro del prossimo incontro del Papa coi giovani nel 2008, saliamo sull’Harbour Bridge per una migliore veduta dell’ Opera House e della Skyline .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

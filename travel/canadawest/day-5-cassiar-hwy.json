@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    56.2223,
+    -127.5246
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "cassiar-hwy",
+      "name": "Cassiar Hwy",
+      "coords": [
+        55.1993,
+        -128.041
+      ],
+      "emoji": "🚙",
+      "stepNumber": 1,
+      "description": "Cassiar Hwy",
+      "category": "Trasferimento",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "kitwanga",
+      "name": "Kitwanga",
+      "coords": [
+        55.1004,
+        -128.0676
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Superiamo Kitwanga , che ne rappresenta un po’ la porta d’ingresso, e attraversiamo i primi 100 km, belli ma non entusiasmanti, in una boscaglia collinosa che non m...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bear-glacier",
+      "name": "Bear Glacier",
+      "coords": [
+        51.5893,
+        -117.9872
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "A Mezidin facciamo una deviazione di 23 km verso Stewart in direzione ovest per ammirare il Bear Glacier che si getta in un lago glaciale.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "yukon",
+      "name": "Yukon",
+      "coords": [
+        63.0001,
+        -136.0025
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Poco prima della junction con la Alaska Hwy (alle 19.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

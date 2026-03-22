@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -3.6971,
+    35.67
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "ngorongoro-crater-national-park",
+      "name": "Ngorongoro Crater National Park",
+      "coords": [
+        -4.1248,
+        36.0857
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Ngorongoro Crater National Park",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "hadzabe",
+      "name": "Hadzabe",
+      "coords": [
+        -3.4764,
+        35.3561
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sveglia di buon mattino, un caffè con qualche biscotto e subito in macchina per l’incontro con gli Hadzabe .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "karatu",
+      "name": "Karatu",
+      "coords": [
+        -3.4902,
+        35.5683
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il tragitto originale avrebbe lasciato poco tempo per il Mara River, dal momento che si trova a distanza ragguardevole e le strade sono tutt’altro che buone (va rim...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

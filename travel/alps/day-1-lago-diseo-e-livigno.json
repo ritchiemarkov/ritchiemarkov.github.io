@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    46.1388,
+    10.1179
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "lago-d-iseo",
+      "name": "Lago d'Iseo",
+      "coords": [
+        45.7389,
+        10.0709
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Lago d'Iseo e Livigno",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "passo-del-foscagno",
+      "name": "Passo del Foscagno",
+      "coords": [
+        46.5387,
+        10.1648
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Con una serie interminabile di gallerie percorriamo la Valcamonica fino a Edolo, quindi saliamo al passo dell’Aprica ed ancora per lunghi tunnel raggiungiamo Bormio...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

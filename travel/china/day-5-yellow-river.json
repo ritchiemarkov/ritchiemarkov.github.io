@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    36.2462,
+    108.6599
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "yellow-river",
+      "name": "Yellow River",
+      "coords": [
+        35.0864,
+        97.9161
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Yellow River",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "diecimila-buddha",
+      "name": "Diecimila Buddha",
+      "coords": [
+        29.5469,
+        103.7693
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si prosegue con un’ora circa di navigazione in motoscafo sul lago artificiale creato per la centrale idroelettrica , fino al complesso delle grotte dei “ Diecimila...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "buddha-nibbana",
+      "name": "Buddha Nibbana",
+      "coords": [
+        40.4344,
+        116.5635
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "rappresentano dei volti molto più indiani che cinesi in quanto questa religione era giunta da poco dal nord dell’India dov’era nata circa 1000 anni prima: lo stesso...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "citta-e",
+      "name": "Città è",
+      "coords": [
+        39.9173,
+        116.3908
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 4,
+      "description": "Pranzo a Linxia e passeggiata per fare conoscenza con questa cittadina dall’aspetto ordinato in un sabato dove si vede parecchia gente passeggiare e la gioventù che...",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

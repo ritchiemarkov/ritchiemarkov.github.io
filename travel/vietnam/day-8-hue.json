@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    16.4639,
+    107.5863
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "hue",
+      "name": "Hué",
+      "coords": [
+        16.4639,
+        107.5863
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Hué",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

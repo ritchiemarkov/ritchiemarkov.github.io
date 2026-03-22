@@ -1,0 +1,70 @@
+{
+  "mapCenter": [
+    28.4476,
+    83.9319
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "trek-annapurna",
+      "name": "Trek Annapurna",
+      "coords": [
+        28.5854,
+        83.9891
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Annapurna III",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Iii"
+      ]
+    },
+    {
+      "id": "lasciamo-bamboo",
+      "name": "lasciamo Bamboo",
+      "coords": [
+        28.457,
+        83.8569
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Confortati carichiamo i pesanti zaini e lasciamo Bamboo a quota 2300 mt.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "affrontiamo-la-salita-al-machhapuchhre-base-camp-mbc",
+      "name": "Affrontiamo la salita al Machhapuchhre Base Camp (MBC",
+      "coords": [
+        28.2215,
+        83.9739
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Affrontiamo la salita al Machhapuchhre Base Camp (MBC) costituita da una ripida scalinata.",
+      "category": "Luogo",
+      "highlights": [
+        "Mbc"
+      ]
+    },
+    {
+      "id": "mbc",
+      "name": "Mbc",
+      "coords": [
+        28.5265,
+        83.9076
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Affrontiamo la salita al Machhapuchhre Base Camp (MBC) costituita da una ripida scalinata.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

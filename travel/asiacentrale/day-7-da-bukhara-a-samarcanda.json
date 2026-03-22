@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    43.6955,
+    11.0782
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "ak-saray",
+      "name": "Ak Saray",
+      "coords": [
+        44.9891,
+        9.2969
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nelle vicinanze si trova un altro mausoleo, quello di Ak Saray : molto più tranquillo ed il silenzio è particolarmente apprezzabile dopo la calca dell’edificio appe...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "statua-di-un-tarmerlano",
+      "name": "statua di un Tarmerlano",
+      "coords": [
+        42.4018,
+        12.8595
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il viale ricco di prati verdi ed aiuole antistante il Gur-e Amir conduce ad un altro mausoleo e ad una rotonda dove c’è la statua di un Tarmerlano , serio ed attent...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    5.2738,
+    -75.395
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "plaza-bolivar",
+      "name": "Plaza Bolivar",
+      "coords": [
+        9.2299,
+        -74.7434
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Colazione alle 6:30 e a seguire chiamiamo il primo Uber per dirigerci verso il centro di Bogotà, in Plaza Bolivar , dalla quale inizieremo la conoscenza della capit...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "capitolio",
+      "name": "Capitolio",
+      "coords": [
+        1.9927,
+        -77.3658
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Per essere la piazza centrale del secondo Paese del Sudamerica non sembra particolarmente attraente; soprattutto considerato che sui quattro lati si trovano le bell...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "palacio-de-justicia",
+      "name": "Palacio de Justicia",
+      "coords": [
+        4.5989,
+        -74.0758
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Per essere la piazza centrale del secondo Paese del Sudamerica non sembra particolarmente attraente; soprattutto considerato che sui quattro lati si trovano le bell...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

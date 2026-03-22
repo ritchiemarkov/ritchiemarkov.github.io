@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -3.0126,
+    37.2294
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "mweka-camp",
+      "name": "Mweka Camp",
+      "coords": [
+        -3.0126,
+        37.2294
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kilimanjaro 6 da Mweka Camp (3.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    25.7822,
+    72.4213
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "ranakpur",
+      "name": "Ranakpur",
+      "coords": [
+        23.9437,
+        71.7972
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ranakpur e Udaipur",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "udaipur",
+      "name": "Udaipur",
+      "coords": [
+        26.4869,
+        74.5561
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ranakpur e Udaipur",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "city-palace",
+      "name": "City Palace",
+      "coords": [
+        26.9159,
+        70.9105
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 3,
+      "description": "Si trova in luogo incantevole sulle sponde del lago Pichola , sulla cui riva orientale si affaccia lo splendido City Palace e altri edifici interessanti.",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

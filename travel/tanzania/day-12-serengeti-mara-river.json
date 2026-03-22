@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -2.3097,
+    35.5956
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "serengeti-mara-river",
+      "name": "Serengeti Mara River",
+      "coords": [
+        -1.5452,
+        34.8589
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Serengeti - Mara River",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "serengeti",
+      "name": "Serengeti",
+      "coords": [
+        -2.3713,
+        34.6984
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Serengeti - Mara River",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "nel-camp",
+      "name": "Nel camp",
+      "coords": [
+        -3.0126,
+        37.2294
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il rientro richiede un paio d’ore e quando mancano pochi minuti all’arrivo nel camp e l’attenzione a cercare animali sta venendo meno, ci appaiono quattro leonesse...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

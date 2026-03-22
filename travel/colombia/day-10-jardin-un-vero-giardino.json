@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    5.0619,
+    -75.594
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "jardin",
+      "name": "Jardin",
+      "coords": [
+        4.6373,
+        -75.5698
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jardin, un vero giardino",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cerro-tusa",
+      "name": "Cerro Tusa",
+      "coords": [
+        5.9647,
+        -75.7707
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Attraversiamo una zona bellissima, morbidi saliscendi collinosi intervallati da coltivazioni e opulente tenute agricole, quando ad un certo momento appare la perfez...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "rio-san-juan",
+      "name": "Rio San Juan",
+      "coords": [
+        4.7069,
+        -76.8668
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "È decisamente più piccolo rispetto al terminal del Norte dal quale siamo partiti ieri, ma si trova curiosamente adiacente al vecchio scalo aereo, oggi destinato ai...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "basilica-de-la-inmaculada-concepcion",
+      "name": "Basilica de la Inmaculada Concepciòn",
+      "coords": [
+        4.4051,
+        -73.9459
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Sono le 14 e due passi saranno quantomeno necessari: iniziamo dalla piazza centrale, sulla quale si affaccia la semigotica Basilica de la Inmaculada Concepciòn di f...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "camino-de-la-herrera",
+      "name": "Camino de la Herrera",
+      "coords": [
+        5.5957,
+        -75.8167
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Intraprendiamo il Camino de la Herrera , un sentiero lastricato che sale verso la Cascada del Amor , l’attraversamento sul rio Volcanes, la grotta de los Murcielago...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

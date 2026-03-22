@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    34.1364,
+    3.2983
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "algeri-la-casbah",
+      "name": "Algeri: la Casbah",
+      "coords": [
+        36.3642,
+        6.6084
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Algeri: la Casbah e dintoni",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "algeri",
+      "name": "Algeri",
+      "coords": [
+        29.2605,
+        0.2286
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Algeri: la Casbah e dintoni",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "casbah",
+      "name": "Casbah",
+      "coords": [
+        36.7845,
+        3.0578
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Algeri: la Casbah e dintoni",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

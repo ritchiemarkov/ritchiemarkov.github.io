@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    39.1848,
+    -9.296
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "obidos",
+      "name": "Obidos",
+      "coords": [
+        39.362,
+        -9.1572
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Obidos è una di quelle città dove il tempo sembra essersi scordato di trascorrere.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "peniche",
+      "name": "Peniche",
+      "coords": [
+        39.3569,
+        -9.3787
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Da lì alla penisola di Peniche ci saranno una ventina di km.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "sintra",
+      "name": "Sintra",
+      "coords": [
+        38.8355,
+        -9.3522
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Proprio uno di questi siti riveste un ruolo nobile per il suo passato e le sue architetture: siamo a Sintra , ormai a pochi km da Lisbona.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

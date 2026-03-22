@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    53.3552,
+    -8.4137
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "galway",
+      "name": "Galway",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cliffs of Moher e Galway",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "st-marys-cathedral",
+      "name": "St. Mary’s Cathedral",
+      "coords": [
+        53.3509,
+        -6.259
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Mary’s Cathedral è di grande interesse, dalle sembianze massicce tanto fuori che all’interno.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "isole-aran",
+      "name": "isole Aran",
+      "coords": [
+        53.1204,
+        -9.7056
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "All’uscita sembra sia accaduto il miracolo: la nebbia se n’è andata, restano alcune nuvole ma verso le isole Aran si intravedono ampi spazi di sereno, un arcipelago...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "burren",
+      "name": "Burren",
+      "coords": [
+        53.9386,
+        -9.3298
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "In direzione di Galway attraversiamo il Burren , paesaggio lunare con terreno carsico, quello che potrebbe essere definito un deserto di pietra, una superficie simi...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "spanish-arch",
+      "name": "Spanish Arch",
+      "coords": [
+        53.2698,
+        -9.054
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Sì disordinata ma più gradevole delle altre in virtù di architetture aggraziate ed alla vitalità conferita dalla folta comunità universitaria.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

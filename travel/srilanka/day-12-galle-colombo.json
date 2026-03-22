@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    6.48,
+    80.039
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "galle",
+      "name": "Galle",
+      "coords": [
+        6.0329,
+        80.2168
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Galle + Colombo",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "colombo",
+      "name": "Colombo",
+      "coords": [
+        6.9271,
+        79.8612
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Galle + Colombo",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    42.7434,
+    -74.9629
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "kennebunkport",
+      "name": "Kennebunkport",
+      "coords": [
+        43.3615,
+        -70.4771
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ancora verso nord in direzione di Kennebunkport , un gradevole villaggio gravitante intorno al porto, dove l’Ocean Road costeggia la passeggiata fronte mare e ad un...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "portland",
+      "name": "Portland",
+      "coords": [
+        42.5807,
+        -83.3338
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Percorrendo la Highway 95 raggiungiamo Portland , caratteristica cittadina con la bella Commercial Street che scorre adiacente ai vecchi docks rimodernati per attiv...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "uno-dei-fari-piu-famosi-del-new-england",
+      "name": "uno dei fari più famosi del New England",
+      "coords": [
+        42.2881,
+        -71.0778
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Scende qualche goccia in diagonale ma questo non impedisce di fare un giro per il paesino, nel quale verso la metà del Seicento si scatenò una vera e propria caccia...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

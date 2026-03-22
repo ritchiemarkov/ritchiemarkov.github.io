@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -50.337,
+    -72.2648
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "el-calafate",
+      "name": "El Calafate",
+      "coords": [
+        -50.337,
+        -72.2648
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "El Calafate",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

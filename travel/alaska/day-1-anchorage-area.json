@@ -1,0 +1,144 @@
+{
+  "mapCenter": [
+    61.2795,
+    -149.4584
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "anchorage",
+      "name": "Anchorage",
+      "coords": [
+        61.2181,
+        -149.9003
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Anchorage Area",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "mckinley",
+      "name": "McKinley",
+      "coords": [
+        61.1447,
+        -150.0
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il volo della Condor è in orario, riservandoci una gradita sorpresa poco prima dell’arrivo, ovvero la vista dell’Alaska Range con il McKinley che svetta sulla nostr...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "eagle-river",
+      "name": "EAGLE RIVER",
+      "coords": [
+        61.3214,
+        -149.5672
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ci rechiamo EAGLE RIVER a 13 mi dalla Glenn Hwy, nel cuore delle Chugach Mountains, per andare a vedere i salmoni rossi che vengono per deporre le uova.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "eklutna-lake",
+      "name": "Eklutna Lake",
+      "coords": [
+        61.3723,
+        -149.0307
+      ],
+      "emoji": "🌊",
+      "stepNumber": 4,
+      "description": "Rientriamo per riprendere la Glenn Hwy ed andare ad EKLUTNA per vedere l’ Eklutna Lake State Recreation Area, un lago che riesce ad essere bellissimo anche con la p...",
+      "category": "Lago",
+      "highlights": [
+        "Eklutna"
+      ]
+    },
+    {
+      "id": "iditarod-race-headquarters",
+      "name": "Iditarod Race Headquarters",
+      "coords": [
+        61.0186,
+        -149.8083
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Visitiamo l’ Iditarod Race Headquarters , sede dell’organizzazione per la famosa corsa di cani con slitta lunga 1.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "coords": [
+        60.8,
+        -148.9
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Siamo in ALASKA!",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "eklutna",
+      "name": "Eklutna",
+      "coords": [
+        61.4581,
+        -149.3617
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Rientriamo per riprendere la Glenn Hwy ed andare ad EKLUTNA per vedere l’ Eklutna Lake State Recreation Area, un lago che riesce ad essere bellissimo anche con la p.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "wasilla",
+      "name": "Wasilla",
+      "coords": [
+        61.5824,
+        -149.4426
+      ],
+      "emoji": "📍",
+      "stepNumber": 8,
+      "description": "Città natale di Sarah Palin e sede dell'Iditarod, la famosa corsa di cani da slitta.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "palmer",
+      "name": "Palmer",
+      "coords": [
+        61.5997,
+        -149.1147
+      ],
+      "emoji": "📍",
+      "stepNumber": 9,
+      "description": "Centro agricolo con storia unica, luogo di pernottamento.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    7.4875,
+    -74.7854
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "cartagena",
+      "name": "Cartagena",
+      "coords": [
+        10.3761,
+        -75.4951
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Cartagena e Medellin",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "palacio-de-la-cultura-uribe-uribe",
+      "name": "Palacio de la Cultura Uribe Uribe",
+      "coords": [
+        4.5989,
+        -74.0758
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Partiamo dalla Catedral Metropolitana e scendiamo verso la Iglesia de la Candelaria, il Palacio de la Cultura Uribe Uribe (più simile a una cattedrale neogotica) e...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

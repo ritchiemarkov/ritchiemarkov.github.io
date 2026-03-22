@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -50.337,
+    -72.2648
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "baires",
+      "name": "Baires",
+      "coords": [
+        -50.337,
+        -72.2648
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Baires + Calafate",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

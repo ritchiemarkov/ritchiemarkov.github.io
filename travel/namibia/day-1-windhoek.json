@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -22.5776,
+    17.0773
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "windhoek",
+      "name": "Windhoek",
+      "coords": [
+        -22.5776,
+        17.0773
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Windhoek",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

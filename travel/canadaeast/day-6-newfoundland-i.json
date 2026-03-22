@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    50.9521,
+    -57.6499
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "norris-point",
+      "name": "Norris Point",
+      "coords": [
+        49.5292,
+        -57.876
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Visitiamo il parco omonimo raggiungendo Norris Point .",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "trout-river",
+      "name": "Trout River",
+      "coords": [
+        49.4799,
+        -58.1297
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A seguire riscendiamo la strada percorsa fin quasi all’imbocco del parco e risaliamo sul lato sud fino a Woody Point, quindi a Trout River lungo una strada che cost...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "newfoundland-i",
+      "name": "Newfoundland I",
+      "coords": [
+        53.8472,
+        -56.9439
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Newfoundland I",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

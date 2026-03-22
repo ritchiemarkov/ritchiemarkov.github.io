@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -14.9579,
+    -71.7579
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "arequipa",
+      "name": "Arequipa",
+      "coords": [
+        -16.3989,
+        -71.537
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Arequipa",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "plaza-de-armas",
+      "name": "Plaza de Armas",
+      "coords": [
+        -13.5168,
+        -71.9788
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ancora un giretto digestivo quanto suggestivo sulla Plaza de Armas per vedere la cattedrale ed i porticati illuminati.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

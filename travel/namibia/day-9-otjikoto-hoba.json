@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -19.4278,
+    17.8203
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "otjikoto",
+      "name": "Otjikoto",
+      "coords": [
+        -19.5926,
+        17.9337
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Otjikoto+Hoba",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tsumeb-cultural-village",
+      "name": "Tsumeb Cultural Village",
+      "coords": [
+        -19.2631,
+        17.7068
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 2,
+      "description": "Tsumeb è invece una cittadina con belle fioriture di jacaranda , che verte intorno all’industria estrattiva, alle connesse attività di lavorazione dei minerali ed a...",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

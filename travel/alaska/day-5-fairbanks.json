@@ -1,0 +1,100 @@
+{
+  "mapCenter": [
+    64.8421,
+    -147.7712
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "fairbanks",
+      "name": "Fairbanks",
+      "coords": [
+        64.8438,
+        -147.7194
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Fairbanks",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "nenana",
+      "name": "NENANA",
+      "coords": [
+        64.5635,
+        -149.096
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sulla strada ci fermiamo a NENANA , uno dei tanti villaggi indiani sviluppatisi in seguito alla corsa all’oro, che adesso cerca a stento di sopravvivere fra le nume...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "fiume-tanana",
+      "name": "Fiume Tanana",
+      "coords": [
+        64.4,
+        -146.9
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Probabilmente hanno ragione le guide quando scrivono che l’unica ragione per visitare Nenana è legato alla scommessa famosa in tutti gli USA sul momento in cui si r...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ester",
+      "name": "ESTER",
+      "coords": [
+        64.8587,
+        -148.0901
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "ESTER è una ghost town molto originale consistente in alcuni vecchi edifici.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "pioneer-park",
+      "name": "Pioneer Park",
+      "coords": [
+        61.1153,
+        -149.9083
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Iniziamo dal Pioneer Park , percorrendolo in lungo e in largo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "labitazione-del-primo-governatore-dellalaska",
+      "name": "l’abitazione del primo governatore dell’Alaska",
+      "coords": [
+        69.2714,
+        -144.9137
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Poco prima di mezzogiorno siamo a FAIRBANKS, seconda città dell’Alaska con 80.",
+      "category": "Luogo",
+      "highlights": [
+        "Fairbanks",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

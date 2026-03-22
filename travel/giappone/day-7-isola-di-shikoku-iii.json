@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    34.6745,
+    135.6786
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "dogo-onsen-honkan",
+      "name": "Dogo Onsen Honkan",
+      "coords": [
+        33.8521,
+        132.7864
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Vediamo dall’esterno il Dogo Onsen Honkan , una stazione termale storica che merita una breve visita solo per la sua architettura; la pioggia ci consiglia di passeg...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "giardino-koraku-en",
+      "name": "giardino Koraku-en",
+      "coords": [
+        35.3322,
+        139.5555
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ma prima intendiamo ancora visitare il giardino Koraku-en , splendido anche sotto il cielo grigio, anzi arricchito da lampade adagiate sui prati e perfino con i bor...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castello-detto-u-jo",
+      "name": "Castello detto U-jo",
+      "coords": [
+        34.8393,
+        134.694
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Sull’altra sponda del fiume Asahi (stesso nome della famosa birra) si vede il Castello detto U-jo (del corvo, per via del suo colore nero).",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

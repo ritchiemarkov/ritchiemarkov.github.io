@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.1206,
+    86.7558
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "back",
+      "name": "Back",
+      "coords": [
+        27.7252,
+        85.3607
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Back to Lhasa I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "monastero-di-dargyeling",
+      "name": "Monastero di Dargyeling",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Segue un piacevole intermezzo al monastero di Dargyeling , situato su una collina dove potremmo dire si trovino le tavole della legge buddhista .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lhasa",
+      "name": "Lhasa",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Back to Lhasa I",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

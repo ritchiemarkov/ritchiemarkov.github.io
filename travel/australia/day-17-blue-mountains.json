@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -33.6097,
+    150.4052
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "blue-mountains",
+      "name": "Blue Mountains",
+      "coords": [
+        -33.6097,
+        150.4052
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Blue Mountains",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

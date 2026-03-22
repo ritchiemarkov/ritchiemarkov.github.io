@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    35.4118,
+    139.4561
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "peace-torii",
+      "name": "Peace torii",
+      "coords": [
+        35.2027,
+        139.0257
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "La strada attraversa prima una sequenza di boschi incantati; stretta, s’insinua con pieghe continue lungo queste basse montagne tra muretti rivestiti di muschio fin...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "kamakura",
+      "name": "Kamakura",
+      "coords": [
+        35.3193,
+        139.547
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Kamakura , anch’essa facilmente raggiungibile sia in auto che in treno dalla capitale, vanta una bella serie di siti religiosi, fra i quali spicca il santuario budd...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "senso-ji-uno-splendido-complesso-templare-shintoista",
+      "name": "Senso-ji, uno splendido complesso templare shintoista",
+      "coords": [
+        35.7134,
+        139.7955
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La sede aeroportuale della Budget si trova in zona appartata e mentre si arriva è curioso dare uno sguardo dietro le quinte di uno scalo come quello di Haneda: maga...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

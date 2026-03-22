@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    27.6985,
+    85.3464
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "kathmandu",
+      "name": "Kathmandu",
+      "coords": [
+        27.7083,
+        85.3206
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kathmandu II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "durbar-square",
+      "name": "Durbar Square",
+      "coords": [
+        27.6721,
+        85.4282
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A piedi ci avviamo verso Durbar Square , soffermandoci a vedere lo stupa di Kathesimbhu .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "swayambhunath",
+      "name": "Swayambhunath",
+      "coords": [
+        27.7152,
+        85.2903
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Si rientra in centro per il pranzo che ci costringe quasi a ritornare a Thamel causa assenza di locali, assaggiamo la birra Gurkha (5° ma di carattere più leggero r...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

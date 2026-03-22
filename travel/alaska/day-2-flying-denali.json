@@ -1,0 +1,114 @@
+{
+  "mapCenter": [
+    62.2429,
+    -149.7267
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "denali",
+      "name": "Denali",
+      "coords": [
+        63.5333,
+        -150.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Flying Denali",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "independence-mine",
+      "name": "Independence Mine",
+      "coords": [
+        61.7921,
+        -149.2935
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Spendiamo un paio d’ore con profitto nella visita della Independence Mine State Historical Park.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "hatcher-pass",
+      "name": "HATCHER PASS",
+      "coords": [
+        61.7671,
+        -149.3226
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 3,
+      "description": "Saliamo verso l’Hatcher Pass dalla Wasilla-Fishook Rd, una strada di 49 mi.",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mckinley",
+      "name": "McKinley",
+      "coords": [
+        61.1447,
+        -150.0
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Famosa stazione di trading dei cercatori d’oro tra il 1800 e il 1940, il villaggio è la base per le spedizioni nel Denali ed in particolare al McKinley .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "talkeetna",
+      "name": "Talkeetna",
+      "coords": [
+        62.3239,
+        -150.1094
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Passiamo a WILLOW senza neanche fermarci e prendiamo la George Parks Hwy in direzione nord per risalirla fino a TALKEETNA sotto un cielo sereno.",
+      "category": "Luogo",
+      "highlights": [
+        "Willow"
+      ]
+    },
+    {
+      "id": "willow",
+      "name": "Willow",
+      "coords": [
+        61.7444,
+        -150.0364
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "che attraversa i monti di Willow, percorribile fra il disgelo in giugno e le prime nevicate di settembre.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "carlo-creek-lodge",
+      "name": "Carlo Creek Lodge",
+      "coords": [
+        63.3947,
+        -148.825
+      ],
+      "emoji": "🏨",
+      "stepNumber": 7,
+      "description": "Accogliente log cabin con tetto in erba, nei pressi del Denali National Park, dove trascorrere la notte.",
+      "category": "Alloggio",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    41.0109,
+    -6.8187
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "finisterra",
+      "name": "Finisterra",
+      "coords": [
+        38.4129,
+        -9.2208
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Giungiamo a Finisterra (che i romani avevano chiamato con questo nome in quanto all’epoca rappresentava la fine delle terre conosciute).",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ezaro",
+      "name": "Ezaro",
+      "coords": [
+        42.8524,
+        -2.6521
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si scende ancora a Ezaro dove, non senza un certo rimarco turistico nel concetto, si trova l’unica cascata proveniente da un lago che getta le sue acque in mare.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ponte-de-lima",
+      "name": "Ponte de Lima",
+      "coords": [
+        41.7675,
+        -8.5831
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "La prima tappa è Ponte de Lima per una breve visita al piccolo ma variegato centro e soprattutto al ponte romano a 31 arcate sopra il fiume Lima.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

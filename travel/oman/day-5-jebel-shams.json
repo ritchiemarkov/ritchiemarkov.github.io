@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    23.2374,
+    57.2638
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "jebel-shams",
+      "name": "Jebel Shams",
+      "coords": [
+        23.2374,
+        57.2638
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Jebel Shams",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

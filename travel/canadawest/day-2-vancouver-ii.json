@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    48.8413,
+    -123.2412
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "coords": [
+        49.2609,
+        -123.114
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Vancouver II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "empress-hotel",
+      "name": "Empress Hotel",
+      "coords": [
+        48.4218,
+        -123.3684
+      ],
+      "emoji": "🏨",
+      "stepNumber": 2,
+      "description": "A Victoria vediamo il Mile 0 della Trans Canada Hyghway, nel Beacon Hill Park, la Scenic Marine Drive (la “città dei giardini”) ed il centro col Parliament Building...",
+      "category": "Alloggio",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

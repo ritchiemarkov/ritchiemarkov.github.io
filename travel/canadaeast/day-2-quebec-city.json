@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    45.4372,
+    -75.6392
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "quebec-city",
+      "name": "Quebec City",
+      "coords": [
+        45.4372,
+        -75.6392
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 1,
+      "description": "Quebec City",
+      "category": "Citta",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

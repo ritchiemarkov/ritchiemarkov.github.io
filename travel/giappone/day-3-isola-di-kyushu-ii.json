@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    33.1536,
+    130.1168
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "megami-bridge",
+      "name": "Megami Bridge",
+      "coords": [
+        32.7214,
+        129.8495
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Per cambiare argomento ci tuffiamo nel centro cittadino, lambito dal placido mare della baia con sullo sfondo il Megami Bridge , un plastico ponte a saldare i due l...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "maizuru-park",
+      "name": "Maizuru Park",
+      "coords": [
+        33.5858,
+        130.3842
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lasciamo i trolley in hotel e decidiamo per un giro in centro: prendiamo la metro dove si trova il Maizuru Park , esteso polmone verde, nell’ora in cui il sole sta...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

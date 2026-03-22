@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -50.98,
+    -70.7415
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "rio-gallegos",
+      "name": "Rio Gallegos",
+      "coords": [
+        -51.623,
+        -69.2181
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Rio Gallegos",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sotto-di-noi-el-calafate",
+      "name": "sotto di noi El Calafate",
+      "coords": [
+        -50.337,
+        -72.2648
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si fa colazione presso il distributore che si trova dall’altro lato della strada e andiamo subito a cercare la prima escursione verso il Cerro Calafate.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

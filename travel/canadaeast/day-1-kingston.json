@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    44.2679,
+    -76.4544
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "kingston",
+      "name": "Kingston",
+      "coords": [
+        44.3054,
+        -76.4284
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kingston",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "city-hall",
+      "name": "City Hall",
+      "coords": [
+        44.2304,
+        -76.4803
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 2,
+      "description": "Passeggiata digestiva in centro con la City Hall ben illuminata e sull’altro lato il Lago Ontario.",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

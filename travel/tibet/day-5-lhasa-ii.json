@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    28.5205,
+    87.5832
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "lhasa",
+      "name": "Lhasa",
+      "coords": [
+        27.7118,
+        85.312
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lhasa II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lhasa-ii",
+      "name": "Lhasa II",
+      "coords": [
+        29.6542,
+        91.1173
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lhasa II",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "jokhang",
+      "name": "Jokhang",
+      "coords": [
+        27.6425,
+        87.9177
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il ritrovo è alle 9 per visitare il Jokhang , già affollato di pellegrini lungo il kora.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "sfondo-il-potala",
+      "name": "sfondo il Potala",
+      "coords": [
+        28.6693,
+        83.9745
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Dal terrazzo fiorito si ha una splendida vista tanto sul cortile interno che sull’esterno con sfondo il Potala .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "monastero-di-sera",
+      "name": "Monastero di Sera",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Si riparte per il monastero di Sera , che non era in programma ma è stato prontamente aggiunto dal momento che ci siamo fermati un giorno in più a Lhasa.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -23.0347,
+    44.4692
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "ilakaka",
+      "name": "Ilakaka",
+      "coords": [
+        -22.7152,
+        45.2687
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Attraversare Ilakaka anche senza fermarsi basta per farsi un’idea di questa cittadina che è nata e vive sull’estrazione dello zaffiro.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "toliara",
+      "name": "Toliara",
+      "coords": [
+        -23.3542,
+        43.6697
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Way to Toliara",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

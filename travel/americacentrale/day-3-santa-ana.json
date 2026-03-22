@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    13.9019,
+    -89.7042
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "santa-ana",
+      "name": "Santa Ana",
+      "coords": [
+        13.9947,
+        -89.5597
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Santa Ana",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "apaneca",
+      "name": "Apaneca",
+      "coords": [
+        13.8697,
+        -89.8072
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Una breve tappa ad Apaneca , per vedere la chiesa ed una passeggiata nelle vie centrali ed infine, costeggiando una bassa quanto ondulata foresta ornata da vulcani...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "juayua",
+      "name": "Juayua",
+      "coords": [
+        13.8414,
+        -89.7456
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Una breve tappa ad Apaneca , per vedere la chiesa ed una passeggiata nelle vie centrali ed infine, costeggiando una bassa quanto ondulata foresta ornata da vulcani...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

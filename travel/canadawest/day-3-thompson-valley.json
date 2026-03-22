@@ -1,0 +1,40 @@
+{
+  "mapCenter": [
+    52.6161,
+    -122.3788
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "fraser-river",
+      "name": "Fraser River",
+      "coords": [
+        52.2528,
+        -122.264
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "1 (la TCH) e dopo poche decine di km incontriamo le montagne della Coast Range dove facciamo il primo incontro col Fraser River , impetuoso e dai colori torbidi.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Tch"
+      ]
+    },
+    {
+      "id": "quesnel",
+      "name": "Quesnel",
+      "coords": [
+        52.9794,
+        -122.4936
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Riprendiamo la valle del Fraser per raggiungere Quesnel , un villaggio che ci ospita per la notte presso l’Econolodge, ceniamo con una New York steak.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

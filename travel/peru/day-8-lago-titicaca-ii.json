@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -8.3966,
+    -74.5658
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "lago-titicaca",
+      "name": "Lago Titicaca",
+      "coords": [
+        -8.3966,
+        -74.5658
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Lago Titicaca II",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

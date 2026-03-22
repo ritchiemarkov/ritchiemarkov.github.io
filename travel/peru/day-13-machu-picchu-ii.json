@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -13.1628,
+    -72.5454
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "machu-picchu",
+      "name": "Machu Picchu",
+      "coords": [
+        -13.1628,
+        -72.5454
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Machu Picchu II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

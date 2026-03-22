@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    39.8928,
+    116.3971
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "beijing",
+      "name": "Beijing",
+      "coords": [
+        39.9057,
+        116.3913
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Beijing",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tempio-del-cielo",
+      "name": "Tempio del Cielo",
+      "coords": [
+        39.8799,
+        116.4029
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Iniziamo con la visita del Tempio del Cielo , 273 ettari di complesso, pari a 3 volte la Città Proibita.",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

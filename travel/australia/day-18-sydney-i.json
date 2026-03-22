@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -34.6583,
+    149.9335
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "three-sisters",
+      "name": "Three Sisters",
+      "coords": [
+        -33.7354,
+        150.315
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "A Katoomba non perdiamo il punto panoramico di Echo Point, dal quale si vedono le Three Sisters , formazioni rocciose di grande notorietà che tuttavia non lasciano...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "opera-house",
+      "name": "’Opera House",
+      "coords": [
+        -36.3874,
+        148.2747
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Vediamo l ’Opera House , le cui caratteristiche cupole sono simili a vele gonfiate dal vento, mentre nelle intenzioni dell’architetto vogliono rappresentare foglie...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "harbour-bridge",
+      "name": "Harbour Bridge",
+      "coords": [
+        -33.8521,
+        151.2108
+      ],
+      "emoji": "⚓️",
+      "stepNumber": 3,
+      "description": "Riprendiamo anche l’ Harbour Bridge chiamato “Vecchio Attaccapanni” per la sua caratteristica forma, ci spostiamo per il quartiere rimodernato di The Rocks, il più...",
+      "category": "Porto",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

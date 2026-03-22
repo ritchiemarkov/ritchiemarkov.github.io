@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    32.4811,
+    3.7121
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "ghardaia",
+      "name": "Ghardaïa",
+      "coords": [
+        32.4856,
+        3.6771
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ghardaïa I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "el-atteuf",
+      "name": "El Atteuf",
+      "coords": [
+        32.4767,
+        3.7471
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "E’ ora di andare a vedere anche la seconda cittadina, quella di El Atteuf: anche qui veniamo presi in consegna dalla guida, un caratteristico quanto energico anzian...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

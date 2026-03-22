@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    38.1165,
+    -6.1363
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "mirador",
+      "name": "Mirador",
+      "coords": [
+        37.045,
+        -3.0485
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ricca di Mirador dai quali vedere l’infinito di colori agresti, edifici religiosi ed una piazza centrale piena di alberi d’arancio dove spicca il castello in un con...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "plaza-real-de-toros",
+      "name": "Plaza Real de Toros",
+      "coords": [
+        37.6819,
+        -6.659
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Prossima tappa nella vicina El Puerto de Santa Maria dove entreremo a visitare la Plaza Real de Toros , avendo la visione dal terreno che ha il toreador (ed anche i...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castillo-de-san-marcos",
+      "name": "Castillo de San Marcos",
+      "coords": [
+        36.5964,
+        -6.2266
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Prossima tappa nella vicina El Puerto de Santa Maria dove entreremo a visitare la Plaza Real de Toros , avendo la visione dal terreno che ha il toreador (ed anche i...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cattedrale",
+      "name": "Cattedrale",
+      "coords": [
+        41.1428,
+        -8.6112
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Ci sono siti interessanti come la Cattedrale , ma niente di paragonabile a quanto visto nei giorni scorsi, così facciamo prima una lunga passeggiata a piedi nel cen...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

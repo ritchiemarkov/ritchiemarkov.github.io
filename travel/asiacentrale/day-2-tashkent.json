@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    43.6955,
+    11.0782
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "statua-della-madre-piangente",
+      "name": "statua della Madre Piangente",
+      "coords": [
+        42.4018,
+        12.8595
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nonostante aver scelto una zona tranquilla ed appartata, il sonno sulle panchine dell’aeroporto di Istanbul non risulterà particolarmente conciliante.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "palazzo-presidenziale",
+      "name": "Palazzo Presidenziale",
+      "coords": [
+        44.9891,
+        9.2969
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Seguendo il parco ci spostiamo verso il Monumento dell’Indipendenza, con i suoi grandi spazi ed i bei giochi di fontane , dietro il quale si cela non facile da vede...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

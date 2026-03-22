@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    35.9128,
+    14.5021
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "sliema",
+      "name": "Sliema",
+      "coords": [
+        35.9128,
+        14.5021
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lungo strade a scorrimento veloce raggiungiamo la zona di Sliema , mentre l’isola inizia ad animarsi.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

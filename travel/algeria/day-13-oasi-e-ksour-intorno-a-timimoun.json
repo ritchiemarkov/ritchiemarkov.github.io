@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    46.0977,
+    11.5946
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "parte-vecchia-del-villaggio",
+      "name": "parte vecchia del villaggio",
+      "coords": [
+        46.2729,
+        12.3698
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 1,
+      "description": "Andando a vedere la parte vecchia del villaggio , distrutto da insistenti piogge nel 2004, non è difficile comprendere le ragioni del disastro: insieme al mix di ma...",
+      "category": "Citta",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "pranzo",
+      "name": "Pranzo",
+      "coords": [
+        45.9224,
+        10.8194
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Pranzo in quello che potrebbe essere definito come villaggio vacanze: possiede una bella sala adibita a ristorante, dove siamo i soli ospiti.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

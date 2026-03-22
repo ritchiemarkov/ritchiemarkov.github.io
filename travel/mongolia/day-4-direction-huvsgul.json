@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    50.95,
+    100.3
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "direction-huvsgul",
+      "name": "Direction Huvsgul",
+      "coords": [
+        50.95,
+        100.3
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Direction Huvsgul",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

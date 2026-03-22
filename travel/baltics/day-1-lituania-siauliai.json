@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    45.1216,
+    8.9543
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "lituania-siauliai",
+      "name": "Lituania Siauliai",
+      "coords": [
+        44.9891,
+        9.2969
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Lituania - Siauliai",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "moderna-piazza-centrale",
+      "name": "moderna piazza centrale",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Un giro sulla moderna piazza centrale ai cui bordi si trovano la Chiesa ed i quartieri più commerciali; è ora di rientrare per una passeggiata lungo il lago , sono...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

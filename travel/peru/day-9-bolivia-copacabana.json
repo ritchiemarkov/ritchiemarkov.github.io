@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    -10.4699,
+    -74.0062
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "bolivia-copacabana",
+      "name": "Bolivia Copacabana",
+      "coords": [
+        -16.8353,
+        -67.4269
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Bolivia - Copacabana",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "copacabana",
+      "name": "Copacabana",
+      "coords": [
+        -4.7602,
+        -77.0163
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Bolivia - Copacabana",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "lungo-la-sponda-orientale-del-titicaca",
+      "name": "lungo la sponda orientale del Titicaca",
+      "coords": [
+        -8.3966,
+        -74.5658
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Sentiamo le asperità della quota più dei giorni scorsi quando abbiamo camminato e fatto fatica.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "paz",
+      "name": "Paz",
+      "coords": [
+        -11.8876,
+        -77.0157
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Il tratto di strada che conduce a La Paz è in realtà il più bello: terrazzamenti che superano quota 4000 mt, con la strada che s’inerpica sinuosa fra le montagne in...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

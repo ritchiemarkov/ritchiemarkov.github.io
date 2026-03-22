@@ -1,0 +1,129 @@
+{
+  "mapCenter": [
+    60.282,
+    -150.3859
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "kenai",
+      "name": "Kenai",
+      "coords": [
+        60.4138,
+        -149.6645
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kenai",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "exit-glacier",
+      "name": "Exit Glacier",
+      "coords": [
+        60.1506,
+        -149.7195
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si va a vedere l’ Exit Glacier poco distante da Seward, che ieri abbiamo tralasciato causa pioggia.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "moose-pass",
+      "name": "MOOSE PASS",
+      "coords": [
+        60.4917,
+        -149.414
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 3,
+      "description": "Ci fermiamo a MOOSE PASS , un grazioso paesino impreziosito dal verde circostante.",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tern-lake",
+      "name": "Tern Lake",
+      "coords": [
+        60.5308,
+        -149.5501
+      ],
+      "emoji": "🌊",
+      "stepNumber": 4,
+      "description": "Riprendiamo la Seward Hwy in direzione nord seguendo parallelamente le rotaie dell’Alaska Railroad lungo il Kenai Lake per raggiungere la Tern Lake Jct.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ninilchik",
+      "name": "NINILCHIK",
+      "coords": [
+        60.05,
+        -151.6667
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Nel trasferimento verso Homer il cielo resta sereno, breve stop a NINILCHIK , antica comunità fondata nel 1820, continua ad avere una forte influenza russa nella su...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "homer-spit",
+      "name": "Homer Spit",
+      "coords": [
+        59.6425,
+        -151.5483
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Nel trasferimento verso Homer il cielo resta sereno, breve stop a NINILCHIK , antica comunità fondata nel 1820, continua ad avere una forte influenza russa nella su...",
+      "category": "Luogo",
+      "highlights": [
+        "Ninilchik"
+      ]
+    },
+    {
+      "id": "skilak-loop-road",
+      "name": "Skilak Loop Road",
+      "coords": [
+        60.4167,
+        -150.3167
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Deviazione sterrata di 19 miglia attraverso la Kenai National Wildlife Refuge.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kenai-city",
+      "name": "Kenai City",
+      "coords": [
+        60.5601,
+        -151.207
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 8,
+      "description": "Città affacciata sul Cook Inlet, centro dell'industria petrolifera e della lavorazione del salmone.",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

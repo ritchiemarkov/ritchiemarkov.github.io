@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -4.1248,
+    36.0857
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "manyara-national-park",
+      "name": "Manyara National Park",
+      "coords": [
+        -4.1248,
+        36.0857
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Manyara National Park e Eyasi Lake",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

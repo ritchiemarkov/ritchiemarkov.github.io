@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    34.6821,
+    51.4688
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "teheran",
+      "name": "Teheran",
+      "coords": [
+        35.6893,
+        51.3896
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Teheran",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "torre-azadi",
+      "name": "Torre Azadi",
+      "coords": [
+        35.6997,
+        51.3381
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il taxi ci porta in hotel, tatticamente posizionato in prossimità dell’Imam Khomeini square da dove, subito dopo il check in, prendiamo la metro per andare alla Tor...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "nord-della-citta",
+      "name": "nord della città",
+      "coords": [
+        32.6574,
+        51.6787
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 3,
+      "description": "Offre uno spettacolo situato com’è all’interno di un polmone verde che fa da cesura fra la parte sud e quella nord della città .",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

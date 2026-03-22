@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    28.9066,
+    89.8875
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "gyantse",
+      "name": "Gyantse",
+      "coords": [
+        28.9198,
+        89.6012
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Gyantse",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "karo-la",
+      "name": "Karo-la",
+      "coords": [
+        28.8934,
+        90.1738
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A seguire si valica il Karo-la , altro passo situato a 5039mt.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

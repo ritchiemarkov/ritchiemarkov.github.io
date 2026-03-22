@@ -1,0 +1,114 @@
+{
+  "mapCenter": [
+    60.5195,
+    -149.717
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "sterling-hwy",
+      "name": "Sterling Hwy",
+      "coords": [
+        59.6425,
+        -151.5612
+      ],
+      "emoji": "🚙",
+      "stepNumber": 1,
+      "description": "Sterling Hwy",
+      "category": "Trasferimento",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "bear-mountain-trail",
+      "name": "Bear Mountain Trail",
+      "coords": [
+        60.0969,
+        -149.4605
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Non facciamo grandi fermate dal momento che si tratta della strada di ieri, ma questa volta, riprendendo la Skilak Rd.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "russian-river",
+      "name": "Russian River",
+      "coords": [
+        60.4172,
+        -149.9919
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Continuando sulla Sterling Hwy ci avviciniamo al Russian River , notoriamente ricco di salmoni.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "hope",
+      "name": "HOPE",
+      "coords": [
+        60.8965,
+        -149.622
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Uno giro per HOPE sotto un mezzo sole, ci consente di fare un salto indietro nel tempo.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "wildlife-conservation-centre",
+      "name": "Wildlife Conservation Centre",
+      "coords": [
+        60.8,
+        -148.9
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Visitiamo il Wildlife Conservation Centre , un’istituzione no profit che si trova ad una decina di km da Portage, in una zona più asciutta nel luogo in cui termina...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "portage",
+      "name": "Portage",
+      "coords": [
+        60.8333,
+        -148.9833
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Rientrando verso l’interno torniamo a trovare la pioggia che avevamo lasciato poco prima ed arriviamo nella zona di PORTAGE, piove di stravento ed andiamo al Begich.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "tramonto-sul-turnagain-arm",
+      "name": "Tramonto sul Turnagain Arm",
+      "coords": [
+        60.95,
+        -149.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 7,
+      "description": "Spettacolare tramonto sul fiordo, con una moltitudine cromatica che non ha eguali.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    42.4004,
+    1.8846
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "girona",
+      "name": "Girona",
+      "coords": [
+        42.4004,
+        1.8846
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Girona",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

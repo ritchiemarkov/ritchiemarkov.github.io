@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    28.9115,
+    90.0549
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "gyantse",
+      "name": "Gyantse",
+      "coords": [
+        28.9198,
+        89.6012
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Gyantse",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "stretti-vicoli-di-barkhor",
+      "name": "stretti vicoli di Barkhor",
+      "coords": [
+        29.6527,
+        91.1315
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Pur essendo mattino presto gli stretti vicoli di Barkhor sono già affollati di fedeli che si avviano verso i luoghi delle cerimonie e, mentre una coda interminabile...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kampa-la-pass",
+      "name": "Kampa La Pass",
+      "coords": [
+        28.1148,
+        88.6192
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 3,
+      "description": "Raggiungiamo così i 4794 mt del Kampa La Pass , al cui culmine ci affacciamo sullo splendido Yamdrok Tso , un lago sacro la cui forma assomiglia a quella di uno sco...",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "yamdrok-tso",
+      "name": "Yamdrok Tso",
+      "coords": [
+        28.9769,
+        90.7486
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Raggiungiamo così i 4794 mt del Kampa La Pass , al cui culmine ci affacciamo sullo splendido Yamdrok Tso , un lago sacro la cui forma assomiglia a quella di uno sco...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "karo-la-pass",
+      "name": "Karo-la Pass",
+      "coords": [
+        28.8934,
+        90.1738
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 5,
+      "description": "Siamo quindi al Karo-la Pass (5010 mt.",
+      "category": "Montagna",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

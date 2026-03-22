@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    44.9192,
+    107.8636
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "north-mongolia",
+      "name": "North Mongolia",
+      "coords": [
+        40.8107,
+        111.6827
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "North Mongolia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "erdenet",
+      "name": "Erdenet",
+      "coords": [
+        49.0276,
+        104.0444
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il cielo è sereno, con qualche alta velatura, mentre ci dirigiamo verso Erdenet , la seconda città della Mongolia, con una popolazione di ca.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    28.6323,
+    77.221
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "coords": [
+        28.6139,
+        77.209
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Delhi",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "jama-masjid",
+      "name": "Jama Masjid",
+      "coords": [
+        28.6507,
+        77.233
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    53.2523,
+    -7.8101
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "rosscommon-county",
+      "name": "Rosscommon County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "ROSSCOMMON COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "westmeath-county",
+      "name": "WESTMEATH COUNTY",
+      "coords": [
+        53.4082,
+        -7.8998
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Inizio giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

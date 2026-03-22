@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -3.0405,
+    37.278
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "shira-camp",
+      "name": "Shira Camp",
+      "coords": [
+        -3.0126,
+        37.2294
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kilimanjaro 3 da Shira Camp (3.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lava-tower",
+      "name": "Lava Tower",
+      "coords": [
+        -3.0684,
+        37.3266
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Il passo del montanaro 63enne è formidabile: lentamente ma costantemente sale da non accorgersi che maciniamo centinaia di metri di dislivello; stiamo bene e quando...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

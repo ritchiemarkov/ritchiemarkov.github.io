@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -18.2052,
+    21.8531
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "okawango-delta",
+      "name": "Okawango Delta",
+      "coords": [
+        -18.2052,
+        21.8531
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Okawango Delta",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    20.9495,
+    107.0987
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "halong-bay",
+      "name": "Halong Bay",
+      "coords": [
+        20.9495,
+        107.0987
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Halong Bay I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

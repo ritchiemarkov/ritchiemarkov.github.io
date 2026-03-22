@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -20.1589,
+    44.5075
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "kirindy",
+      "name": "Kirindy",
+      "coords": [
+        -20.0675,
+        44.5957
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Kirindy",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "allee-des-baobabs",
+      "name": "Allée des Baobabs",
+      "coords": [
+        -20.2503,
+        44.4193
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Quando manca poco più di mezz’ora al tramonto ripartiamo verso l’ Allée des Baobabs per uno dei momenti che rimarranno immagazzinati nella mente per il resto dei no...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

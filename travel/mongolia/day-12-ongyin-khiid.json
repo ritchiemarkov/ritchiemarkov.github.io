@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    45.4013,
+    103.9543
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "ongyin-khiid",
+      "name": "Ongyin Khiid",
+      "coords": [
+        45.3395,
+        104.008
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ongyin Khiid",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "monastero-di-shankh-khiid",
+      "name": "Monastero di Shankh Khiid",
+      "coords": [
+        45.4631,
+        103.9005
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sotto una pioggia autunnale lasciamo l’ex capitale ed proseguiamo in direzione sud verso il monastero di Shankh Khiid , dove sono state conservate le bandiere di Ge...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

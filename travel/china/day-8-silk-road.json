@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    38.7967,
+    109.8123
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "silk-road",
+      "name": "Silk Road",
+      "coords": [
+        39.9069,
+        116.4048
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Silk Road",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "dafosi-temple",
+      "name": "Dafosi Temple",
+      "coords": [
+        35.0733,
+        107.9924
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Dafosi Temple : questa volta si tratta di buddhismo han, quindi cinese e pertanto con caratteristiche diverse rispetto a quanto abbiamo visto nei due giorni precede...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "grande-buddha-reclinato",
+      "name": "Grande Buddha reclinato",
+      "coords": [
+        40.4344,
+        116.5635
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "In uno dei templi si trova il Grande Buddha reclinato o dormiente, lungo 34 mt a rappresentare l’immagine del Buddha del passato.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "jiayuguan",
+      "name": "Jiayuguan",
+      "coords": [
+        39.7722,
+        98.2885
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "La via verso Jiayuguan adesso è tutta autostrada pari a circa 250 km lungo la quale corrono cavi dell’alta tensione e il cantiere dell’alta velocità ferroviaria des...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

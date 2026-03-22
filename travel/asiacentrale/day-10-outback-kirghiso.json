@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    41.3879,
+    -8.0002
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "cbt",
+      "name": "Cbt",
+      "coords": [
+        41.3879,
+        -8.0002
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dopo colazione incontriamo la funzionaria del CBT (Community Based Tourism) per dare inizio al tour, facciamo conoscenza dell’autista russo alla guida di un van con...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

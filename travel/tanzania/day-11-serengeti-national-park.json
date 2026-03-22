@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -1.9819,
+    34.5504
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "serengeti-national-park",
+      "name": "Serengeti National Park",
+      "coords": [
+        -2.3713,
+        34.6984
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Serengeti National Park",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "serengeti-n-p",
+      "name": "Serengeti N.P",
+      "coords": [
+        -1.5924,
+        34.4025
+      ],
+      "emoji": "🌳",
+      "stepNumber": 2,
+      "description": "Si parte in direzione Serengeti N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

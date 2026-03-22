@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -21.8578,
+    46.8511
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "anja-reserve",
+      "name": "Anja Reserve",
+      "coords": [
+        -21.8578,
+        46.8511
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Anja Reserve",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

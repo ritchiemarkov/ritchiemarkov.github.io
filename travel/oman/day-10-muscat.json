@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    23.6124,
+    58.5938
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "muscat",
+      "name": "Muscat",
+      "coords": [
+        23.6124,
+        58.5938
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Muscat",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    44.8958,
+    -72.7596
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "north-sidney",
+      "name": "North Sidney",
+      "coords": [
+        44.467,
+        -69.6914
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Arriviamo a North Sidney , dove la partenza era prevista per le 16 ma partiremo con due ore abbondanti di ritardo.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "kfc",
+      "name": "KFC",
+      "coords": [
+        45.3246,
+        -75.8279
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

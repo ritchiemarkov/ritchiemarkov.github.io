@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    8.109,
+    80.6568
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "ritigala",
+      "name": "Ritigala",
+      "coords": [
+        8.109,
+        80.6568
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ritigala",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

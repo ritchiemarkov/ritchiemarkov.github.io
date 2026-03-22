@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -29.0334,
+    141.5147
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "ayers-rock",
+      "name": "Ayers Rock",
+      "coords": [
+        -25.3449,
+        131.0325
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Ayers Rock e Olgas",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sunrise-point",
+      "name": "Sunrise Point",
+      "coords": [
+        -32.7219,
+        151.9969
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Ci addentriamo direttamente nel parco avendo già acquistato ieri il biglietto pari a 25 $ e raggiungiamo il Sunrise Point , che sembra meno spettacolare del tramont...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "mapCenter": [
+    42.0749,
+    -79.9096
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "vermont",
+      "name": "Vermont",
+      "coords": [
+        40.7976,
+        -81.4995
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Vermont",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "smugglers-notch",
+      "name": "Smugglers Notch",
+      "coords": [
+        41.0514,
+        -85.3234
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Su strade strette per gli standard americani arriviamo allo Smugglers Notch , un colle posto in cima ad una valle incassata e ricoperta da fitta vegetazione.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "glen-falls",
+      "name": "Glen Falls",
+      "coords": [
+        42.9639,
+        -78.7439
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Scendendo verso sud ci si ferma per vedere alcune belle cascate (Bingham Falls e Moss Glen Falls ) fino ad arrivare a Stowe, forse paragonabile in proporzione alla...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cider-mill",
+      "name": "Cider Mill",
+      "coords": [
+        41.0852,
+        -80.7684
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Proseguendo, a Waterbury visitiamo la locale Cider Mill dove c’è modo di vedere la pressatura delle mele e la loro trasformazione in sidro, quindi si va alla Ben&Je...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "burlington",
+      "name": "Burlington",
+      "coords": [
+        44.4762,
+        -73.2129
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Il meteo non ha mai rischiato di degenerare verso la pioggia, ma per gran parte della giornata siamo stati accompagnati da un velo di nuvole che si sono diradate la...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

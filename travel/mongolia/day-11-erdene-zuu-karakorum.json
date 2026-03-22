@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    43.5394,
+    109.6223
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "erdene-zuu-karakorum",
+      "name": "Erdene Zuu Karakorum",
+      "coords": [
+        47.1989,
+        102.8417
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Erdene Zuu Karakorum",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "tempio-bianco-in-stile-tibetano",
+      "name": "Tempio bianco in stile tibetano",
+      "coords": [
+        39.8799,
+        116.4029
+      ],
+      "emoji": "🛕",
+      "stepNumber": 2,
+      "description": "Passiamo accanto allo Stupa dorato della preghiera ed entriamo nel grande tempio bianco in stile tibetano , il Lavrin Süm, dove si sta tenendo una cerimonia religio...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

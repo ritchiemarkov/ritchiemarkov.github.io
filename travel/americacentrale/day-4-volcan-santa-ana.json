@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    13.8539,
+    -89.6308
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "volcan-santa-ana",
+      "name": "Volcan Santa Ana",
+      "coords": [
+        13.8539,
+        -89.6308
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Volcan Santa Ana",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

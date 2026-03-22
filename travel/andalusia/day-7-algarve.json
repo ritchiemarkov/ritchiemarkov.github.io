@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    38.1578,
+    -6.8542
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "algarve",
+      "name": "Algarve",
+      "coords": [
+        37.0371,
+        -5.6728
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Algarve",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "porto-di-sagres",
+      "name": "Porto di Sagres",
+      "coords": [
+        41.3108,
+        -8.739
+      ],
+      "emoji": "⚓️",
+      "stepNumber": 2,
+      "description": "In realtà poco dopo il porto di Sagres viene subito illuminato dal sole che sbuca fra una coltre di fragili nuvole.",
+      "category": "Porto",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "fortaleza",
+      "name": "Fortaleza",
+      "coords": [
+        37.2606,
+        -4.0085
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ci dirigiamo a vedere la Fortaleza ed il Cabo Sao Vicente , due estremità fortificate, battute dal vento e dalle onde che s’infrangono senza pietà contro le rocce.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "cabo-sao-vicente",
+      "name": "Cabo Sao Vicente",
+      "coords": [
+        37.0226,
+        -8.9966
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Ci dirigiamo a vedere la Fortaleza ed il Cabo Sao Vicente , due estremità fortificate, battute dal vento e dalle onde che s’infrangono senza pietà contro le rocce.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

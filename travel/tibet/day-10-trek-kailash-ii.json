@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    29.2773,
+    79.647
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "trek-kailash",
+      "name": "Trek Kailash",
+      "coords": [
+        29.2773,
+        79.647
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Trek Kailash II",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

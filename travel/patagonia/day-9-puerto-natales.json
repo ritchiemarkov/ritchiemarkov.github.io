@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -51.6519,
+    -72.5547
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "puerto-natales",
+      "name": "Puerto Natales",
+      "coords": [
+        -51.7267,
+        -72.506
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Puerto Natales",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "cueva-milodon",
+      "name": "Cueva Milodon",
+      "coords": [
+        -51.5771,
+        -72.6034
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si va al Monumento Nacional Cueva Milodon (Milodonte), 25 km a nord del paese.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

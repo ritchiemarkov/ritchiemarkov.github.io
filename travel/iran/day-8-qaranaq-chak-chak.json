@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    25.4786,
+    57.2314
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "chak-chak",
+      "name": "Chak Chak",
+      "coords": [
+        27.3746,
+        56.0545
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Qaranaq / Chak Chak",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "panorama-sulla-citta",
+      "name": "panorama sulla città",
+      "coords": [
+        23.5826,
+        58.4084
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 2,
+      "description": "Mentre rientriamo la guida ci fa vedere due brevi filmati dallo smartphone, sullo zoroastrismo e sulla religione sciita, creati dal National Geographic.",
+      "category": "Citta",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

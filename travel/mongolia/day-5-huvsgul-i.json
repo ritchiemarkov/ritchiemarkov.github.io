@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    50.95,
+    100.3
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "huvsgul",
+      "name": "Huvsgul",
+      "coords": [
+        50.95,
+        100.3
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Huvsgul I",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

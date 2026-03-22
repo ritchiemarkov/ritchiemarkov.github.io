@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    25.3356,
+    83.0076
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "varanasi",
+      "name": "Varanasi",
+      "coords": [
+        25.3356,
+        83.0076
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Varanasi",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

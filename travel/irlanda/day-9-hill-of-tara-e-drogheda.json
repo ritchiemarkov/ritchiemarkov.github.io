@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    53.1903,
+    -7.1866
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "hill-of-tara",
+      "name": "Hill of Tara",
+      "coords": [
+        53.58,
+        -6.6122
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Hill of Tara e Drogheda",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "drogheda",
+      "name": "Drogheda",
+      "coords": [
+        53.715,
+        -6.3524
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Hill of Tara e Drogheda",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "st-brigid-cathedral",
+      "name": "St. Brigid Cathedral",
+      "coords": [
+        53.1579,
+        -6.9116
+      ],
+      "emoji": "🛕",
+      "stepNumber": 3,
+      "description": "Brigid Cathedral , visitabile solo dall’esterno per inopinate ragioni anti-covid; d’interesse è la pietra dei desideri, dove toccandosi la spalla dopo avervi infila...",
+      "category": "Tempio/Chiesa",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "castletown",
+      "name": "Castletown",
+      "coords": [
+        54.0279,
+        -6.4362
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "A Castletown c’è una splendida casa signorile, contornata dal parco dove passeggiano allegre famiglie in un contesto di tranquillità; caratteristica mantenuta grazi...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kildare-county",
+      "name": "Kildare County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "KILDARE COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "stone-of-destiny",
+      "name": "Stone of Destiny",
+      "coords": [
+        51.5646,
+        -9.087
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Di particolare interesse è la Stone of Destiny , una pietra fallica a rappresentare l’unione fra il cielo e la terra.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

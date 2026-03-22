@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    -13.3285,
+    -72.1217
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "valle-sagrado",
+      "name": "Valle Sagrado",
+      "coords": [
+        -13.3594,
+        -72.0152
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Valle Sagrado",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "chinchero",
+      "name": "Chinchero",
+      "coords": [
+        -13.3958,
+        -72.0518
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Si parte da Chinchero , del quale ammiriamo particolarmente la posizione, adagiata su morbide colline che si disperdono vero l’orizzonte, il tutto immerso nel verde...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "salinas-de-maras",
+      "name": "Salinas de Maras",
+      "coords": [
+        -13.3001,
+        -72.1562
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il villaggio di Maras non ha molto da dire, se non per il monumento che situato al centro della piazza, ad evidenziare le peculiarità della zona: chiese, terrazze d...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ollantaytambo",
+      "name": "Ollantaytambo",
+      "coords": [
+        -13.2586,
+        -72.2636
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Risalendo verso nord la tappa successiva è rappresentata da Ollantaytambo , quella che viene definita la città vivente degli Inca, molti cognomi richiamano ancora q...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

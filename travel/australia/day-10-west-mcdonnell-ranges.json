@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    -23.7423,
+    133.1377
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "ochre-pits",
+      "name": "Ochre Pits",
+      "coords": [
+        -23.7339,
+        132.8695
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Qualche km dopo vediamo gli Ochre Pits , una scarpata dove si avvicendano vari tipi di roccia che raccoglie tutta una serie di colori, varianti dal giallo al violac...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ellery-creek-big-hole",
+      "name": "Ellery Creek Big Hole",
+      "coords": [
+        -23.7768,
+        133.0734
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Sonder, quindi il Glen Helen waterhole con tutta una serie di uccelli acquatici ed il bel paesaggio offerto da questo laghetto dal fondo del canyon.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "standley-chasm",
+      "name": "Standley Chasm",
+      "coords": [
+        -23.7161,
+        133.4702
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Abbiamo impostato il giro delle bellezze delle MacDonnell Occidentali in questo modo per poter essere allo Standley Chasm a mezzogiorno, proprio nel momento in cui...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

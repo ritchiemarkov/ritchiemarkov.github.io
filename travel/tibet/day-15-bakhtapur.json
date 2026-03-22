@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    27.6711,
+    85.4262
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "bhaktapur",
+      "name": "Bhaktapur",
+      "coords": [
+        27.6711,
+        85.4262
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Fra questi tasselli uno è sicuramente la cittadina di Bhaktapur .",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

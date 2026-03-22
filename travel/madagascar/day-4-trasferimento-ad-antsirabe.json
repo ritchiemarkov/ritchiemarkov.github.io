@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -18.9165,
+    47.5087
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "thb",
+      "name": "THB",
+      "coords": [
+        -18.9165,
+        47.5087
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Inizio giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

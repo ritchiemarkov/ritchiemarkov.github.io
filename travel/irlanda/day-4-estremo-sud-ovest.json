@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    51.834,
+    -9.1033
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "charles-fort",
+      "name": "Charles Fort",
+      "coords": [
+        51.6964,
+        -8.4989
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "La solita colazione on the way e ci dirigiamo verso la costa meridionale dove si trova Kinsale, una fortezza bretone situata in posizione strategica quanto riparata.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "drombeg-stone-circle",
+      "name": "Drombeg Stone Circle",
+      "coords": [
+        51.5646,
+        -9.087
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Attraversiamo buona parte del sud ovest del Paese percorrendo una strada che di tanto in tanto si affaccia sul mare, soffermandoci al sito di Drombeg Stone Circle ,...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "mizen-head",
+      "name": "Mizen Head",
+      "coords": [
+        51.4501,
+        -9.8198
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "L’esplorazione della penisola più meridionale ci porta a Mizen Head , dove il cielo grigio riesce a malapena a mitigare la maestosità di un paesaggio rappresentato...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "crookhaven",
+      "name": "Crookhaven",
+      "coords": [
+        51.4684,
+        -9.7257
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Mentre rientriamo – come fossimo a teatro - un fascio di luce assolata illumina la spiaggetta di Crookhaven , generando delle cromaticità da favola.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "beara-peninsula",
+      "name": "Beara Peninsula",
+      "coords": [
+        51.728,
+        -9.7679
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Dopo Bantry ci addentriamo nella Beara Peninsula fino al bivio che porta all’ Healy Pass , prima di scollinarlo ci fermiamo per una camminatina panoramica con il ve...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "kerry-county",
+      "name": "Kerry County",
+      "coords": [
+        53.0965,
+        -7.7203
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "KERRY COUNTY",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

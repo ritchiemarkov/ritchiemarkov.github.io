@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    23.2828,
+    58.1594
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "eastern-hajar",
+      "name": "Eastern Hajar",
+      "coords": [
+        23.0,
+        58.5
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Eastern Hajar",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "little-snake-canyon",
+      "name": "Little Snake Canyon",
+      "coords": [
+        23.2529,
+        57.4326
+      ],
+      "emoji": "⛰️",
+      "stepNumber": 2,
+      "description": "Risulta subito evidente come l’annata sia stata particolarmente ricca d’acqua, tanto che il percorso a piedi che s’insinua dentro un taglio nella roccia (il Little...",
+      "category": "Montagna",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "omr",
+      "name": "OMR",
+      "coords": [
+        23.5954,
+        58.5456
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

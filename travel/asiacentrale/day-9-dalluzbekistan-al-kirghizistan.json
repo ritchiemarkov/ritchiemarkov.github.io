@@ -1,0 +1,69 @@
+{
+  "mapCenter": [
+    44.736,
+    10.5443
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "cattedrale-ortodossa-dellassunta",
+      "name": "cattedrale ortodossa dell’Assunta",
+      "coords": [
+        45.5006,
+        9.1364
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "A Tashkent avevamo lasciato da vedere la cattedrale ortodossa dell’Assunta , in quanto si trova in prossimità della stazione.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "piazza-della-vittoria",
+      "name": "Piazza della Vittoria",
+      "coords": [
+        45.2541,
+        8.6117
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "A Tashkent avevamo lasciato da vedere la cattedrale ortodossa dell’Assunta , in quanto si trova in prossimità della stazione.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "museo-nazionale-di-storia",
+      "name": "Museo Nazionale di Storia",
+      "coords": [
+        45.7875,
+        11.5695
+      ],
+      "emoji": "🏛️",
+      "stepNumber": 3,
+      "description": "Il Kirghizistan è un Paese decisamente meno ricco per quanto non necessariamente povero: ciò sembra dovuto alla storia meno gloriosa e all’indole nomade della sua p...",
+      "category": "Museo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "statua-equestre-di-manas",
+      "name": "statua equestre di Manas",
+      "coords": [
+        42.4018,
+        12.8595
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Attraversando un parco e passando davanti al teatro dell’Opera si arriva al cospetto dell’imponente Museo Nazionale di Storia , dietro il quale staziona la statua d...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

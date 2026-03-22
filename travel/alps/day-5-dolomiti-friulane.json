@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    46.4276,
+    12.7331
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "dolomiti-friulane",
+      "name": "Dolomiti friulane",
+      "coords": [
+        46.3224,
+        12.5334
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Dolomiti friulane",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lago-sauris",
+      "name": "Lago Sauris",
+      "coords": [
+        46.4492,
+        12.7151
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Scopriamo come la strada che porta a Sauris non sia poi tanto male, anzi è perfino caratteristica grazie alla serie di tunnel lastricati in porfido che superano zon...",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "zoncolan",
+      "name": "Zoncolan",
+      "coords": [
+        46.5111,
+        12.9509
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Ma il tempo passa anche veloce ed abbiamo appuntamento con la meta più orientale del nostro tour: lo Zoncolan (1.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

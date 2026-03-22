@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    44.6432,
+    10.7737
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "passo-takhtakaracha",
+      "name": "Passo Takhtakaracha",
+      "coords": [
+        46.5387,
+        10.1648
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "La strada è molto panoramica, fermiamo brevemente dove desertiche colline hanno fatto da sfondo a alcuni celebri film western, quindi si raggiunge il passo Takhtaka...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "palazzo-ak-saray",
+      "name": "Palazzo Ak-Saray",
+      "coords": [
+        44.9891,
+        9.2969
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "L’autista ci lascia nel in prossimità del Palazzo Ak-Saray , dandoci appuntamento sul lato opposto della zona visitabile distante un paio di km.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "statua-di-tamerlano",
+      "name": "statua di Tamerlano",
+      "coords": [
+        42.4018,
+        12.8595
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Al centro dell’enorme piazzale campeggia una statua di Tamerlano che, se inquadrata con l’arco sullo sfondo, crea volutamente una linea di continuità con questo.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

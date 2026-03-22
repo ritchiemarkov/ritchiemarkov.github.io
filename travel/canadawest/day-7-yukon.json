@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    60.9415,
+    -131.8998
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "yukon",
+      "name": "Yukon",
+      "coords": [
+        63.0001,
+        -136.0025
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Yukon",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "dawson-city",
+      "name": "Dawson City",
+      "coords": [
+        55.7605,
+        -120.2364
+      ],
+      "emoji": "🏙️",
+      "stepNumber": 2,
+      "description": "Con l’auto ci arrampichiamo sul Midnight Dome, il monte che sovrasta Dawson City, purtroppo la vista sulla città ci viene quasi del tutto impedita dalla foschia.",
+      "category": "Citta",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "top-of-the-world-highway",
+      "name": "Top of The World Highway",
+      "coords": [
+        64.064,
+        -139.4606
+      ],
+      "emoji": "🚙",
+      "stepNumber": 3,
+      "description": "Da qui inizia lo spettacolare percorso della “ Top of The World Highway ”, accompagnati da programmi radiofonici che diffondono bella musica country: sembra di vive...",
+      "category": "Trasferimento",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

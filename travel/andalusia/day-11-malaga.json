@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    36.5923,
+    -4.6799
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "malaga",
+      "name": "Malaga",
+      "coords": [
+        36.7213,
+        -4.4216
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Malaga",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "lalcazaba",
+      "name": "l’Alcazaba",
+      "coords": [
+        36.4313,
+        -5.1186
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "La Cattedrale è manco a dirlo maestosa ma procediamo verso l’Alcazaba, che visitiamo da cima a fondo con attenzione: verso l’esterno offre una splendida veduta oltr...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "torremolinos",
+      "name": "Torremolinos",
+      "coords": [
+        36.6243,
+        -4.4995
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Rientriamo via Ayuntamiento verso il Muelle Uno , di gradevole fattura anche con luce del giorno, andiamo in hotel a ritirare il bagaglio quando sono ormai le 12 ed...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

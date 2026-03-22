@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    28.9487,
+    85.7349
+  ],
+  "mapZoom": 6,
+  "locations": [
+    {
+      "id": "shigatse",
+      "name": "Shigatse",
+      "coords": [
+        27.9735,
+        85.9643
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Shigatse",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "sakya",
+      "name": "Sakya",
+      "coords": [
+        29.9476,
+        81.6456
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lasciamo la Friendship Hwy per Sakya, che raggiungiamo con una digressione di 25 km su sterrato.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "monastero",
+      "name": "Monastero",
+      "coords": [
+        28.9249,
+        89.5947
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Il monastero appartiene infatti alla scuola di Sakya, è retto da una “dinastia” di monaci che hanno il diritto di sposarsi ed avere prole per tramandare la stirpe a...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

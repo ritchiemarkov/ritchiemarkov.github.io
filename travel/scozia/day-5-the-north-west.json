@@ -1,0 +1,85 @@
+{
+  "mapCenter": [
+    57.6159,
+    -4.8472
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "north-west",
+      "name": "North West",
+      "coords": [
+        55.9483,
+        -3.7788
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "The North West",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "coldbackie",
+      "name": "Coldbackie",
+      "coords": [
+        58.5058,
+        -4.3812
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "L’apice della giornata lo vediamo nei pressi di DURNESS, a Coldbackie , una spiaggia che se non fosse per le fresche temperature si potrebbe tranquillamente definir...",
+      "category": "Luogo",
+      "highlights": [
+        "Durness"
+      ]
+    },
+    {
+      "id": "smoo-cave",
+      "name": "Smoo Cave",
+      "coords": [
+        58.5638,
+        -4.7199
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Visitiamo la Smoo Cave , una grotta che accede ad un fiordo ben riparato , abitata nell’antichità da tutte le popolazioni che hanno vissuto o occupato la zona, incl...",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "gairloch",
+      "name": "GAIRLOCH",
+      "coords": [
+        57.728,
+        -5.6903
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Si passa per GAIRLOCH , TORRIDON e SHIELDAIG.",
+      "category": "Luogo",
+      "highlights": [
+        "Torridon",
+        "Shieldaig"
+      ]
+    },
+    {
+      "id": "plockton",
+      "name": "PLOCKTON",
+      "coords": [
+        57.3336,
+        -5.6659
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "La sera ci vede arrivare a PLOCKTON , piccolo villaggio di case imbiancate a calce che sembra essere assai frequentato dai turisti, anche se nessuno pare capirne la...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

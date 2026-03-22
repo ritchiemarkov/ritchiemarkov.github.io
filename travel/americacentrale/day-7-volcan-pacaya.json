@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    14.4707,
+    -90.6655
+  ],
+  "mapZoom": 11,
+  "locations": [
+    {
+      "id": "volcan-pacaya",
+      "name": "Volcan Pacaya",
+      "coords": [
+        14.3829,
+        -90.6015
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Volcan Pacaya",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "vulcani-prossimi-ad-antigua",
+      "name": "vulcani prossimi ad Antigua",
+      "coords": [
+        14.5586,
+        -90.7295
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Uno degli highlights nei dintorni di Antigua è costituito dalla salita al vulcano Acatenango, che richiede due giorni e pernottamento in prossimità della vetta per...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

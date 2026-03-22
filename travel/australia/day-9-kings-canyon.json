@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    -37.044,
+    149.8804
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "garden-of-eden",
+      "name": "Garden of Eden",
+      "coords": [
+        -37.044,
+        149.8804
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Arrivando verso il fondo del canyon si giunge al Garden of Eden , un’oasi di verde cresciuta grazie ad alcune pozzanghere pressoché perenni e alla posizione riparat...",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    59.3033,
+    -126.5802
+  ],
+  "mapZoom": 8,
+  "locations": [
+    {
+      "id": "watson-lake",
+      "name": "Watson Lake",
+      "coords": [
+        60.0624,
+        -128.7068
+      ],
+      "emoji": "🌊",
+      "stepNumber": 1,
+      "description": "Prima tappa a Watson Lake , la cui attrazione è il noto Sign Post Forest, dove i viaggiatori di tutto il mondo hanno affisso oltre 53.",
+      "category": "Lago",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "muncho-lake",
+      "name": "Muncho Lake",
+      "coords": [
+        58.9939,
+        -125.777
+      ],
+      "emoji": "🌊",
+      "stepNumber": 2,
+      "description": "Una cinquantina di km dopo Watson Lake incontriamo una mandria di bisonti che staziona lungo la strada.",
+      "category": "Lago",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "toad-river",
+      "name": "Toad River",
+      "coords": [
+        58.8536,
+        -125.2568
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Costeggiamo il Toad River , che disegna scenari bellissimi.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

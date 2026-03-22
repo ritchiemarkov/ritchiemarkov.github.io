@@ -1,0 +1,54 @@
+{
+  "mapCenter": [
+    38.8809,
+    4.8966
+  ],
+  "mapZoom": 5,
+  "locations": [
+    {
+      "id": "nel-cuore-della-numidia",
+      "name": "Nel cuore della Numidia",
+      "coords": [
+        42.4018,
+        12.8595
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Nel cuore della Numidia",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "constantine",
+      "name": "Constantine",
+      "coords": [
+        36.3642,
+        6.6084
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Rientriamo per la visita di Constantine , che troviamo accogliente oltre le aspettative.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "ponte-sidi-mcid",
+      "name": "ponte Sidi M’Cid",
+      "coords": [
+        37.8766,
+        -4.778
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Attraversando il ponte Sidi M’Cid , sovrastante il fiume Rhummel situato 175 metri più in basso, raggiungiamo il centro (quella che potremmo definire la Casbah) e a...",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

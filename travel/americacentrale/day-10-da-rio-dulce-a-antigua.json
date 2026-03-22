@@ -1,0 +1,25 @@
+{
+  "mapCenter": [
+    15.6583,
+    -88.9958
+  ],
+  "mapZoom": 10,
+  "locations": [
+    {
+      "id": "rio-dulce",
+      "name": "Rio Dulce",
+      "coords": [
+        15.6583,
+        -88.9958
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Da Rio Dulce a Antigua",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

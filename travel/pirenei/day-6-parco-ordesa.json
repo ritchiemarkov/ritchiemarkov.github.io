@@ -1,0 +1,99 @@
+{
+  "mapCenter": [
+    42.9977,
+    0.7279
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "parco-ordesa",
+      "name": "Parco Ordesa",
+      "coords": [
+        42.6476,
+        -0.0557
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Parco Ordesa",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "ainsa",
+      "name": "AINSA",
+      "coords": [
+        42.685,
+        -0.0071
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Torniamo in direzione sud verso AINSA , che visitiamo e ne restiamo positivamente impressionati.",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "bielsa",
+      "name": "BIELSA",
+      "coords": [
+        42.7404,
+        0.193
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "benasque",
+      "name": "BENASQUE",
+      "coords": [
+        42.743,
+        1.4768
+      ],
+      "emoji": "📍",
+      "stepNumber": 4,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "val",
+      "name": "VAL",
+      "coords": [
+        44.0787,
+        3.6453
+      ],
+      "emoji": "📍",
+      "stepNumber": 5,
+      "description": "Tappa del giorno",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "aran",
+      "name": "ARAN",
+      "coords": [
+        43.0916,
+        -0.8847
+      ],
+      "emoji": "📍",
+      "stepNumber": 6,
+      "description": "Fine giornata",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

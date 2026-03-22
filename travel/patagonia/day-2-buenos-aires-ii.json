@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    -50.5097,
+    -72.7683
+  ],
+  "mapZoom": 7,
+  "locations": [
+    {
+      "id": "puerto-madero",
+      "name": "Puerto Madero",
+      "coords": [
+        -51.7267,
+        -72.506
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Proseguendo col bus turistico attraversiamo il quartiere de la Villa, che ci sembra essere più una bidon.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "torre-de-los-ingleses",
+      "name": "Torre de los Ingleses",
+      "coords": [
+        -49.2928,
+        -73.0306
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Vi si trovano anche un paio di bei palazzi e la Torre de los Ingleses , alla cui piazza è stato cambiato il nome dopo la guerra delle Falkland.",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}

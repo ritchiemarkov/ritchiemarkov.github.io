@@ -1,0 +1,55 @@
+{
+  "mapCenter": [
+    -12.3092,
+    49.2996
+  ],
+  "mapZoom": 12,
+  "locations": [
+    {
+      "id": "diego-suarez",
+      "name": "Diego Suarez",
+      "coords": [
+        -12.278,
+        49.2914
+      ],
+      "emoji": "📍",
+      "stepNumber": 1,
+      "description": "Diego Suarez è una città popolata da 185.",
+      "category": "Luogo",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "pain-de-sucre",
+      "name": "Pain de Sucre",
+      "coords": [
+        -12.3029,
+        49.3193
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "In mezzo alla baia un cono dalle linee perfette si erge dall’acqua, è l’isola giustamente chiamata il Pain de Sucre .",
+      "category": "Luogo",
+      "highlights": [
+        "Tappa del diario"
+      ]
+    },
+    {
+      "id": "die",
+      "name": "Die",
+      "coords": [
+        -12.3466,
+        49.2881
+      ],
+      "emoji": "📍",
+      "stepNumber": 3,
+      "description": "Flight TNR - DIE 7:00 - 8:55 La sveglia stamane è più cattiva del solito, del resto non siamo venuti in Madagascar per dormire.",
+      "category": "Luogo",
+      "highlights": [
+        "Tnr",
+        "Fine giornata"
+      ]
+    }
+  ]
+}

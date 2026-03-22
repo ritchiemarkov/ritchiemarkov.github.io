@@ -1,0 +1,39 @@
+{
+  "mapCenter": [
+    6.6067,
+    81.2865
+  ],
+  "mapZoom": 9,
+  "locations": [
+    {
+      "id": "yala-n-p",
+      "name": "Yala N.P",
+      "coords": [
+        6.3725,
+        81.5185
+      ],
+      "emoji": "🌳",
+      "stepNumber": 1,
+      "description": "Yala N.",
+      "category": "Parco naturale",
+      "highlights": [
+        "Inizio giornata"
+      ]
+    },
+    {
+      "id": "rawana-falls",
+      "name": "Rawana Falls",
+      "coords": [
+        6.8409,
+        81.0545
+      ],
+      "emoji": "📍",
+      "stepNumber": 2,
+      "description": "Lasciamo Ella per imboccare la sinuosa strada che porta a Wellawaya, fermandoci poco dopo all’altezza della cascata di Rawana Falls .",
+      "category": "Luogo",
+      "highlights": [
+        "Fine giornata"
+      ]
+    }
+  ]
+}
